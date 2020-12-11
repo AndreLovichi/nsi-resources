@@ -3,7 +3,7 @@ import requests
 
 BASE_URL = "https://swapi.dev/api/"
 
-def fetchFromSwapi(url):
+def fetchAllResults(url):
     results = []
     fetching = True
     nextUrl = url

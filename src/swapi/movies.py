@@ -1,7 +1,10 @@
-import parsers
-import swapi
+from utils import csvUtils
+from utils import parsers
+from swapi import api
 
-MOVIES_URL = swapi.BASE_URL + "films/"
+MOVIES_URL = api.BASE_URL + "films/"
+MOVIES_CSV_FILENAME = "dist/starwars/movies.csv"
+MOVIES_CSV_HEADERS = ["title", "episodeNumber", "year", "director"]
 
 MISSING_MOVIES = [
     { "title": "The Force Awakens", "episode_id": "7", "director": "J. J. Abrams", "release_date": "2015-12-18" },
@@ -22,7 +25,14 @@ class Movie:
 
 
 def fetchAllMovies():
-    rawMovies = swapi.fetchFromSwapi(MOVIES_URL)
+    rawMovies = api.fetchAllResults(MOVIES_URL)
     rawMovies.extend(MISSING_MOVIES)
     movies = [Movie(rawMovie) for rawMovie in rawMovies]
     return movies
+
+
+def createMovieCSV():
+    allMovies = fetchAllMovies()
+    movieRows = [movie.__dict__ for movie in allMovies]
+
+    csvUtils.saveAsCsv(MOVIES_CSV_FILENAME, MOVIES_CSV_HEADERS, movieRows)

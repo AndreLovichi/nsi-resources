@@ -1,7 +1,10 @@
-import parsers
-import swapi
+from utils import csvUtils
+from utils import parsers
+from swapi import api
 
-PLANETS_URL = swapi.BASE_URL + "planets/"
+PLANETS_URL = api.BASE_URL + "planets/"
+PLANET_CSV_FILENAME = "dist/starwars/planets.csv"
+PLANET_CSV_HEADERS = ["name", "climate", "terrain", "population", "diameter"]
 
 class Planet:
     def __init__(self, rawPlanet):
@@ -16,6 +19,15 @@ class Planet:
 
 
 def fetchAllPlanets():
-    rawPlanets = swapi.fetchFromSwapi(PLANETS_URL)
+    rawPlanets = api.fetchAllResults(PLANETS_URL)
     planets = [Planet(rawPlanet) for rawPlanet in rawPlanets]
     return planets
+
+def isValidPlanet(planet):
+    return (planet.population != None) and (planet.diameter != None) and (planet.diameter != 0) and (planet.climate != "unknown") and (planet.terrain != "unknown")
+
+def createPlanetCSV():
+    allPlanets = fetchAllPlanets()
+    planetRows = [planet.__dict__ for planet in allPlanets if isValidPlanet(planet)]
+
+    csvUtils.saveAsCsv(PLANET_CSV_FILENAME, PLANET_CSV_HEADERS, planetRows)
