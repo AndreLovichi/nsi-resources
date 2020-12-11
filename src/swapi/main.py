@@ -4,7 +4,7 @@ import planets
 
 
 # PLANETS
-planetFilename = "planets.csv"
+planetFilename = "dist/swapi/planets.csv"
 planetHeaders = ["name", "climate", "terrain", "population", "diameter"]
 
 def isValidPlanet(planet):
@@ -17,7 +17,7 @@ csvUtils.saveAsCsv(planetFilename, planetHeaders, planetRows)
 
 
 # MOVIES
-movieFilename = "movies.csv"
+movieFilename = "dist/swapi/movies.csv"
 movieHeaders = ["title", "episodeNumber", "year", "director"]
 
 allMovies = movies.fetchAllMovies()
