@@ -3,6 +3,13 @@ import swapi
 
 MOVIES_URL = swapi.BASE_URL + "films/"
 
+MISSING_MOVIES = [
+    { "title": "The Force Awakens", "episode_id": "7", "director": "J. J. Abrams", "release_date": "2015-12-18" },
+    { "title": "The Last Jedi", "episode_id": "8", "director": "Rian Johnson", "release_date": "2017-12-15" },
+    { "title": "The Rise of Skywalker", "episode_id": "9", "director": "J. J. Abrams", "release_date": "2019-12-20" },
+]
+
+
 class Movie:
     def __init__(self, rawMovie):
         self.title = rawMovie["title"]
@@ -16,5 +23,6 @@ class Movie:
 
 def fetchAllMovies():
     rawMovies = swapi.fetchFromSwapi(MOVIES_URL)
+    rawMovies.extend(MISSING_MOVIES)
     movies = [Movie(rawMovie) for rawMovie in rawMovies]
     return movies
