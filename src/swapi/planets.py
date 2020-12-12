@@ -3,8 +3,8 @@ from utils import parsers
 from swapi import api
 
 PLANETS_URL = api.BASE_URL + "planets/"
-PLANET_CSV_FILENAME = "dist/starwars/planets.csv"
-PLANET_CSV_HEADERS = ["name", "climate", "terrain", "population", "diameter"]
+DIST_CSV_FILEPATH = "dist/starwars/planets.csv"
+DIST_CSV_HEADERS = ["name", "climate", "terrain", "population", "diameter"]
 
 class Planet:
     def __init__(self, rawPlanet):
@@ -30,4 +30,4 @@ def createPlanetCSV():
     allPlanets = fetchAllPlanets()
     planetRows = [planet.__dict__ for planet in allPlanets if isValidPlanet(planet)]
 
-    csvUtils.saveAsCsv(PLANET_CSV_FILENAME, PLANET_CSV_HEADERS, planetRows)
+    csvUtils.saveAsCsv(DIST_CSV_FILEPATH, DIST_CSV_HEADERS, planetRows)
