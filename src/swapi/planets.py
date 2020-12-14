@@ -28,6 +28,7 @@ def isValidPlanet(planet):
 
 def createPlanetCSV():
     allPlanets = fetchAllPlanets()
-    planetRows = [planet.__dict__ for planet in allPlanets if isValidPlanet(planet)]
+    planetRows = [planet.__dict__ for planet in allPlanets]
+    # planetRows = [planet.__dict__ for planet in allPlanets if isValidPlanet(planet)]
 
     csvUtils.saveAsCsv(DIST_CSV_FILEPATH, DIST_CSV_HEADERS, planetRows)

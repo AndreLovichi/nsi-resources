@@ -2,6 +2,8 @@ name,climate,terrain,population,diameter
 Tatooine,arid,desert,200000,10465
 Alderaan,temperate,"grasslands, mountains",2000000000,12500
 Yavin IV,"temperate, tropical","jungle, rainforests",1000,10200
+Hoth,frozen,"tundra, ice caves, mountain ranges",,7200
+Dagobah,murky,"swamp, jungles",,8900
 Bespin,temperate,gas giant,6000000,118000
 Endor,temperate,"forests, mountains, lakes",30000000,4900
 Naboo,temperate,"grassy hills, swamps, forests, mountains",4500000000,12120
@@ -11,9 +13,12 @@ Geonosis,"temperate, arid","rock, desert, mountain, barren",100000000000,11370
 Utapau,"temperate, arid, windy","scrublands, savanna, canyons, sinkholes",95000000,12900
 Mustafar,hot,"volcanoes, lava rivers, mountains, caves",20000,4200
 Kashyyyk,tropical,"jungle, forests, lakes, rivers",45000000,12765
+Polis Massa,artificial temperate ,airless asteroid,1000000,0
 Mygeeto,frigid,"glaciers, mountains, ice canyons",19000000,10088
 Felucia,"hot, humid",fungus forests,8500000,9100
+Cato Neimoidia,"temperate, moist","mountains, fields, forests, rock arches",10000000,0
 Saleucami,hot,"caves, desert, mountains, volcanoes",1400000000,14920
+Stewjon,temperate,grass,,0
 Eriadu,polluted,cityscape,22000000000,13490
 Corellia,temperate,"plains, urban, hills, forests",3000000000,11000
 Rodia,hot,"jungles, oceans, urban, swamps",1300000000,7549
@@ -21,6 +26,9 @@ Nal Hutta,temperate,"urban, oceans, swamps, bogs",7000000000,12150
 Dantooine,temperate,"oceans, savannas, mountains, grasslands",1000,9830
 Bestine IV,temperate,"rocky islands, oceans",62000000,6400
 Ord Mantell,temperate,"plains, seas, mesas",4000000000,14050
+unknown,unknown,unknown,,0
+Trandosha,arid,"mountains, seas, grasslands, deserts",42000000,0
+Socorro,arid,"deserts, mountains",300000000,0
 Mon Cala,temperate,"oceans, reefs, islands",27000000000,11030
 Chandrila,temperate,"plains, forests",1200000000,13500
 Sullust,superheated,"mountains, volcanoes, rocky deserts",18500000000,12780
@@ -28,8 +36,26 @@ Toydaria,temperate,"swamps, lakes",11000000,7900
 Malastare,"arid, temperate, tropical","swamps, deserts, jungles, mountains",2000000000,18880
 Dathomir,temperate,"forests, deserts, savannas",5200,10480
 Ryloth,"temperate, arid, subartic","mountains, valleys, deserts, tundra",1500000000,10600
+Aleen Minor,unknown,unknown,,
 Vulpter,"temperate, artic","urban, barren",421000000,14900
+Troiken,unknown,"desert, tundra, rainforests, mountains",,
+Tund,unknown,"barren, ash",0,12190
 Haruun Kal,temperate,"toxic cloudsea, plateaus, volcanoes",705300,10120
+Cerea,temperate,verdant,450000000,
 Glee Anselm,"tropical, temperate","lakes, islands, swamps, seas",500000000,15600
+Iridonia,unknown,"rocky canyons, acid pools",,
+Tholoth,unknown,unknown,,
+Iktotch,"arid, rocky, windy",rocky,,
+Quermia,unknown,unknown,,
+Dorin,temperate,unknown,,13400
+Champala,temperate,"oceans, rainforests, plateaus",3500000000,
+Mirial,unknown,deserts,,
+Serenno,unknown,"rainforests, rivers, mountains",,
+Concord Dawn,unknown,"jungles, forests, deserts",,
+Zolan,unknown,unknown,,
+Ojom,frigid,"oceans, glaciers",500000000,
+Skako,temperate,"urban, vines",500000000000,
 Muunilinst,temperate,"plains, forests, hills, mountains",5000000000,13800
+Shili,temperate,"cities, savannahs, seas, plains",,
 Kalee,"arid, temperate, tropical","rainforests, cliffs, canyons, seas",4000000000,13850
+Umbara,unknown,unknown,,
