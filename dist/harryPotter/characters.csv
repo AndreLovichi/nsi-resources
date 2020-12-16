@@ -1,141 +1,138 @@
-name,house,wand,patronus,gender,species,bloodStatus,hairColor,eyeColor
-Harry James Potter,Gryffindor,"11"" Holly phoenix feather",Stag,Male,Human,Half-blood,Black,Black
-Ronald Bilius Weasley,Gryffindor,"12"" Ash unicorn tail hair ",Jack Russell terrier,Male,Human,Pure-blood,Red,Red
-Hermione Jean Granger,Gryffindor,"10¾"" vine wood dragon heartstring",Otter,Female,Human,Muggle-born,Brown,Brown
-Albus Percival Wulfric Brian Dumbledore,Gryffindor,"15"" Elder Thestral tail hair core",Phoenix,Male,Human,Half-blood,Silver| formerly auburn,Silver| formerly auburn
-Rubeus Hagrid,Gryffindor,"16"" Oak unknown core",None,Male,Half-Human/Half-Giant,Part-Human (Half-giant),Black,Black
-Neville Longbottom,Gryffindor,"13"" Cherry unicorn hair",Non-corporeal,Male,Human,Pure-blood,Blond,Blond
-Fred Weasley,Gryffindor,Unknown,Unknown,Male,Human,Pure-blood,Red,Red
-George Weasley,Gryffindor,Unknown,Unknown,Male,Human,Pure-blood,Red,Red
-Ginevra (Ginny) Molly Weasley,Gryffindor,Unknown,Horse,Female,Human,Pure-blood,Red,Red
-Dean Thomas,Gryffindor,Unknown,Unknown,Male,Human,Muggle-born,Black,Black
-Seamus Finnigan,Gryffindor,Unknown,Fox,Male,Human,Half-blood,Sandy,Sandy
-Lily J. Potter,Gryffindor,"10¼"" Willow unknown core",Doe,Female,Human,Muggle-born,Auburn,Auburn
-James Potter,Gryffindor,"11"" Mahogany unknown core",Stag,Male,Human,Pure-blood,Black,Black
-Sirius Black,Gryffindor,Unknown,Unknown,Male,Human,Pure-blood,Black,Black
-Remus John Lupin,Gryffindor,"10¼"" Cypress unicorn hair",Wolf,Male,Werewolf,Half-blood,Light brown flecked with grey,Light brown flecked with grey
-Peter Pettigrew,Gryffindor,"9¼"" Chestnut dragon heartstring",None,Male,Human,Half-blood or pure-blood,Colourless and balding,Colourless and balding
-Percy Ignatius Weasley,Gryffindor,Unknown,Unknown,Male,Human,Pure-blood,Red,Red
-(Bill) William Arthur Weasley,Gryffindor,Unknown,Unknown,Male,Human (Werewolf traits),Pure-blood,Red,Red
-Charles Weasley,Gryffindor,"12"" Ash unicorn tail hair",Unknown,Male,Human,Pure-blood,Red,Red
-Lee Jordan ,Gryffindor,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Black,Black
-Oliver Wood,Gryffindor,Unknown,Unknown,Male,Human,Pure-blood or Half-blood,,
-Angelina Johnson,Gryffindor,Unknown,Unknown,Female,Human,Unknown,Brown,Brown
-Katie Bell,Gryffindor,Unknown,Unknown,Female,Human,Pure-blood or half-blood,Brown,Brown
-Alicia Spinnet,Gryffindor,Unknown,Unknown,Female,Human,Pure-blood or half-blood,Brown,Brown
-Lavender Brown,Gryffindor,Unknown,Unknown,Female,Human,Pure-blood,Blond,Blond
-Parvati Patil,Gryffindor,Unknown,Unknown,Female,Human,Pure-blood or half-blood,Dark,Dark
-Romilda Vane,Gryffindor,Unknown,Unknown,Female,Human,Pure-blood or half-blood,Black,Black
-Colin Creevey,Gryffindor,Unknown,Unknown,Male,Human,Muggle-born,Mousy,Mousy
-Cormac McLaggen,Gryffindor,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Blond,Blond
-Minerva McGonagall,Gryffindor,"9½"" Fir dragon heartstring",Cat,Female,Human,Half-blood,Black,Black
-Molly Weasley,Gryffindor,Unknown,Unknown,Female,Human,Pure-blood,Red,Red
-Arthur Weasley,Gryffindor,Unknown,Weasel,Male,Human,Pure-blood,Red,Red
-Quirinus Quirrell,Ravenclaw,"9"" Alder unicorn hair bendy",Non-corporeal,Male,Human,Half-blood,,
-Cho Chang,Ravenclaw,Unknown,Swan,Female,Human,Pure-blood or half-blood,Black,Black
-Luna Lovegood,Ravenclaw,Unknown,Hare,Female,Human,Pure-blood or half-blood,Dirty-blonde,Dirty-blonde
-Gilderoy Lockhart,Ravenclaw,"9"" Cherry dragon heartstring",Non-corporeal,Male,Human,Half-blood,Blond,Blond
-Filius Flitwick,Ravenclaw,Unknown,Non-corporeal,Male,Human(goblin ancestry),Part-Goblin,White,White
-Sybill Patricia Trelawney,Ravenclaw,9 ½” hazel unicorn hair core,Non-corporeal,Female,Human,Half-blood,,
-Garrick Ollivander,Ravenclaw,"12¾"" Hornbeam dragon heartstring",Non-corporeal,Male,Human,Half-blood,,
-Myrtle Elizabeth Warren (Moaning Myrtle),Ravenclaw,Unknown,Unknown,Female,Ghost,Muggle-born,,
-Padma Patil,Ravenclaw,Unknown,Non-corporeal,Female,Human,Pure-blood or half-blood,Dark,Dark
-Michael Corner,Ravenclaw,Unknown,Squirrel,Male,Human,Half-blood,Black,Black
-Marietta Edgecombe,Ravenclaw,Unknown,Unknown,Female,Human,Pure-blood or half-blood,Reddish-blonde,Reddish-blonde
-Terry Boot,Ravenclaw,Unknown,Unknown,Male,Human,Pure-blood or half-blood,,
-Anthony Goldstein,Ravenclaw,Unknown,Non-corporeal,Male,Human,Half-blood,Blonde,Blonde
-Severus Snape,Slytherin,Unknown,Doe,Male,Human,Half-blood,Black,Black
-Draco Malfoy,Slytherin,"10"" Hawthorn unicorn hair",Unknown,Male,Human,Pure-blood,White-blond,White-blond
-Vincent Crabbe,Slytherin,Unknown,Unknown,Male,Human,Pure-blood,Black,Black
-Gregory Goyle,Slytherin,Unknown,Unknown,Male,Human,Pure-blood,Brown,Brown
-Bellatrix Lestrange,Slytherin,"12¾"" Walnut dragon heartstring",,Female,Human,Pure-blood,Black,Black
-Dolores Jane Umbridge,Slytherin,"8"" Birch dragon heartstring",Cat,Female,Human,Half-blood,Iron grey,Iron grey
-Horace Eugene Flaccus Slughorn,Slytherin,"10¼"" Cedar dragon heartstring fairly flexible",Non-corporeal,,Human,Pure-blood or half-blood,Bald,Bald
-Lucius Malfoy,Slytherin,Elm and dragon heartstring,Unknown,Male,Human,Pure-blood,White-blond,White-blond
-Narcissa Malfoy,Slytherin,Unknown,Unknown,Female,Human,Pure-blood,Blonde,Blonde
-Regulus Arcturus Black,Slytherin,Unknown,Non-corporeal,Male,Human,Pure-blood,Black,Black
-Pansy Parkinson,Slytherin,Unknown,Unknown,Female,Human,Pure-blood or half-blood,,
-Blaise Zabini,Slytherin,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Black,Black
-Tom Marvolo Riddle,Slytherin,"13½"" Yew phoenix feather core",Unknown,Male,Human,Half-blood,Bald,Bald
-Theodore Nott,Slytherin,Unknown,Unknown,Male,Human,Pure-blood,Brown,Brown
-Rodolphus Lestrange,Slytherin,Unknown,Unknown,Male,Human,Pure-blood,Dark,Dark
-Millicent Bulstrode,Slytherin,Unknown,Unknown,Female,Human,Half-blood,Black,Black
-Graham Montague,Slytherin,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Brown,Brown
-Bloody Baron,Slytherin,Unknown,Unknown,Male,Ghost,Pure-blood or half-blood,,
-Marcus Flint,Slytherin,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Black,Black
-Penelope Clearwater,Ravenclaw,Unknown,Non-corporeal,Female,Human,Muggle-born or half-blood[,Blonde,Blonde
-Roger Davies,Ravenclaw,Unknown,Unknown,Male,Human,,Dark,Dark
-Marcus Belby,Ravenclaw,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Brown,Brown
-Salazar Slytherin,Slytherin,"snakewood, Basilisk horn",Unknown,Male,Human,Pure-blood,Grey,Grey
-Godric Gryffindor,Gryffindor,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Red,Red
-Rowena Ravenclaw,Ravenclaw,Unknown,Unknown,Female,Human,Pure-blood or half-blood,Black,Black
-Nicholas de Mimsy-Porpington,Gryffindor,Unknown,Unknown,Male,Ghost,,Grey,Grey
-Cuthbert Binns,,Unknown,Unknown,Male,Ghost,,White (balding),White (balding)
-Barty Crouch Jr.,,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Straw blond,Straw blond
-Charity Burbage,,Unknown,Non-corporeal,Female,Human,Pure-blood or half-blood,Blonde,Blonde
-Firenze,,,,Male,Centaur,,White-blond,White-blond
-Alecto Carrow,Slytherin,Unknown,Unknown,Female,Human,Pure-blood or half-blood,,
-Amycus Carrow,Slytherin,Unknown,Unknown,Male,Human,Pure-blood or half-blood,,
-Helga Hufflepuff,Hufflepuff,Unknown,Unknown,Female,Human,Pure-blood or half-blood,Brown,Brown
-Fat Friar,Hufflepuff,Unknown,Unknown,Male,Ghost,,Brown,Brown
-Helena Ravenclaw,Ravenclaw,Unknown,Unknown,Female,Ghost,Pure-blood or half-blood,Black,Black
-Nymphadora Tonks,Hufflepuff,Unknown,"Jack rabbit, Wolf",Female,Human,Half-blood,Variable,Variable
-Pomona Sprout,Hufflepuff,Unknown,Non-corporeal,Female,Human,Pure-blood or half-blood,,
-Newton Scamander,Hufflepuff,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Red brown,Red brown
-Cedric Diggory,Hufflepuff,"12¼"", Ash, unicorn hair",Unknown,Male,Human,Pure-blood,Dark,Dark
-Justin Finch-Fletchley,Hufflepuff,Unknown,Non-corporeal,Male,Human,Muggle-born,Red,Red
-Zacharias Smith,Hufflepuff,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Blonde,Blonde
-Hannah Abbott,Hufflepuff,Unknown,Non-corporeal,Female,Human,Half-blood,Blonde,Blonde
-Ernest Macmillan,Hufflepuff,Unknown,Boar,Male,Human,Pure-blood,Blond,Blond
-Susan Bones,Hufflepuff,Unknown,Unknown,Female,Human,Half-blood,,
-Walden Macnair,Slytherin,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Black,Black
-Augustus Rookwood,Slytherin,Unknown,None,Male,Human,Pure-blood or half-blood,Brown/greying,Brown/greying
-Antonin Dolohov,Slytherin,Unknown,None,Male,Human,Pure-blood or Half-blood,Dark,Dark
-Corban Yaxley,Slytherin,Unknown,None,Male,Human,Pure-blood or Half-blood,Blonde,Blonde
-Igor Karkaroff,,Unknown,None,Male,Human,Pure-blood or Half-blood,Silver| formerly black,Silver| formerly black
-Kingsley Shacklebolt,,Unknown,Lynx,Male,Human,Pure-blood,Bald,Bald
-Alastor Moody,,Unknown,Non-corporeal,Male,Human,Pure-blood,Grey,Grey
-Alice Longbottom,,Unknown,Unknown,Female,Human,Pure-blood,Blonde,Blonde
-Frank Longbottom,Gryffindor,"Inherited by his son, Neville. It was broken in battle at the Department of Mysteries.",Unknown,Male,Human,Pure-blood,Blonde,Blonde
-Rufus Scrimgeour,,Unknown,Non-corporeal,Male,Human,,Tawny,Tawny
-Cornelius Oswald Fudge,,Unknown,Non-corporeal,Male,Human,Pure-blood or Half-blood,Grey,Grey
-Barty Crouch Sr.,,Unknown,Non-corporeal,Male,Human,Pure-blood,Grey,Grey
-Amos Diggory,,Unknown,Non-corporeal,Male,Human,Pure-blood or half-blood,Brown,Brown
-Dedalus Diggle,,Unknown,Non-corporeal,Male,Human,Pure-blood or half-blood,,
-Elphias Doge,,Unknown,Non-corporeal,Male,Human,Pure-blood,Silver,Silver
-Fleur Isabelle Delacour,Beauxbatons Academy of Magic,"9½"", Rosewood, veela hair",Non-corporeal,Female,Human,Quarter-Veela,Silvery-blonde,Silvery-blonde
-Aberforth Dumbledore,,Unknown,Goat,Male,Human,Half-blood,Grey,Grey
-Mundungus Fletcher,,Unknown,Non-corporeal,Male,Human,Half-blood[,Ginger,Ginger
-Sturgis Podmore,,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Straw-coloured,Straw-coloured
-Hestia Jones,,Unknown,Unknown,Female,Human,Pure-blood or half-blood,Black,Black
-Marlene McKinnon,,Unknown,Unknown,Female,Human,,Red,Red
-Fabian Prewett,,Unknown,Unknown,Male,Human,Pure-blood,Red,Red
-Gideon Prewett,,Unknown,Unknown,Male,Human,Pure-blood,Red ,Red 
-Emmeline Vance,,Unknown,Unknown,Female,Human,,,
-Edgar Bones,Hufflepuff,Unknown,Unknown,Male,Human,Pure-blood or half-blood,Reddish-brown,Reddish-brown
-Dorcas Meadowes,,Unknown,Unknown,Female,Human,,Black,Black
-Benjy Fenwick,,Unknown,Unknown,Male,Human,,Black,Black
-Madame Olympe Maxime,Beauxbatons Academy of Magic,Unknown,Unknown,Female,Half-Human/Half-Giant,Part-Human (Half-giant),Brown,Brown
-Gabrielle Delacour,Beauxbatons Academy of Magic,Unknown,Unknown,Female,Human ,Quarter-Veela,Silvery-blonde,Silvery-blonde
-Viktor Krum,Durmstrang Institute,"10¼"", Hornbeam, dragon heartstring",Unknown,Male,Human ,Pure-blood or half-blood,Dark,Dark
-Petunia Dursley,,,,Female,Human ,Muggle,Blonde,Blonde
-Vernon Dursley,,,,Male,Human ,Muggle,Black,Black
-Dudley Dursley,,,,Male,Human ,Muggle,Blond,Blond
-Marge Dursley,,,,Female,Human ,Muggle,Grey,Grey
-Dennis Creevey,Gryffindor,Unknown,Unknown,Male,Human ,Muggle-born,Mousy brown,Mousy brown
-Albus Severus Potter,Slytherin,Unknown,Unknown,Male,Human ,Half-blood,Jet-black,Jet-black
-Scorpius Hyperion Malfoy,Slytherin,Unknown,Unknown,Male,Human ,Pure-blood,White blond,White blond
-Edward Remus Lupin,Hufflepuff,Unknown,Unknown,Male,Human (Metamorphmagus),Half-blood,Variable,Variable
-James Sirius Potter,Gryffindor,Unknown,Unknown,Male,Human ,Half-blood,,
-Rose Granger-Weasley,Gryffindor,Unknown,Unknown,Female,Human ,Half-blood,Red,Red
-Argus Filch,,,,Male,Human ,Squib,Grey,Grey
-Poppy Pomfrey,,Unknown,Non-corporeal,Female,Human ,Pure-blood or half-blood,,
-Rolanda Hooch,,Unknown,Non-corporeal,Female,Human ,,Grey,Grey
-Irma Pince,,Unknown,Non-corporeal,Female,Human ,,,
-Aurora Sinistra,,Unknown,Unknown,Female,Human ,Pure-blood or half-blood,Dark,Dark
-Septima Vector,,Unknown,Unknown,Female,Human ,,Black,Black
-Wilhelmina Grubbly-Plank,,Unknown,Non-corporeal,Female,Human ,,Grey,Grey
-Fenrir Greyback,,Unknown,None,Male,Werewolf,,Grey,Grey
-Gellert Grindelwald,,"15"", Elder, Thestral tail hair core",,Male,Human ,Pure-blood or half-blood,Blond,Blond
-Dobby,,,,Male,House elf,,Green,Green
-Kreacher,,,,Male,House elf,,White,White
+firstName,lastName,house,gender,bloodStatus,hairColor,eyeColor
+Harry James,Potter,Gryffindor,Male,Half-blood,Black,Bright green
+Ronald Bilius,Weasley,Gryffindor,Male,Pure-blood,Red,Blue
+Hermione Jean,Granger,Gryffindor,Female,Muggle-born,Brown,Brown
+Albus Percival Wulfric Brian,Dumbledore,Gryffindor,Male,Half-blood,Silver| formerly auburn,Blue
+Rubeus,Hagrid,Gryffindor,Male,Part-Human (Half-giant),Black,Black
+Neville,Longbottom,Gryffindor,Male,Pure-blood,Blond,
+Fred,Weasley,Gryffindor,Male,Pure-blood,Red,Brown
+George,Weasley,Gryffindor,Male,Pure-blood,Red,Brown
+Ginevra (Ginny) Molly,Weasley,Gryffindor,Female,Pure-blood,Red,Bright brown
+Dean,Thomas,Gryffindor,Male,Muggle-born,Black,Brown
+Seamus,Finnigan,Gryffindor,Male,Half-blood,Sandy,
+Lily J.,Potter,Gryffindor,Female,Muggle-born,Auburn,Bright green
+James,Potter,Gryffindor,Male,Pure-blood,Black,Hazel
+Sirius,Black,Gryffindor,Male,Pure-blood,Black,Grey
+Remus John,Lupin,Gryffindor,Male,Half-blood,Light brown flecked with grey,Green
+Peter,Pettigrew,Gryffindor,Male,Half-blood or pure-blood,Colourless and balding,Blue
+Percy Ignatius,Weasley,Gryffindor,Male,Pure-blood,Red,Blue
+(Bill) William Arthur,Weasley,Gryffindor,Male,Pure-blood,Red,Blue
+Charles,Weasley,Gryffindor,Male,Pure-blood,Red,Grey
+Lee,Jordan,Gryffindor,Male,Pure-blood or half-blood,Black,Brown
+Oliver,Wood,Gryffindor,Male,Pure-blood or Half-blood,,
+Angelina,Johnson,Gryffindor,Female,Unknown,Brown,Brown
+Katie,Bell,Gryffindor,Female,Pure-blood or half-blood,Brown,Brown
+Alicia,Spinnet,Gryffindor,Female,Pure-blood or half-blood,Brown,Brown
+Lavender,Brown,Gryffindor,Female,Pure-blood,Blond,Blue
+Parvati,Patil,Gryffindor,Female,Pure-blood or half-blood,Dark,Dark
+Romilda,Vane,Gryffindor,Female,Pure-blood or half-blood,Black,Dark
+Colin,Creevey,Gryffindor,Male,Muggle-born,Mousy,
+Cormac,McLaggen,Gryffindor,Male,Pure-blood or half-blood,Blond,
+Minerva,McGonagall,Gryffindor,Female,Half-blood,Black,Green
+Molly,Weasley,Gryffindor,Female,Pure-blood,Red,Bright brown
+Arthur,Weasley,Gryffindor,Male,Pure-blood,Red,Green
+Quirinus,Quirrell,Ravenclaw,Male,Half-blood,,
+Cho,Chang,Ravenclaw,Female,Pure-blood or half-blood,Black,Dark
+Luna,Lovegood,Ravenclaw,Female,Pure-blood or half-blood,Dirty-blonde,Pale silvery
+Gilderoy,Lockhart,Ravenclaw,Male,Half-blood,Blond,Blue
+Filius,Flitwick,Ravenclaw,Male,Part-Goblin,White,
+Sybill Patricia,Trelawney,Ravenclaw,Female,Half-blood,,
+Garrick,Ollivander,Ravenclaw,Male,Half-blood,,Silvery
+Myrtle Elizabeth Warren (Moaning,Myrtle),Ravenclaw,Female,Muggle-born,,
+Padma,Patil,Ravenclaw,Female,Pure-blood or half-blood,Dark,Dark
+Michael,Corner,Ravenclaw,Male,Half-blood,Black,Brown
+Marietta,Edgecombe,Ravenclaw,Female,Pure-blood or half-blood,Reddish-blonde,Grey
+Terry,Boot,Ravenclaw,Male,Pure-blood or half-blood,,
+Anthony,Goldstein,Ravenclaw,Male,Half-blood,Blonde,Grey
+Severus,Snape,Slytherin,Male,Half-blood,Black,Black
+Draco,Malfoy,Slytherin,Male,Pure-blood,White-blond,Grey
+Vincent,Crabbe,Slytherin,Male,Pure-blood,Black,Black
+Gregory,Goyle,Slytherin,Male,Pure-blood,Brown,
+Bellatrix,Lestrange,Slytherin,Female,Pure-blood,Black,
+Dolores Jane,Umbridge,Slytherin,Female,Half-blood,Iron grey,
+Horace Eugene Flaccus,Slughorn,Slytherin,,Pure-blood or half-blood,Bald,Gooseberry
+Lucius,Malfoy,Slytherin,Male,Pure-blood,White-blond,Grey
+Narcissa,Malfoy,Slytherin,Female,Pure-blood,Blonde,Blue
+Regulus Arcturus,Black,Slytherin,Male,Pure-blood,Black,
+Pansy,Parkinson,Slytherin,Female,Pure-blood or half-blood,,
+Blaise,Zabini,Slytherin,Male,Pure-blood or half-blood,Black,Brown
+Tom Marvolo,Riddle,Slytherin,Male,Half-blood,Bald,Scarlet 
+Theodore,Nott,Slytherin,Male,Pure-blood,Brown,
+Rodolphus,Lestrange,Slytherin,Male,Pure-blood,Dark,Dark
+Millicent,Bulstrode,Slytherin,Female,Half-blood,Black,
+Graham,Montague,Slytherin,Male,Pure-blood or half-blood,Brown,Brown
+Bloody,Baron,Slytherin,Male,Pure-blood or half-blood,,
+Marcus,Flint,Slytherin,Male,Pure-blood or half-blood,Black,
+Penelope,Clearwater,Ravenclaw,Female,Muggle-born or half-blood[,Blonde,
+Roger,Davies,Ravenclaw,Male,,Dark,Dark
+Marcus,Belby,Ravenclaw,Male,Pure-blood or half-blood,Brown,Dark
+Salazar,Slytherin,Slytherin,Male,Pure-blood,Grey,Dark
+Godric,Gryffindor,Gryffindor,Male,Pure-blood or half-blood,Red,Green
+Rowena,Ravenclaw,Ravenclaw,Female,Pure-blood or half-blood,Black,Dark
+Nicholas de,Mimsy-Porpington,Gryffindor,Male,,Grey,
+Cuthbert,Binns,,Male,,White (balding),Black
+Barty Crouch,Jr.,,Male,Pure-blood or half-blood,Straw blond,"Pale, freckled"
+Charity,Burbage,,Female,Pure-blood or half-blood,Blonde,
+Alecto,Carrow,Slytherin,Female,Pure-blood or half-blood,,
+Amycus,Carrow,Slytherin,Male,Pure-blood or half-blood,,
+Helga,Hufflepuff,Hufflepuff,Female,Pure-blood or half-blood,Brown,Blue
+Fat,Friar,Hufflepuff,Male,,Brown,
+Helena,Ravenclaw,Ravenclaw,Female,Pure-blood or half-blood,Black,Grey
+Nymphadora,Tonks,Hufflepuff,Female,Half-blood,Variable,Variable
+Pomona,Sprout,Hufflepuff,Female,Pure-blood or half-blood,,Grey
+Newton,Scamander,Hufflepuff,Male,Pure-blood or half-blood,Red brown,Blue
+Cedric,Diggory,Hufflepuff,Male,Pure-blood,Dark,Grey
+Justin,Finch-Fletchley,Hufflepuff,Male,Muggle-born,Red,
+Zacharias,Smith,Hufflepuff,Male,Pure-blood or half-blood,Blonde,
+Hannah,Abbott,Hufflepuff,Female,Half-blood,Blonde,Brown
+Ernest,Macmillan,Hufflepuff,Male,Pure-blood,Blond,
+Susan,Bones,Hufflepuff,Female,Half-blood,,
+Walden,Macnair,Slytherin,Male,Pure-blood or half-blood,Black,
+Augustus,Rookwood,Slytherin,Male,Pure-blood or half-blood,Brown/greying,
+Antonin,Dolohov,Slytherin,Male,Pure-blood or Half-blood,Dark,
+Corban,Yaxley,Slytherin,Male,Pure-blood or Half-blood,Blonde,Blue
+Igor,Karkaroff,,Male,Pure-blood or Half-blood,Silver| formerly black,
+Kingsley,Shacklebolt,,Male,Pure-blood,Bald,Black
+Alastor,Moody,,Male,Pure-blood,Grey,"One dark, one electric blue"
+Alice,Longbottom,,Female,Pure-blood,Blonde,
+Frank,Longbottom,Gryffindor,Male,Pure-blood,Blonde,
+Rufus,Scrimgeour,,Male,,Tawny,Yellowish
+Cornelius Oswald,Fudge,,Male,Pure-blood or Half-blood,Grey,
+Barty Crouch,Sr.,,Male,Pure-blood,Grey,
+Amos,Diggory,,Male,Pure-blood or half-blood,Brown,Ruddy
+Dedalus,Diggle,,Male,Pure-blood or half-blood,,
+Elphias,Doge,,Male,Pure-blood,Silver,Grey/Blue[
+Fleur Isabelle,Delacour,Beauxbatons Academy of Magic,Female,Quarter-Veela,Silvery-blonde,Dark blue[
+Aberforth,Dumbledore,,Male,Half-blood,Grey,Bright Blue
+Mundungus,Fletcher,,Male,Half-blood[,Ginger,Brown
+Sturgis,Podmore,,Male,Pure-blood or half-blood,Straw-coloured,Brown
+Hestia,Jones,,Female,Pure-blood or half-blood,Black,
+Marlene,McKinnon,,Female,,Red,Brown
+Fabian,Prewett,,Male,Pure-blood,Red,Grey
+Gideon,Prewett,,Male,Pure-blood,Red ,Dark Grey
+Emmeline,Vance,,Female,,,
+Edgar,Bones,Hufflepuff,Male,Pure-blood or half-blood,Reddish-brown,Grey
+Dorcas,Meadowes,,Female,,Black,Brown
+Benjy,Fenwick,,Male,,Black,Black
+Madame Olympe,Maxime,Beauxbatons Academy of Magic,Female,Part-Human (Half-giant),Brown,Black
+Gabrielle,Delacour,Beauxbatons Academy of Magic,Female,Quarter-Veela,Silvery-blonde,
+Viktor,Krum,Durmstrang Institute,Male,Pure-blood or half-blood,Dark,Dark
+Petunia,Dursley,,Female,Muggle,Blonde,
+Vernon,Dursley,,Male,Muggle,Black,
+Dudley,Dursley,,Male,Muggle,Blond,Blue
+Marge,Dursley,,Female,Muggle,Grey,
+Dennis,Creevey,Gryffindor,Male,Muggle-born,Mousy brown,
+Albus Severus,Potter,Slytherin,Male,Half-blood,Jet-black,Bright green
+Scorpius Hyperion,Malfoy,Slytherin,Male,Pure-blood,White blond,Grey
+Edward Remus,Lupin,Hufflepuff,Male,Half-blood,Variable,Variable
+James Sirius,Potter,Gryffindor,Male,Half-blood,,
+Rose,Granger-Weasley,Gryffindor,Female,Half-blood,Red,
+Argus,Filch,,Male,Squib,Grey,Pale
+Poppy,Pomfrey,,Female,Pure-blood or half-blood,,
+Rolanda,Hooch,,Female,,Grey,Yellow
+Irma,Pince,,Female,,,
+Aurora,Sinistra,,Female,Pure-blood or half-blood,Dark,Dark
+Septima,Vector,,Female,,Black,
+Wilhelmina,Grubbly-Plank,,Female,,Grey,
+Fenrir,Greyback,,Male,,Grey,
+Gellert,Grindelwald,,Male,Pure-blood or half-blood,Blond,Blue
