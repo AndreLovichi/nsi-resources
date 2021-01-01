@@ -1,21 +1,21 @@
 ﻿Animal,Maximum speed,Class
-Anna's hummingbird,98,Flight
-Blackbuck,80,Land
-Blue wildebeest,80,Land
-Cheetah,121,Land
-Eurasian hobby,160,Flight
 Frigatebird,153,Flight
-Golden eagle,320,Flight-diving
-Grey-headed albatross,127,Flight
-Gyrfalcon,128,Flight
-Lion,80,Land
-Mexican free-tailed bat,160,Flight
-Peregrine falcon,389,Flight-diving
-Pronghorn,88,Land
-Quarter Horse,88,Land
-Rock dove (pigeon),149,Flight
-Sailfish,109,Flight-swimming
 Springbok,88,Land
+Lion,80,Land
 Spur-winged goose,142,Flight
-Swordfish,97,Swimming
 White-throated needletail swift,169,Flight
+Swordfish,97,Swimming
+Gyrfalcon,128,Flight
+Blue wildebeest,80,Land
+Peregrine falcon,389,Flight-diving
+Anna's hummingbird,98,Flight
+Pronghorn,88,Land
+Eurasian hobby,160,Flight
+Golden eagle,320,Flight-diving
+Rock dove (pigeon),149,Flight
+Blackbuck,80,Land
+Quarter Horse,88,Land
+Mexican free-tailed bat,160,Flight
+Cheetah,121,Land
+Grey-headed albatross,127,Flight
+Sailfish,109,Flight-swimming
