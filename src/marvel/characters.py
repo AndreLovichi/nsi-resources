@@ -24,7 +24,7 @@ def fetchAllCharacters():
     return characters
 
 def isValidCharacter(character):
-    return (character.yearOfAppearance != None) and (character.yearOfAppearance > 1955)
+    return (character.yearOfAppearance != None) and (character.appearanceCount != None) and (character.yearOfAppearance > 1955)
 
 def createCharacterCSV():
     allCharacters = fetchAllCharacters()
