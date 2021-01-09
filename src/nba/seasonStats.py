@@ -25,7 +25,7 @@ class SeasonStats:
 
 def fetchAllSeasonStats():
     rawLines = csvUtils.readCsv(SOURCE_CSV_FILEPATH)
-    recentLines = [rawLine for rawLine in rawLines if (rawLine["Year"] != "") and (int(rawLine["Year"]) >= 2000)]
+    recentLines = [rawLine for rawLine in rawLines if (rawLine["Year"] != "") and (int(rawLine["Year"]) >= 2000) and (rawLine["Tm"] != "TOT")]
     seasonStats = [SeasonStats(rawLine) for rawLine in recentLines ]
     return seasonStats
 

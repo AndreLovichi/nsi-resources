@@ -6,7 +6,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Malik Allen,Denver Nuggets,51,105,16,5,82
 2010,Ray Allen,Boston Celtics,80,1304,210,25,253
 2010,Tony Allen,Boston Celtics,54,330,72,19,145
-2010,Rafer Alston,Total,52,427,176,10,129
 2010,Rafer Alston,New Jersey Nets,27,262,104,5,75
 2010,Rafer Alston,Miami Heat,25,165,72,5,54
 2010,Lou Amundson,Phoenix Suns,79,371,31,73,346
@@ -18,7 +17,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Joel Anthony,Miami Heat,80,218,12,109,249
 2010,Gilbert Arenas,Washington Wizards,32,722,230,9,133
 2010,Trevor Ariza,Houston Rockets,72,1072,276,40,403
-2010,Hilton Armstrong,Total,33,71,21,12,81
 2010,Hilton Armstrong,New Orleans Hurricanes,18,51,16,8,61
 2010,Hilton Armstrong,Sacramento Kings,6,10,2,4,14
 2010,Hilton Armstrong,Houston Rockets,9,10,3,0,6
@@ -44,7 +42,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Rodrigue Beaubois,Dallas Mavericks,56,397,74,12,78
 2010,Marco Belinelli,Toronto Raptors,66,469,89,5,95
 2010,Charlie Bell,Milwaukee Bucks,71,459,104,12,132
-2010,Raja Bell,Total,6,71,13,2,23
 2010,Raja Bell,Charlotte Hornets,5,60,10,2,21
 2010,Raja Bell,Golden State Warriors,1,11,3,0,2
 2010,Jonathan Bender,New York Knicks,25,118,16,17,52
@@ -52,7 +49,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Andris Biedrins,Golden State Warriors,33,166,57,44,259
 2010,Chauncey Billups,Denver Nuggets,73,1427,409,9,228
 2010,DeJuan Blair,San Antonio Spurs,82,638,65,39,526
-2010,Steve Blake,Total,80,586,380,6,187
 2010,Steve Blake,Portland Trail Blazers,51,388,203,2,118
 2010,Steve Blake,Los Angeles Clippers,29,198,177,4,69
 2010,Andray Blatche,Washington Wizards,81,1143,170,71,509
@@ -66,33 +62,27 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Earl Boykins,Washington Wizards,67,440,171,3,75
 2010,Elton Brand,Philadelphia 76ers,76,996,109,80,461
 2010,Corey Brewer,Minnesota Timberwolves,82,1066,193,29,279
-2010,Ronnie Brewer,Total,58,511,154,15,187
 2010,Ronnie Brewer,Utah Jazz,53,501,151,15,180
 2010,Ronnie Brewer,Memphis Grizzlies,5,10,3,0,7
-2010,Primoz Brezec,Total,21,19,1,3,25
 2010,Primoz Brezec,Philadelphia 76ers,7,5,0,1,12
 2010,Primoz Brezec,Milwaukee Bucks,14,14,1,2,13
 2010,Jon Brockman,Sacramento Kings,52,147,22,5,213
 2010,Aaron Brooks,Houston Rockets,82,1604,434,14,215
-2010,Bobby Brown,Total,45,215,88,1,38
 2010,Bobby Brown,New Orleans Hurricanes,22,145,46,1,18
 2010,Bobby Brown,Los Angeles Clippers,23,70,42,0,20
 2010,Derrick Brown,Charlotte Hornets,57,186,19,10,78
-2010,Devin Brown,Total,50,399,65,6,124
 2010,Devin Brown,New Orleans Hurricanes,39,379,58,5,109
 2010,Devin Brown,Chicago Bulls,11,20,7,1,15
 2010,Kwame Brown,Detroit Pistons,48,157,22,12,177
 2010,Shannon Brown,Los Angeles Lakers,82,667,108,31,183
 2010,Kobe Bryant,Los Angeles Lakers,73,1970,365,20,391
 2010,Chase Budinger,Houston Rockets,74,657,88,11,220
-2010,Caron Butler,Total,74,1206,156,24,461
 2010,Caron Butler,Washington Wizards,47,796,107,15,316
 2010,Caron Butler,Dallas Mavericks,27,410,49,9,145
 2010,Rasual Butler,Los Angeles Clippers,82,979,116,68,240
 2010,Andrew Bynum,Los Angeles Lakers,65,977,68,94,541
 2010,Will Bynum,Detroit Pistons,63,628,283,7,142
 2010,Jose Calderon,Toronto Raptors,68,699,404,7,142
-2010,Marcus Camby,Total,74,556,186,146,871
 2010,Marcus Camby,Los Angeles Clippers,51,394,151,99,616
 2010,Marcus Camby,Portland Trail Blazers,23,162,35,47,255
 2010,Brian Cardinal,Minnesota Timberwolves,29,48,24,3,29
@@ -133,12 +123,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,DeMar DeRozan,Toronto Raptors,77,662,53,18,223
 2010,Boris Diaw,Charlotte Hornets,82,925,325,57,424
 2010,Yakhouba Diawara,Miami Heat,6,5,3,0,4
-2010,Travis Diener,Total,9,6,8,0,3
 2010,Travis Diener,Indiana Pacers,4,3,4,0,2
 2010,Travis Diener,Portland Trail Blazers,5,3,4,0,1
 2010,DeSagana Diop,Charlotte Hornets,27,32,5,14,65
 2010,Keyon Dooling,New Jersey Nets,53,364,135,0,54
-2010,Joey Dorsey,Total,15,23,2,2,43
 2010,Joey Dorsey,Houston Rockets,7,11,2,1,25
 2010,Joey Dorsey,Sacramento Kings,8,12,0,1,18
 2010,Toney Douglas,New York Knicks,56,481,112,3,108
@@ -151,7 +139,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Kevin Durant,Oklahoma City Thunder,82,2472,231,84,623
 2010,Wayne Ellington,Minnesota Timberwolves,76,505,74,5,159
 2010,Monta Ellis,Golden State Warriors,64,1631,340,25,257
-2010,Francisco Elson,Total,12,12,2,0,14
 2010,Francisco Elson,Milwaukee Bucks,11,10,2,0,13
 2010,Francisco Elson,Philadelphia 76ers,1,2,0,0,1
 2010,Maurice Evans,Atlanta Hawks,79,453,48,17,154
@@ -161,7 +148,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Raymond Felton,Charlotte Hornets,80,968,446,22,288
 2010,Rudy Fernandez,Portland Trail Blazers,62,503,127,11,164
 2010,Kyrylo Fesenko,Utah Jazz,49,128,15,19,90
-2010,Michael Finley,Total,46,202,43,6,71
 2010,Michael Finley,San Antonio Spurs,25,93,19,4,38
 2010,Michael Finley,Boston Celtics,21,109,24,2,33
 2010,Derek Fisher,Los Angeles Lakers,82,615,201,9,170
@@ -182,13 +168,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Devean George,Golden State Warriors,45,242,32,10,114
 2010,Daniel Gibson,Cleveland Cavaliers,56,355,70,7,73
 2010,Taj Gibson,Chicago Bulls,82,735,70,104,611
-2010,J.R. Giddens,Total,32,69,13,2,51
 2010,J.R. Giddens,Boston Celtics,21,24,6,1,20
 2010,J.R. Giddens,New York Knicks,11,45,7,1,31
 2010,Trey Gilder,Memphis Grizzlies,2,2,0,0,1
 2010,Manu Ginobili,San Antonio Spurs,75,1237,370,24,284
 2010,Ryan Gomes,Minnesota Timberwolves,76,832,124,16,348
-2010,Drew Gooden,Total,70,763,47,58,542
 2010,Drew Gooden,Dallas Mavericks,46,408,26,50,316
 2010,Drew Gooden,Los Angeles Clippers,24,355,21,8,226
 2010,Ben Gordon,Detroit Pistons,62,855,166,6,119
@@ -197,7 +181,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Joey Graham,Denver Nuggets,63,266,22,7,123
 2010,Stephen Graham,Charlotte Hornets,70,296,23,10,135
 2010,Danny Granger,Indiana Pacers,62,1497,171,51,342
-2010,Aaron Gray,Total,32,104,22,11,106
 2010,Aaron Gray,Chicago Bulls,8,18,2,0,16
 2010,Aaron Gray,New Orleans Hurricanes,24,86,20,11,90
 2010,Danny Green,Cleveland Cavaliers,20,40,5,3,17
@@ -213,10 +196,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,James Harden,Oklahoma City Thunder,76,753,137,20,244
 2010,Al Harrington,New York Knicks,72,1276,110,26,405
 2010,Devin Harris,New Jersey Nets,64,1080,423,18,203
-2010,Mike Harris,Total,13,29,3,1,24
 2010,Mike Harris,Houston Rockets,8,25,3,1,20
 2010,Mike Harris,Washington Wizards,5,4,0,0,4
-2010,Jason Hart,Total,5,2,6,1,2
 2010,Jason Hart,Minnesota Timberwolves,1,0,1,0,0
 2010,Jason Hart,New Orleans Hurricanes,4,2,5,1,2
 2010,Udonis Haslem,Miami Heat,78,771,52,23,629
@@ -224,7 +205,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Spencer Hawes,Sacramento Kings,72,723,158,83,436
 2010,Chuck Hayes,Houston Rockets,82,358,139,43,465
 2010,Jarvis Hayes,New Jersey Nets,45,350,40,9,108
-2010,Brendan Haywood,Total,77,704,43,158,715
 2010,Brendan Haywood,Washington Wizards,49,478,18,101,507
 2010,Brendan Haywood,Dallas Mavericks,28,226,25,57,208
 2010,Luther Head,Indiana Pacers,47,357,72,9,80
@@ -234,28 +214,22 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Nene Hilario,Denver Nuggets,82,1135,203,82,627
 2010,George Hill,San Antonio Spurs,78,964,226,26,205
 2010,Grant Hill,Phoenix Suns,81,912,193,36,445
-2010,Jordan Hill,Total,47,244,20,21,175
 2010,Jordan Hill,New York Knicks,24,97,7,9,61
 2010,Jordan Hill,Houston Rockets,23,147,13,12,114
 2010,Kirk Hinrich,Chicago Bulls,74,805,330,24,260
 2010,Jrue Holiday,Philadelphia 76ers,73,587,280,18,191
 2010,Ryan Hollins,Minnesota Timberwolves,73,447,51,38,207
 2010,Al Horford,Atlanta Hawks,81,1148,189,91,799
-2010,Eddie House,Total,68,473,85,7,109
 2010,Eddie House,Boston Celtics,50,358,48,7,69
 2010,Eddie House,New York Knicks,18,115,37,0,40
 2010,Dwight Howard,Orlando Magic,82,1503,144,228,1082
-2010,Josh Howard,Total,35,446,48,11,125
 2010,Josh Howard,Dallas Mavericks,31,388,44,9,112
 2010,Josh Howard,Washington Wizards,4,58,4,2,13
 2010,Juwan Howard,Portland Trail Blazers,73,437,61,10,335
-2010,Lester Hudson,Total,25,58,13,3,18
 2010,Lester Hudson,Boston Celtics,16,22,8,2,8
 2010,Lester Hudson,Memphis Grizzlies,9,36,5,1,10
-2010,Larry Hughes,Total,45,411,137,15,142
 2010,Larry Hughes,New York Knicks,31,297,109,11,110
 2010,Larry Hughes,Charlotte Hornets,14,114,28,4,32
-2010,Kris Humphries,Total,69,487,32,48,378
 2010,Kris Humphries,Dallas Mavericks,25,131,7,11,95
 2010,Kris Humphries,New Jersey Nets,44,356,25,37,283
 2010,Chris Hunter,Golden State Warriors,60,270,37,35,167
@@ -267,33 +241,26 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Zydrunas Ilgauskas,Cleveland Cavaliers,64,474,48,50,345
 2010,Didier Ilunga-Mbenga,Los Angeles Lakers,49,105,8,29,87
 2010,Ersan Ilyasova,Milwaukee Bucks,81,840,84,23,517
-2010,Allen Iverson*,Total,28,385,113,2,79
 2010,Allen Iverson*,Memphis Grizzlies,3,37,11,0,4
 2010,Allen Iverson*,Philadelphia 76ers,25,348,102,2,75
-2010,Royal Ivey,Total,44,93,27,2,34
 2010,Royal Ivey,Philadelphia 76ers,26,70,17,2,26
 2010,Royal Ivey,Milwaukee Bucks,18,23,10,0,8
 2010,Jarrett Jack,Toronto Raptors,82,931,413,6,222
-2010,Cedric Jackson,Total,12,20,14,2,8
 2010,Cedric Jackson,Cleveland Cavaliers,5,1,2,0,1
 2010,Cedric Jackson,San Antonio Spurs,3,7,6,2,4
 2010,Cedric Jackson,Washington Wizards,4,12,6,0,3
-2010,Darnell Jackson,Total,28,23,4,4,22
 2010,Darnell Jackson,Cleveland Cavaliers,27,21,4,4,20
 2010,Darnell Jackson,Milwaukee Bucks,1,2,0,0,2
-2010,Stephen Jackson,Total,81,1667,300,43,401
 2010,Stephen Jackson,Golden State Warriors,9,149,42,6,35
 2010,Stephen Jackson,Charlotte Hornets,72,1518,258,37,366
 2010,LeBron James,Cleveland Cavaliers,76,2258,651,77,554
 2010,Mike James,Washington Wizards,4,18,5,0,3
-2010,Antawn Jamison,Total,66,1235,84,21,555
 2010,Antawn Jamison,Washington Wizards,41,840,52,9,362
 2010,Antawn Jamison,Cleveland Cavaliers,25,395,32,12,193
 2010,Nathan Jawai,Minnesota Timberwolves,39,124,24,9,104
 2010,Othyus Jeffers,Utah Jazz,14,37,1,0,19
 2010,Al Jefferson,Minnesota Timberwolves,76,1301,137,98,703
 2010,Richard Jefferson,San Antonio Spurs,81,994,158,40,356
-2010,Jared Jeffries,Total,70,372,101,71,288
 2010,Jared Jeffries,New York Knicks,52,284,83,58,223
 2010,Jared Jeffries,Houston Rockets,18,88,18,13,65
 2010,Brandon Jennings,Milwaukee Bucks,82,1270,470,18,282
@@ -310,7 +277,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,DeAndre Jordan,Los Angeles Clippers,70,336,21,62,352
 2010,Chris Kaman,Los Angeles Clippers,76,1408,120,94,704
 2010,Jason Kapono,Philadelphia 76ers,57,324,39,6,66
-2010,Coby Karl,Total,7,28,15,1,18
 2010,Coby Karl,Cleveland Cavaliers,3,0,0,0,2
 2010,Coby Karl,Golden State Warriors,4,28,15,1,16
 2010,Jason Kidd,Dallas Mavericks,80,824,724,35,445
@@ -319,13 +285,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Kosta Koufos,Utah Jazz,36,53,6,4,45
 2010,Nenad Krstic,Oklahoma City Thunder,76,639,52,45,383
 2010,Oliver Lafayette,Boston Celtics,1,7,2,0,4
-2010,Carl Landry,Total,80,1343,66,63,468
 2010,Carl Landry,Houston Rockets,52,839,40,46,286
 2010,Carl Landry,Sacramento Kings,28,504,26,17,182
-2010,Marcus Landry,Total,18,44,0,2,19
 2010,Marcus Landry,New York Knicks,17,44,0,2,19
 2010,Marcus Landry,Boston Celtics,1,0,0,0,0
-2010,Acie Law,Total,26,113,26,1,17
 2010,Acie Law,Golden State Warriors,5,31,7,0,2
 2010,Acie Law,Charlotte Hornets,9,16,3,1,1
 2010,Acie Law,Chicago Bulls,12,66,16,0,14
@@ -333,7 +296,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Courtney Lee,New Jersey Nets,71,885,121,20,252
 2010,David Lee,New York Knicks,81,1640,295,40,949
 2010,Rashard Lewis,Orlando Magic,72,1013,107,28,318
-2010,Shaun Livingston,Total,36,250,130,11,78
 2010,Shaun Livingston,Oklahoma City Thunder,10,10,14,2,20
 2010,Shaun Livingston,Washington Wizards,26,240,116,9,58
 2010,Brook Lopez,New Jersey Nets,82,1542,187,139,709
@@ -345,11 +307,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Ian Mahinmi,San Antonio Spurs,26,101,2,8,52
 2010,Shawn Marion,Dallas Mavericks,75,898,107,61,477
 2010,Sean Marks,New Orleans Hurricanes,14,10,2,3,23
-2010,Cartier Martin,Total,18,141,16,1,68
 2010,Cartier Martin,Golden State Warriors,10,90,9,0,47
 2010,Cartier Martin,Washington Wizards,8,51,7,1,21
 2010,Kenyon Martin,Denver Nuggets,58,667,109,61,546
-2010,Kevin Martin,Total,46,946,111,6,164
 2010,Kevin Martin,Sacramento Kings,22,436,57,4,94
 2010,Kevin Martin,Houston Rockets,24,510,54,2,70
 2010,Desmond Mason,Sacramento Kings,5,13,2,1,13
@@ -357,28 +317,22 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Wesley Matthews,Utah Jazz,82,769,124,15,191
 2010,Jason Maxiell,Detroit Pistons,76,513,39,38,401
 2010,Sean May,Sacramento Kings,37,123,17,7,70
-2010,Eric Maynor,Total,81,382,266,10,129
 2010,Eric Maynor,Utah Jazz,26,134,81,2,38
 2010,Eric Maynor,Oklahoma City Thunder,55,248,185,8,91
 2010,O.J. Mayo,Memphis Grizzlies,82,1432,242,17,311
 2010,Luc Mbah,Milwaukee Bucks,73,453,81,39,400
 2010,Antonio McDyess,San Antonio Spurs,77,446,83,32,455
 2010,JaVale McGee,Washington Wizards,60,386,14,101,243
-2010,Tracy McGrady,Total,30,245,99,14,94
 2010,Tracy McGrady,Houston Rockets,6,19,6,2,5
 2010,Tracy McGrady,New York Knicks,24,226,93,12,89
-2010,Dominic McGuire,Total,51,38,11,4,79
 2010,Dominic McGuire,Washington Wizards,41,30,8,3,61
 2010,Dominic McGuire,Sacramento Kings,10,8,3,1,18
 2010,Josh McRoberts,Indiana Pacers,42,179,44,16,127
-2010,Jodie Meeks,Total,60,281,39,5,99
 2010,Jodie Meeks,Milwaukee Bucks,41,169,22,4,72
 2010,Jodie Meeks,Philadelphia 76ers,19,112,17,1,27
-2010,Pops Mensah-Bonsu,Total,20,39,3,9,35
 2010,Pops Mensah-Bonsu,Houston Rockets,4,5,1,1,4
 2010,Pops Mensah-Bonsu,Toronto Raptors,16,34,2,8,31
 2010,C.J. Miles,Utah Jazz,63,622,105,17,168
-2010,Darko Milicic,Total,32,215,47,34,151
 2010,Darko Milicic,New York Knicks,8,16,4,1,18
 2010,Darko Milicic,Minnesota Timberwolves,24,199,43,33,133
 2010,Andre Miller,Portland Trail Blazers,82,1146,445,9,266
@@ -394,10 +348,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Anthony Morrow,Golden State Warriors,69,899,104,16,259
 2010,Byron Mullens,Oklahoma City Thunder,13,14,1,0,10
 2010,Troy Murphy,Indiana Pacers,72,1050,150,34,737
-2010,Ronald Murray,Total,75,746,135,16,183
 2010,Ronald Murray,Charlotte Hornets,46,454,84,12,98
 2010,Ronald Murray,Chicago Bulls,29,292,51,4,85
-2010,Eduardo Najera,Total,46,157,29,14,115
 2010,Eduardo Najera,New Jersey Nets,13,49,15,2,38
 2010,Eduardo Najera,Dallas Mavericks,33,108,14,12,77
 2010,Steve Nash,Phoenix Suns,81,1333,892,12,268
@@ -416,7 +368,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Emeka Okafor,New Orleans Hurricanes,82,850,55,127,742
 2010,Mehmet Okur,Utah Jazz,73,988,119,81,515
 2010,Kevin Ollie,Oklahoma City Thunder,25,44,20,0,25
-2010,Travis Outlaw,Total,34,309,34,17,121
 2010,Travis Outlaw,Portland Trail Blazers,11,109,8,8,38
 2010,Travis Outlaw,Los Angeles Clippers,23,200,26,9,83
 2010,Zaza Pachulia,Atlanta Hawks,78,333,42,31,293
@@ -439,15 +390,12 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Tayshaun Prince,Detroit Pistons,49,661,161,22,248
 2010,Joel Przybilla,Portland Trail Blazers,30,123,8,43,238
 2010,Chris Quinn,New Jersey Nets,25,56,29,1,16
-2010,Vladimir Radmanovic,Total,41,256,45,7,178
 2010,Vladimir Radmanovic,Charlotte Hornets,8,39,7,1,29
 2010,Vladimir Radmanovic,Golden State Warriors,33,217,38,6,149
 2010,Anthony Randolph,Golden State Warriors,33,384,42,51,215
-2010,Shavlik Randolph,Total,6,14,1,1,14
 2010,Shavlik Randolph,Miami Heat,3,10,0,1,13
 2010,Shavlik Randolph,Portland Trail Blazers,3,4,1,0,1
 2010,Zach Randolph,Memphis Grizzlies,81,1681,149,34,950
-2010,Theo Ratliff,Total,49,178,25,61,157
 2010,Theo Ratliff,San Antonio Spurs,21,34,9,18,40
 2010,Theo Ratliff,Charlotte Hornets,28,144,16,43,117
 2010,Michael Redd,Milwaukee Bucks,18,215,39,2,54
@@ -456,21 +404,17 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Jason Richardson,Phoenix Suns,79,1239,143,33,404
 2010,Quentin Richardson,Miami Heat,76,678,93,18,374
 2010,Luke Ridnour,Milwaukee Bucks,82,852,324,7,143
-2010,Nate Robinson,Total,56,567,163,5,110
 2010,Nate Robinson,New York Knicks,30,397,112,5,72
 2010,Nate Robinson,Boston Celtics,26,170,51,0,38
-2010,Sergio Rodriguez,Total,66,434,212,5,89
 2010,Sergio Rodriguez,Sacramento Kings,39,234,121,3,50
 2010,Sergio Rodriguez,New York Knicks,27,200,91,2,39
 2010,Rajon Rondo,Boston Celtics,81,1110,794,11,360
 2010,Derrick Rose,Chicago Bulls,78,1619,469,27,293
-2010,Quinton Ross,Total,52,92,12,6,49
 2010,Quinton Ross,Dallas Mavericks,27,54,7,4,27
 2010,Quinton Ross,Washington Wizards,25,38,5,2,22
 2010,Brandon Roy,Portland Trail Blazers,65,1398,305,16,285
 2010,Brandon Rush,Indiana Pacers,82,774,112,65,346
 2010,Kareem Rush,Los Angeles Clippers,7,9,4,3,6
-2010,John Salmons,Total,81,1245,223,26,270
 2010,John Salmons,Chicago Bulls,51,649,125,22,174
 2010,John Salmons,Milwaukee Bucks,30,596,98,4,96
 2010,Brian Scalabrine,Boston Celtics,52,78,27,4,48
@@ -478,7 +422,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Thabo Sefolosha,Oklahoma City Thunder,82,489,145,46,387
 2010,Ramon Sessions,Minnesota Timberwolves,82,674,258,5,214
 2010,Bobby Simmons,New Jersey Nets,23,122,15,3,63
-2010,James Singleton,Total,57,254,31,43,276
 2010,James Singleton,Dallas Mavericks,25,59,9,7,55
 2010,James Singleton,Washington Wizards,32,195,22,36,221
 2010,Brian Skinner,Los Angeles Clippers,16,26,0,4,27
@@ -490,7 +433,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Darius Songaila,New Orleans Hurricanes,75,543,70,14,232
 2010,Marreese Speights,Philadelphia 76ers,62,532,36,34,252
 2010,Jerry Stackhouse,Milwaukee Bucks,42,358,70,9,100
-2010,DeShawn Stevenson,Total,64,136,56,6,91
 2010,DeShawn Stevenson,Washington Wizards,40,87,44,5,65
 2010,DeShawn Stevenson,Dallas Mavericks,24,49,12,1,26
 2010,Peja Stojakovic,New Orleans Hurricanes,62,784,92,5,227
@@ -499,10 +441,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,DaJuan Summers,Detroit Pistons,44,134,16,7,45
 2010,Jermaine Taylor,Houston Rockets,31,128,16,3,46
 2010,Jeff Teague,Atlanta Hawks,71,228,122,11,67
-2010,Sebastian Telfair,Total,43,208,126,5,45
 2010,Sebastian Telfair,Los Angeles Clippers,39,169,114,5,41
 2010,Sebastian Telfair,Cleveland Cavaliers,4,39,12,0,4
-2010,Garrett Temple,Total,27,136,21,6,31
 2010,Garrett Temple,Houston Rockets,9,45,7,4,14
 2010,Garrett Temple,Sacramento Kings,5,11,2,0,3
 2010,Garrett Temple,San Antonio Spurs,13,80,12,2,14
@@ -512,19 +452,15 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Kenny Thomas,Sacramento Kings,26,41,15,10,86
 2010,Kurt Thomas,Milwaukee Bucks,70,210,47,46,291
 2010,Tim Thomas,Dallas Mavericks,18,135,14,2,41
-2010,Tyrus Thomas,Total,54,508,56,85,335
 2010,Tyrus Thomas,Chicago Bulls,29,256,33,48,183
 2010,Tyrus Thomas,Charlotte Hornets,25,252,23,37,152
 2010,Jason Thompson,Sacramento Kings,75,939,124,73,637
-2010,Al Thornton,Total,75,804,90,35,294
 2010,Al Thornton,Los Angeles Clippers,51,548,61,22,192
 2010,Al Thornton,Washington Wizards,24,256,29,13,102
 2010,Marcus Thornton,New Orleans Hurricanes,73,1057,114,11,211
 2010,Jamaal Tinsley,Memphis Grizzlies,38,133,108,5,66
-2010,Anthony Tolliver,Total,46,539,87,33,320
 2010,Anthony Tolliver,Portland Trail Blazers,2,0,0,0,1
 2010,Anthony Tolliver,Golden State Warriors,44,539,87,33,319
-2010,Alando Tucker,Total,15,51,4,0,10
 2010,Alando Tucker,Phoenix Suns,11,43,3,0,7
 2010,Alando Tucker,Minnesota Timberwolves,4,8,1,0,3
 2010,Ronny Turiaf,Golden State Warriors,42,207,90,54,191
@@ -536,14 +472,12 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Charlie Villanueva,Detroit Pistons,78,931,53,55,365
 2010,Sasha Vujacic,Los Angeles Lakers,67,185,41,4,79
 2010,Dwyane Wade,Miami Heat,77,2045,501,82,373
-2010,Henry Walker,Total,35,329,40,3,88
 2010,Henry Walker,Boston Celtics,8,8,3,0,5
 2010,Henry Walker,New York Knicks,27,321,37,3,83
 2010,Ben Wallace,Detroit Pistons,69,381,105,84,597
 2010,Gerald Wallace,Charlotte Hornets,76,1386,161,83,762
 2010,Rasheed Wallace,Boston Celtics,79,710,80,70,325
 2010,Luke Walton,Los Angeles Lakers,29,69,40,1,38
-2010,Hakim Warrick,Total,76,733,52,18,314
 2010,Hakim Warrick,Milwaukee Bucks,48,490,35,10,212
 2010,Hakim Warrick,Chicago Bulls,28,243,17,8,102
 2010,C.J. Watson,Golden State Warriors,65,667,180,8,169
@@ -580,7 +514,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Jeff Adrien,Golden State Warriors,23,57,10,5,58
 2011,Arron Afflalo,Denver Nuggets,69,867,168,31,251
 2011,Maurice Ager,Minnesota Timberwolves,4,15,1,0,2
-2011,Alexis Ajinca,Total,34,143,10,19,78
 2011,Alexis Ajinca,Dallas Mavericks,10,29,2,5,17
 2011,Alexis Ajinca,Toronto Raptors,24,114,8,14,61
 2011,Solomon Alabi,Toronto Raptors,12,6,2,2,14
@@ -592,30 +525,24 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Al-Farouq Aminu,Los Angeles Clippers,81,457,60,25,267
 2011,Lou Amundson,Golden State Warriors,46,200,17,33,185
 2011,Chris Andersen,Denver Nuggets,45,250,20,58,219
-2011,David Andersen,Total,40,134,13,9,84
 2011,David Andersen,Toronto Raptors,11,56,7,3,34
 2011,David Andersen,New Orleans Hurricanes,29,78,6,6,50
 2011,James Anderson,San Antonio Spurs,26,94,18,6,23
 2011,Ryan Anderson,Orlando Magic,64,681,52,38,355
-2011,Carmelo Anthony,Total,77,1970,221,46,563
 2011,Carmelo Anthony,Denver Nuggets,50,1259,140,31,382
 2011,Carmelo Anthony,New York Knicks,27,711,81,15,181
 2011,Joel Anthony,Miami Heat,75,153,24,93,266
-2011,Gilbert Arenas,Total,70,755,274,21,189
 2011,Gilbert Arenas,Washington Wizards,21,363,117,12,70
 2011,Gilbert Arenas,Orlando Magic,49,392,157,9,119
 2011,Trevor Ariza,New Orleans Hurricanes,75,826,162,31,408
-2011,Hilton Armstrong,Total,53,92,14,21,131
 2011,Hilton Armstrong,Washington Wizards,41,77,10,16,114
 2011,Hilton Armstrong,Atlanta Hawks,12,15,4,5,17
-2011,Carlos Arroyo,Total,64,310,125,1,103
 2011,Carlos Arroyo,Miami Heat,49,274,100,1,80
 2011,Carlos Arroyo,Boston Celtics,15,36,25,0,23
 2011,Darrell Arthur,Memphis Grizzlies,80,729,53,63,342
 2011,Omer Asik,Chicago Bulls,82,229,32,56,306
 2011,D.J. Augustin,Charlotte Hornets,82,1178,498,3,225
 2011,Luke Babbitt,Portland Trail Blazers,24,36,6,2,30
-2011,Renaldo Balkman,Total,8,16,2,2,7
 2011,Renaldo Balkman,Denver Nuggets,5,13,2,2,4
 2011,Renaldo Balkman,New York Knicks,3,3,0,0,3
 2011,Marcus Banks,Toronto Raptors,3,6,3,0,1
@@ -623,17 +550,14 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,J.J. Barea,Dallas Mavericks,81,769,317,1,159
 2011,Andrea Bargnani,Toronto Raptors,66,1414,119,46,343
 2011,Matt Barnes,Los Angeles Lakers,53,356,71,22,228
-2011,Earl Barron,Total,21,79,11,6,76
 2011,Earl Barron,Phoenix Suns,12,36,4,4,40
 2011,Earl Barron,Milwaukee Bucks,7,36,4,2,22
 2011,Earl Barron,Portland Trail Blazers,2,7,3,0,14
 2011,Brandon Bass,Orlando Magic,76,854,57,52,424
 2011,Tony Battie,Philadelphia 76ers,38,100,12,15,99
-2011,Shane Battier,Total,82,624,185,81,373
 2011,Shane Battier,Houston Rockets,59,509,153,71,281
 2011,Shane Battier,Memphis Grizzlies,23,115,32,10,92
 2011,Nicolas Batum,Portland Trail Blazers,80,990,123,49,361
-2011,Jerryd Bayless,Total,71,651,266,5,165
 2011,Jerryd Bayless,New Orleans Hurricanes,11,50,28,1,15
 2011,Jerryd Bayless,Toronto Raptors,60,601,238,4,150
 2011,Michael Beasley,Minnesota Timberwolves,73,1401,158,52,409
@@ -641,12 +565,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Marco Belinelli,New Orleans Hurricanes,80,836,92,6,151
 2011,Charlie Bell,Golden State Warriors,19,32,13,1,18
 2011,Raja Bell,Utah Jazz,68,541,118,14,176
-2011,Mike Bibby,Total,80,688,265,9,195
 2011,Mike Bibby,Atlanta Hawks,56,526,202,6,143
 2011,Mike Bibby,Washington Wizards,2,2,8,0,3
 2011,Mike Bibby,Miami Heat,22,160,55,3,49
 2011,Andris Biedrins,Golden State Warriors,59,294,60,52,426
-2011,Chauncey Billups,Total,72,1208,387,14,190
 2011,Chauncey Billups,Denver Nuggets,51,840,271,12,125
 2011,Chauncey Billups,New York Knicks,21,368,116,2,65
 2011,DeJuan Blair,San Antonio Spurs,81,674,77,42,565
@@ -663,15 +585,12 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Craig Brackins,Philadelphia 76ers,3,8,1,0,4
 2011,Avery Bradley,Boston Celtics,31,52,12,0,17
 2011,Elton Brand,Philadelphia 76ers,81,1217,120,106,676
-2011,Corey Brewer,Total,69,552,89,16,175
 2011,Corey Brewer,Minnesota Timberwolves,56,483,77,14,152
 2011,Corey Brewer,Dallas Mavericks,13,69,12,2,23
 2011,Ronnie Brewer,Chicago Bulls,81,503,140,22,262
 2011,Jon Brockman,Milwaukee Bucks,63,136,18,3,184
-2011,Aaron Brooks,Total,59,634,233,3,78
 2011,Aaron Brooks,Houston Rockets,34,394,129,2,51
 2011,Aaron Brooks,Phoenix Suns,25,240,104,1,27
-2011,Derrick Brown,Total,49,185,33,10,99
 2011,Derrick Brown,Charlotte Hornets,41,151,29,8,84
 2011,Derrick Brown,New York Knicks,8,34,4,2,15
 2011,Kwame Brown,Charlotte Hornets,66,524,43,39,450
@@ -679,7 +598,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Kobe Bryant,Los Angeles Lakers,82,2078,388,12,419
 2011,Chase Budinger,Houston Rockets,78,765,127,18,281
 2011,Caron Butler,Dallas Mavericks,29,436,46,8,118
-2011,Rasual Butler,Total,47,222,27,15,77
 2011,Rasual Butler,Los Angeles Clippers,41,206,27,15,76
 2011,Rasual Butler,Chicago Bulls,6,16,0,0,1
 2011,Andrew Bynum,Los Angeles Lakers,54,612,73,106,508
@@ -688,30 +606,23 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Marcus Camby,Portland Trail Blazers,59,277,121,92,606
 2011,Derrick Caracter,Los Angeles Lakers,41,81,7,10,43
 2011,Brian Cardinal,Dallas Mavericks,56,145,40,7,59
-2011,Rodney Carney,Total,27,127,11,5,48
 2011,Rodney Carney,Golden State Warriors,25,125,11,5,47
 2011,Rodney Carney,Memphis Grizzlies,2,2,0,0,1
-2011,DeMarre Carroll,Total,12,10,4,1,8
 2011,DeMarre Carroll,Memphis Grizzlies,7,10,2,1,8
 2011,DeMarre Carroll,Houston Rockets,5,0,2,0,0
 2011,Matt Carroll,Charlotte Hornets,54,235,23,6,68
-2011,Anthony Carter,Total,33,110,69,6,51
 2011,Anthony Carter,Denver Nuggets,14,26,26,1,12
 2011,Anthony Carter,New York Knicks,19,84,43,5,39
-2011,Vince Carter,Total,73,1022,146,20,275
 2011,Vince Carter,Orlando Magic,22,333,64,3,90
 2011,Vince Carter,Phoenix Suns,51,689,82,17,185
 2011,Omri Casspi,Sacramento Kings,71,610,74,13,307
 2011,Mario Chalmers,Miami Heat,70,447,177,7,146
 2011,Tyson Chandler,Dallas Mavericks,74,748,32,80,692
-2011,Wilson Chandler,Total,72,1100,120,94,408
 2011,Wilson Chandler,New York Knicks,51,838,86,70,303
 2011,Wilson Chandler,Denver Nuggets,21,262,34,24,105
 2011,Josh Childress,Phoenix Suns,54,272,42,23,155
-2011,Earl Clark,Total,42,163,9,18,101
 2011,Earl Clark,Phoenix Suns,9,29,4,3,17
 2011,Earl Clark,Orlando Magic,33,134,5,15,84
-2011,Jarron Collins,Total,28,19,2,1,24
 2011,Jarron Collins,Los Angeles Clippers,23,17,1,1,17
 2011,Jarron Collins,Portland Trail Blazers,5,2,1,0,7
 2011,Jason Collins,Atlanta Hawks,49,96,22,9,102
@@ -724,10 +635,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Marcus Cousin,Utah Jazz,4,4,0,1,3
 2011,DeMarcus Cousins,Sacramento Kings,81,1143,204,68,699
 2011,Jamal Crawford,Atlanta Hawks,76,1077,241,14,130
-2011,Jordan Crawford,Total,42,490,117,3,105
 2011,Jordan Crawford,Atlanta Hawks,16,67,15,0,28
 2011,Jordan Crawford,Washington Wizards,26,423,102,3,77
-2011,Dante Cunningham,Total,78,482,43,43,277
 2011,Dante Cunningham,Portland Trail Blazers,56,284,30,32,189
 2011,Dante Cunningham,Charlotte Hornets,22,198,13,11,88
 2011,Stephen Curry,Golden State Warriors,74,1373,432,20,286
@@ -735,7 +644,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Erick Dampier,Miami Heat,51,128,22,47,177
 2011,Antonio Daniels,Philadelphia 76ers,4,6,2,0,5
 2011,Marquis Daniels,Boston Celtics,49,271,64,22,113
-2011,Baron Davis,Total,58,760,391,28,156
 2011,Baron Davis,Los Angeles Clippers,43,552,299,22,120
 2011,Baron Davis,Cleveland Cavaliers,15,208,92,6,36
 2011,Ed Davis,Toronto Raptors,65,501,40,67,462
@@ -752,7 +660,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Toney Douglas,New York Knicks,81,856,244,4,244
 2011,Chris Douglas-Roberts,Milwaukee Bucks,44,323,50,13,88
 2011,Zabian Dowdell,Phoenix Suns,24,121,51,2,20
-2011,Goran Dragic,Total,70,523,204,10,142
 2011,Goran Dragic,Phoenix Suns,48,353,149,6,86
 2011,Goran Dragic,Houston Rockets,22,170,55,4,56
 2011,Jared Dudley,Phoenix Suns,82,867,108,20,318
@@ -766,11 +673,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Monta Ellis,Golden State Warriors,80,1929,450,23,281
 2011,Francisco Elson,Utah Jazz,62,134,33,14,115
 2011,Melvin Ely,Denver Nuggets,30,69,14,11,74
-2011,Semih Erden,Total,41,163,20,24,118
 2011,Semih Erden,Boston Celtics,37,150,19,21,107
 2011,Semih Erden,Cleveland Cavaliers,4,13,1,3,11
 2011,Jeremy Evans,Utah Jazz,49,178,24,17,97
-2011,Maurice Evans,Total,73,461,45,14,156
 2011,Maurice Evans,Atlanta Hawks,47,210,30,5,84
 2011,Maurice Evans,Washington Wizards,26,251,15,9,72
 2011,Reggie Evans,Toronto Raptors,30,132,38,6,345
@@ -778,10 +683,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Patrick Ewing,New Orleans Hurricanes,7,3,2,1,2
 2011,Christian Eyenga,Cleveland Cavaliers,44,303,35,28,123
 2011,Jordan Farmar,New Jersey Nets,73,701,368,6,173
-2011,Derrick Favors,Total,78,533,39,68,412
 2011,Derrick Favors,New Jersey Nets,56,353,21,41,297
 2011,Derrick Favors,Utah Jazz,22,180,18,27,115
-2011,Raymond Felton,Total,75,1164,625,11,269
 2011,Raymond Felton,New York Knicks,54,923,488,11,194
 2011,Raymond Felton,Denver Nuggets,21,241,137,0,75
 2011,Rudy Fernandez,Portland Trail Blazers,78,668,193,14,172
@@ -794,14 +697,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Jeff Foster,Indiana Pacers,56,187,46,31,350
 2011,Randy Foye,Los Angeles Clippers,63,616,170,21,103
 2011,Channing Frye,Phoenix Suns,77,976,96,79,513
-2011,Dan Gadzuric,Total,42,118,14,29,135
 2011,Dan Gadzuric,Golden State Warriors,28,79,11,18,86
 2011,Dan Gadzuric,New Jersey Nets,14,39,3,11,49
-2011,Sundiata Gaines,Total,24,111,42,1,38
 2011,Sundiata Gaines,Minnesota Timberwolves,8,21,6,0,6
 2011,Sundiata Gaines,Toronto Raptors,6,35,11,1,8
 2011,Sundiata Gaines,New Jersey Nets,10,55,25,0,24
-2011,Danilo Gallinari,Total,62,970,104,27,305
 2011,Danilo Gallinari,New York Knicks,48,764,82,18,229
 2011,Danilo Gallinari,Denver Nuggets,14,206,22,9,76
 2011,Francisco Garcia,Sacramento Kings,58,560,71,49,133
@@ -809,7 +709,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Marc Gasol,Memphis Grizzlies,81,951,200,136,569
 2011,Pau Gasol,Los Angeles Lakers,82,1541,273,130,836
 2011,Rudy Gay,Memphis Grizzlies,54,1069,153,58,336
-2011,Alonzo Gee,Total,56,331,38,18,182
 2011,Alonzo Gee,San Antonio Spurs,5,2,0,2,3
 2011,Alonzo Gee,Washington Wizards,11,32,5,0,22
 2011,Alonzo Gee,Cleveland Cavaliers,40,297,33,16,157
@@ -821,7 +720,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Drew Gooden,Milwaukee Bucks,35,396,47,18,238
 2011,Ben Gordon,Detroit Pistons,82,921,171,16,195
 2011,Eric Gordon,Los Angeles Clippers,56,1247,244,18,164
-2011,Marcin Gortat,Total,80,817,70,91,631
 2011,Marcin Gortat,Orlando Magic,25,100,17,21,118
 2011,Marcin Gortat,Phoenix Suns,55,717,53,70,513
 2011,Joey Graham,Cleveland Cavaliers,39,202,18,7,84
@@ -829,7 +727,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Danny Granger,Indiana Pacers,79,1622,203,62,425
 2011,Aaron Gray,New Orleans Hurricanes,41,129,16,12,171
 2011,Danny Green,San Antonio Spurs,8,41,2,1,15
-2011,Jeff Green,Total,75,998,108,37,360
 2011,Jeff Green,Oklahoma City Thunder,49,744,89,21,274
 2011,Jeff Green,Boston Celtics,26,254,19,16,86
 2011,Willie Green,New Orleans Hurricanes,77,672,74,13,161
@@ -839,12 +736,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Hamed Haddadi,Memphis Grizzlies,31,75,5,13,68
 2011,Richard Hamilton,Detroit Pistons,55,777,171,4,126
 2011,Tyler Hansbrough,Indiana Pacers,70,767,41,15,366
-2011,Luke Harangody,Total,49,193,30,17,143
 2011,Luke Harangody,Boston Celtics,28,63,10,7,55
 2011,Luke Harangody,Cleveland Cavaliers,21,130,20,10,88
 2011,James Harden,Oklahoma City Thunder,82,998,176,24,255
 2011,Al Harrington,Denver Nuggets,73,765,101,10,332
-2011,Devin Harris,Total,71,1079,503,7,169
 2011,Devin Harris,New Jersey Nets,54,811,411,5,129
 2011,Devin Harris,Utah Jazz,17,268,92,2,40
 2011,Manny Harris,Cleveland Cavaliers,54,321,85,7,140
@@ -864,7 +759,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,George Hill,San Antonio Spurs,76,884,193,21,199
 2011,Grant Hill,Phoenix Suns,80,1056,200,35,338
 2011,Jordan Hill,Houston Rockets,72,406,29,52,306
-2011,Kirk Hinrich,Total,72,737,288,17,182
 2011,Kirk Hinrich,Washington Wizards,48,531,210,10,129
 2011,Kirk Hinrich,Atlanta Hawks,24,206,78,7,53
 2011,Jrue Holiday,Philadelphia 76ers,82,1145,531,29,332
@@ -882,7 +776,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Didier Ilunga-Mbenga,New Orleans Hurricanes,41,59,6,27,86
 2011,Ersan Ilyasova,Milwaukee Bucks,60,571,56,24,365
 2011,Royal Ivey,Oklahoma City Thunder,25,41,7,1,16
-2011,Jarrett Jack,Total,83,735,242,6,173
 2011,Jarrett Jack,Toronto Raptors,13,140,59,0,42
 2011,Jarrett Jack,New Orleans Hurricanes,70,595,183,6,131
 2011,Darnell Jackson,Sacramento Kings,59,187,14,3,94
@@ -890,12 +783,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Damion James,New Jersey Nets,25,110,20,12,85
 2011,LeBron James,Miami Heat,79,2111,554,50,590
 2011,Antawn Jamison,Cleveland Cavaliers,56,1010,93,30,375
-2011,Othyus Jeffers,Total,17,93,20,0,67
 2011,Othyus Jeffers,San Antonio Spurs,1,2,1,0,2
 2011,Othyus Jeffers,Washington Wizards,16,91,19,0,65
 2011,Al Jefferson,Utah Jazz,82,1528,149,153,794
 2011,Richard Jefferson,San Antonio Spurs,81,891,107,34,310
-2011,Jared Jeffries,Total,42,74,36,17,116
 2011,Jared Jeffries,Houston Rockets,18,27,11,3,35
 2011,Jared Jeffries,New York Knicks,24,47,25,14,81
 2011,Brandon Jennings,Milwaukee Bucks,63,1019,305,21,234
@@ -903,14 +794,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Yi Jianlian,Washington Wizards,63,355,25,32,248
 2011,Amir Johnson,Toronto Raptors,72,688,81,88,461
 2011,Armon Johnson,Portland Trail Blazers,38,110,45,1,36
-2011,Chris Johnson,Total,14,33,3,9,32
 2011,Chris Johnson,Portland Trail Blazers,10,27,2,6,27
 2011,Chris Johnson,Boston Celtics,4,6,1,3,5
-2011,James Johnson,Total,38,271,89,37,142
 2011,James Johnson,Chicago Bulls,13,42,14,9,24
 2011,James Johnson,Toronto Raptors,25,229,75,28,118
 2011,Joe Johnson,Atlanta Hawks,72,1312,338,7,291
-2011,Trey Johnson,Total,8,34,11,1,7
 2011,Trey Johnson,Toronto Raptors,7,28,11,1,7
 2011,Trey Johnson,Los Angeles Lakers,1,6,0,0,0
 2011,Wesley Johnson,Minnesota Timberwolves,79,709,148,54,240
@@ -925,23 +813,18 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Andrei Kirilenko,Utah Jazz,64,750,192,74,327
 2011,Linas Kleiza,Toronto Raptors,39,436,40,7,177
 2011,Kyle Korver,Chicago Bulls,82,681,124,20,150
-2011,Kosta Koufos,Total,50,160,7,25,130
 2011,Kosta Koufos,Minnesota Timberwolves,39,106,7,20,97
 2011,Kosta Koufos,Denver Nuggets,11,54,0,5,33
-2011,Nenad Krstic,Total,71,575,27,25,335
 2011,Nenad Krstic,Oklahoma City Thunder,47,357,19,17,207
 2011,Nenad Krstic,Boston Celtics,24,218,8,8,128
-2011,Carl Landry,Total,76,903,63,32,347
 2011,Carl Landry,Sacramento Kings,53,631,50,20,253
 2011,Carl Landry,New Orleans Hurricanes,23,272,13,12,94
-2011,Acie Law,Total,51,215,84,0,63
 2011,Acie Law,Memphis Grizzlies,11,12,14,0,11
 2011,Acie Law,Golden State Warriors,40,203,70,0,52
 2011,Gani Lawal,Phoenix Suns,1,0,0,0,0
 2011,Ty Lawson,Denver Nuggets,80,933,377,4,209
 2011,Courtney Lee,Houston Rockets,81,672,100,18,209
 2011,David Lee,Golden State Warriors,73,1203,233,31,714
-2011,Rashard Lewis,Total,57,668,92,30,290
 2011,Rashard Lewis,Orlando Magic,25,304,29,10,106
 2011,Rashard Lewis,Washington Wizards,32,364,63,20,184
 2011,Jeremy Lin,Golden State Warriors,29,76,42,9,34
@@ -980,19 +863,15 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Patty Mills,Portland Trail Blazers,64,353,109,1,51
 2011,Paul Millsap,Utah Jazz,76,1315,187,69,579
 2011,Yao Ming*,Houston Rockets,5,51,4,8,27
-2011,Nazr Mohammed,Total,75,535,23,56,368
 2011,Nazr Mohammed,Charlotte Hornets,51,370,17,46,252
 2011,Nazr Mohammed,Oklahoma City Thunder,24,165,6,10,116
 2011,Greg Monroe,Detroit Pistons,80,751,105,45,601
-2011,Jamario Moon,Total,59,255,52,33,165
 2011,Jamario Moon,Cleveland Cavaliers,40,189,45,27,118
 2011,Jamario Moon,Los Angeles Clippers,19,66,7,6,47
 2011,Anthony Morrow,New Jersey Nets,58,764,68,7,172
-2011,Timofey Mozgov,Total,45,163,15,25,121
 2011,Timofey Mozgov,New York Knicks,34,135,15,23,104
 2011,Timofey Mozgov,Denver Nuggets,11,28,0,2,17
 2011,Byron Mullens,Oklahoma City Thunder,13,25,0,3,24
-2011,Troy Murphy,Total,35,109,23,3,113
 2011,Troy Murphy,New Jersey Nets,18,65,17,2,75
 2011,Troy Murphy,Boston Celtics,17,44,6,1,38
 2011,Hamady N'Diaye,Washington Wizards,16,14,0,5,7
@@ -1002,7 +881,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Jameer Nelson,Orlando Magic,76,997,456,3,226
 2011,Joakim Noah,Chicago Bulls,48,561,107,72,498
 2011,Andres Nocioni,Philadelphia 76ers,54,327,45,15,169
-2011,Steve Novak,Total,30,104,3,5,28
 2011,Steve Novak,Dallas Mavericks,7,11,0,0,5
 2011,Steve Novak,San Antonio Spurs,23,93,3,5,23
 2011,Dirk Nowitzki,Dallas Mavericks,73,1681,190,47,513
@@ -1013,7 +891,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Emeka Okafor,New Orleans Hurricanes,72,745,42,127,684
 2011,Mehmet Okur,Utah Jazz,13,64,19,4,30
 2011,Travis Outlaw,New Jersey Nets,82,756,84,36,325
-2011,Larry Owens,Total,12,40,8,5,15
 2011,Larry Owens,San Antonio Spurs,7,9,1,0,4
 2011,Larry Owens,Washington Wizards,5,31,7,5,11
 2011,Zaza Pachulia,Atlanta Hawks,79,349,58,22,333
@@ -1021,36 +898,30 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Tony Parker,San Antonio Spurs,78,1368,513,3,238
 2011,Patrick Patterson,Houston Rockets,52,328,41,37,200
 2011,Chris Paul,New Orleans Hurricanes,80,1268,782,5,327
-2011,Sasha Pavlovic,Total,31,76,16,7,32
 2011,Sasha Pavlovic,Dallas Mavericks,10,41,7,3,12
 2011,Sasha Pavlovic,New Orleans Hurricanes,4,4,6,4,6
 2011,Sasha Pavlovic,Boston Celtics,17,31,3,0,14
 2011,Nikola Pekovic,Minnesota Timberwolves,65,359,27,35,193
-2011,Kendrick Perkins,Total,29,174,26,26,232
 2011,Kendrick Perkins,Boston Celtics,12,87,10,10,97
 2011,Kendrick Perkins,Oklahoma City Thunder,17,87,16,16,135
 2011,Morris Peterson,Oklahoma City Thunder,4,4,1,0,3
 2011,Johan Petro,New Jersey Nets,77,273,44,34,212
 2011,Paul Pierce,Boston Celtics,80,1511,260,51,430
-2011,Mickael Pietrus,Total,57,410,33,21,126
 2011,Mickael Pietrus,Orlando Magic,19,127,10,3,50
 2011,Mickael Pietrus,Phoenix Suns,38,283,23,18,76
 2011,Dexter Pittman,Miami Heat,2,2,0,0,3
 2011,Quincy Pondexter,New Orleans Hurricanes,66,188,28,10,88
 2011,James Posey,Indiana Pacers,49,240,34,6,147
-2011,Leon Powe,Total,30,158,7,4,63
 2011,Leon Powe,Cleveland Cavaliers,14,70,2,3,38
 2011,Leon Powe,Memphis Grizzlies,16,88,5,1,25
 2011,Josh Powell,Atlanta Hawks,54,224,22,5,135
 2011,A.J. Price,Indiana Pacers,50,323,111,1,72
 2011,Ronnie Price,Utah Jazz,59,197,56,5,61
 2011,Tayshaun Prince,Detroit Pistons,78,1098,215,41,329
-2011,Joel Przybilla,Total,36,64,13,15,145
 2011,Joel Przybilla,Portland Trail Blazers,31,55,13,14,121
 2011,Joel Przybilla,Charlotte Hornets,5,9,0,1,24
 2011,Chris Quinn,San Antonio Spurs,41,81,42,1,25
 2011,Vladimir Radmanovic,Golden State Warriors,74,374,79,44,212
-2011,Anthony Randolph,Total,40,305,33,24,160
 2011,Anthony Randolph,New York Knicks,17,35,7,8,40
 2011,Anthony Randolph,Minnesota Timberwolves,23,270,26,16,120
 2011,Zach Randolph,Memphis Grizzlies,75,1504,163,25,914
@@ -1058,12 +929,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Andy Rautins,New York Knicks,5,8,3,0,1
 2011,Michael Redd,Milwaukee Bucks,10,44,12,1,8
 2011,J.J. Redick,Orlando Magic,59,593,102,3,113
-2011,Jason Richardson,Total,80,1249,147,13,331
 2011,Jason Richardson,Phoenix Suns,25,483,36,3,111
 2011,Jason Richardson,Orlando Magic,55,766,111,10,220
 2011,Quentin Richardson,Orlando Magic,57,249,38,5,178
 2011,Luke Ridnour,Minnesota Timberwolves,71,840,384,10,199
-2011,Nate Robinson,Total,59,401,111,4,90
 2011,Nate Robinson,Boston Celtics,55,388,105,4,89
 2011,Nate Robinson,Oklahoma City Thunder,4,13,6,0,1
 2011,Rajon Rondo,Boston Celtics,68,721,760,11,297
@@ -1084,12 +953,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Bobby Simmons,San Antonio Spurs,2,0,2,0,0
 2011,Brian Skinner,Milwaukee Bucks,2,0,0,0,0
 2011,Craig Smith,Los Angeles Clippers,48,258,31,7,117
-2011,Ish Smith,Total,43,101,79,2,47
 2011,Ish Smith,Houston Rockets,28,74,64,2,42
 2011,Ish Smith,Memphis Grizzlies,15,27,15,0,5
 2011,J.R. Smith,Denver Nuggets,79,969,175,16,322
 2011,Jason Smith,New Orleans Hurricanes,77,331,36,32,241
-2011,Joe Smith,Total,16,8,4,4,21
 2011,Joe Smith,New Jersey Nets,4,2,1,0,3
 2011,Joe Smith,Los Angeles Lakers,12,6,3,4,18
 2011,Josh Smith,Atlanta Hawks,77,1274,255,120,657
@@ -1099,7 +966,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Jerry Stackhouse,Miami Heat,7,12,3,2,7
 2011,Lance Stephenson,Indiana Pacers,12,37,21,0,18
 2011,DeShawn Stevenson,Dallas Mavericks,72,383,77,5,106
-2011,Peja Stojakovic,Total,33,280,29,2,75
 2011,Peja Stojakovic,New Orleans Hurricanes,6,45,6,0,6
 2011,Peja Stojakovic,Toronto Raptors,2,20,1,0,3
 2011,Peja Stojakovic,Dallas Mavericks,25,215,22,2,66
@@ -1107,32 +973,26 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Rodney Stuckey,Detroit Pistons,70,1082,361,10,216
 2011,DaJuan Summers,Detroit Pistons,22,74,2,1,12
 2011,Pape Sy,Atlanta Hawks,3,7,2,0,3
-2011,Jermaine Taylor,Total,34,223,32,5,62
 2011,Jermaine Taylor,Houston Rockets,8,39,2,2,9
 2011,Jermaine Taylor,Sacramento Kings,26,184,30,3,53
 2011,Jeff Teague,Atlanta Hawks,70,361,138,25,102
 2011,Sebastian Telfair,Minnesota Timberwolves,37,266,111,3,54
-2011,Garrett Temple,Total,24,57,32,6,23
 2011,Garrett Temple,San Antonio Spurs,3,2,2,1,2
 2011,Garrett Temple,Milwaukee Bucks,9,17,6,1,6
 2011,Garrett Temple,Charlotte Hornets,12,38,24,4,15
 2011,Jason Terry,Dallas Mavericks,82,1293,334,13,153
-2011,Hasheem Thabeet,Total,47,53,4,16,75
 2011,Hasheem Thabeet,Memphis Grizzlies,45,53,4,15,75
 2011,Hasheem Thabeet,Houston Rockets,2,0,0,1,0
 2011,Etan Thomas,Atlanta Hawks,13,32,2,4,23
 2011,Kurt Thomas,Chicago Bulls,52,211,60,42,301
 2011,Tyrus Thomas,Charlotte Hornets,41,419,29,66,224
 2011,Jason Thompson,Sacramento Kings,75,663,88,44,454
-2011,Al Thornton,Total,71,524,62,12,213
 2011,Al Thornton,Washington Wizards,49,393,51,9,156
 2011,Al Thornton,Golden State Warriors,22,131,11,3,57
-2011,Marcus Thornton,Total,73,933,135,9,258
 2011,Marcus Thornton,New Orleans Hurricanes,46,359,43,4,131
 2011,Marcus Thornton,Sacramento Kings,27,574,92,5,127
 2011,Anthony Tolliver,Minnesota Timberwolves,65,434,82,28,295
 2011,Ronny Turiaf,New York Knicks,64,267,92,73,207
-2011,Hedo Turkoglu,Total,81,877,343,34,356
 2011,Hedo Turkoglu,Phoenix Suns,25,237,58,14,100
 2011,Hedo Turkoglu,Orlando Magic,56,640,285,20,256
 2011,Evan Turner,Philadelphia 76ers,78,565,159,14,306
@@ -1143,7 +1003,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Anderson Varejao,Cleveland Cavaliers,31,282,45,38,301
 2011,Greivis Vasquez,Memphis Grizzlies,70,249,151,4,73
 2011,Charlie Villanueva,Detroit Pistons,76,840,48,42,295
-2011,Sasha Vujacic,Total,67,656,132,5,186
 2011,Sasha Vujacic,Los Angeles Lakers,11,20,5,0,4
 2011,Sasha Vujacic,New Jersey Nets,56,636,127,5,182
 2011,Dwyane Wade,Miami Heat,76,1941,346,87,485
@@ -1151,7 +1010,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Henry Walker,New York Knicks,61,298,34,6,122
 2011,John Wall,Washington Wizards,69,1131,574,35,317
 2011,Ben Wallace,Detroit Pistons,54,154,72,54,350
-2011,Gerald Wallace,Total,71,1113,173,63,569
 2011,Gerald Wallace,Charlotte Hornets,48,749,116,48,394
 2011,Gerald Wallace,Portland Trail Blazers,23,364,57,15,175
 2011,Luke Walton,Los Angeles Lakers,54,91,62,4,67
@@ -1166,35 +1024,28 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Delonte West,Boston Celtics,24,135,64,10,37
 2011,Mario West,New Jersey Nets,6,22,10,0,11
 2011,Russell Westbrook,Oklahoma City Thunder,82,1793,670,30,379
-2011,D.J. White,Total,47,268,19,20,158
 2011,D.J. White,Oklahoma City Thunder,23,65,4,8,52
 2011,D.J. White,Charlotte Hornets,24,203,15,12,106
 2011,Hassan Whiteside,Sacramento Kings,1,0,0,0,0
 2011,Chris Wilcox,Detroit Pistons,57,424,43,17,271
 2011,Damien Wilkins,Atlanta Hawks,52,180,41,9,90
-2011,Deron Williams,Total,65,1309,667,15,260
 2011,Deron Williams,Utah Jazz,53,1129,514,12,205
 2011,Deron Williams,New Jersey Nets,12,180,153,3,55
-2011,Jason Williams,Total,27,54,52,1,30
 2011,Jason Williams,Orlando Magic,16,33,24,0,22
 2011,Jason Williams,Memphis Grizzlies,11,21,28,1,8
 2011,Jawad Williams,Cleveland Cavaliers,26,104,22,3,48
 2011,Lou Williams,Philadelphia 76ers,75,1027,252,17,149
 2011,Marvin Williams,Atlanta Hawks,65,676,88,23,313
-2011,Mo Williams,Total,58,812,380,10,153
 2011,Mo Williams,Cleveland Cavaliers,36,477,257,10,97
 2011,Mo Williams,Los Angeles Clippers,22,335,123,0,56
 2011,Reggie Williams,Golden State Warriors,80,738,121,3,216
 2011,Shawne Williams,New York Knicks,64,454,47,51,239
-2011,Shelden Williams,Total,59,264,32,26,273
 2011,Shelden Williams,Denver Nuggets,42,198,19,22,223
 2011,Shelden Williams,New York Knicks,17,66,13,4,50
-2011,Terrence Williams,Total,21,106,38,0,51
 2011,Terrence Williams,New Jersey Nets,10,67,31,0,36
 2011,Terrence Williams,Houston Rockets,11,39,7,0,15
 2011,Metta World,Los Angeles Lakers,82,697,175,36,267
 2011,Antoine Wright,Sacramento Kings,7,2,0,0,3
-2011,Brandan Wright,Total,37,141,12,17,89
 2011,Brandan Wright,Golden State Warriors,21,83,5,10,41
 2011,Brandan Wright,New Jersey Nets,16,58,7,7,48
 2011,Dorell Wright,Golden State Warriors,82,1344,242,63,431
@@ -1229,7 +1080,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Kelenna Azubuike,Dallas Mavericks,3,7,0,0,0
 2012,Luke Babbitt,Portland Trail Blazers,40,202,16,4,95
 2012,Renaldo Balkman,New York Knicks,14,42,5,3,26
-2012,Leandro Barbosa,Total,64,708,96,7,128
 2012,Leandro Barbosa,Toronto Raptors,42,512,63,7,79
 2012,Leandro Barbosa,Indiana Pacers,22,196,33,0,49
 2012,J.J. Barea,Minnesota Timberwolves,41,463,232,0,114
@@ -1281,11 +1131,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Andrew Bynum,Los Angeles Lakers,60,1123,85,116,709
 2012,Will Bynum,Detroit Pistons,36,204,66,3,56
 2012,Jose Calderon,Toronto Raptors,53,555,468,3,160
-2012,Marcus Camby,Total,59,287,107,85,530
 2012,Marcus Camby,Portland Trail Blazers,40,152,75,56,354
 2012,Marcus Camby,Houston Rockets,19,135,32,29,176
 2012,Brian Cardinal,Dallas Mavericks,44,43,16,2,34
-2012,DeMarre Carroll,Total,24,107,18,1,53
 2012,DeMarre Carroll,Denver Nuggets,4,12,3,0,3
 2012,DeMarre Carroll,Utah Jazz,20,95,15,1,50
 2012,Matt Carroll,Charlotte Hornets,53,142,38,7,58
@@ -1302,7 +1150,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Darren Collison,Indiana Pacers,60,621,287,14,187
 2012,Nick Collison,Oklahoma City Thunder,63,284,82,28,274
 2012,Mike Conley,Memphis Grizzlies,62,788,404,11,156
-2012,Brian Cook,Total,32,81,10,5,63
 2012,Brian Cook,Los Angeles Clippers,16,31,2,4,23
 2012,Brian Cook,Washington Wizards,16,50,8,1,40
 2012,Daequan Cook,Oklahoma City Thunder,57,311,15,11,122
@@ -1323,11 +1170,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Austin Daye,Detroit Pistons,41,194,33,21,91
 2012,Carlos Delfino,Milwaukee Bucks,54,488,123,10,208
 2012,Luol Deng,Chicago Bulls,54,828,157,36,350
-2012,Justin Dentmon,Total,6,26,10,0,8
 2012,Justin Dentmon,San Antonio Spurs,2,4,1,0,1
 2012,Justin Dentmon,Toronto Raptors,4,22,9,0,7
 2012,DeMar DeRozan,Toronto Raptors,63,1054,128,17,211
-2012,Boris Diaw,Total,57,365,205,25,280
 2012,Boris Diaw,Charlotte Hornets,37,272,158,19,195
 2012,Boris Diaw,San Antonio Spurs,20,93,47,6,85
 2012,Ike Diogu,San Antonio Spurs,2,2,0,0,1
@@ -1343,7 +1188,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Jerome Dyson,New Orleans Hurricanes,9,67,18,2,19
 2012,Devin Ebanks,Los Angeles Lakers,24,97,12,6,54
 2012,Wayne Ellington,Minnesota Timberwolves,51,311,33,10,99
-2012,Monta Ellis,Total,58,1181,346,18,200
 2012,Monta Ellis,Golden State Warriors,37,811,223,12,127
 2012,Monta Ellis,Milwaukee Bucks,21,370,123,6,73
 2012,Francisco Elson,Philadelphia 76ers,5,2,1,1,1
@@ -1353,7 +1197,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Maurice Evans,Washington Wizards,24,117,9,0,24
 2012,Reggie Evans,Los Angeles Clippers,56,104,17,6,271
 2012,Tyreke Evans,Sacramento Kings,63,1037,283,29,289
-2012,Christian Eyenga,Total,7,17,5,5,14
 2012,Christian Eyenga,Cleveland Cavaliers,6,9,4,4,12
 2012,Christian Eyenga,Los Angeles Lakers,1,8,1,1,2
 2012,Kenneth Faried,Denver Nuggets,46,471,36,47,352
@@ -1363,16 +1206,13 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Rudy Fernandez,Denver Nuggets,31,268,75,3,65
 2012,Kyrylo Fesenko,Indiana Pacers,3,8,1,0,9
 2012,Landry Fields,New York Knicks,66,580,169,17,278
-2012,Derek Fisher,Total,63,350,170,4,121
 2012,Derek Fisher,Los Angeles Lakers,43,252,142,3,92
 2012,Derek Fisher,Oklahoma City Thunder,20,98,28,1,29
-2012,Jonny Flynn,Total,29,131,96,2,39
 2012,Jonny Flynn,Houston Rockets,11,37,28,1,8
 2012,Jonny Flynn,Portland Trail Blazers,18,94,68,1,31
 2012,Jeff Foote,New Orleans Hurricanes,4,4,0,1,6
 2012,Gary Forbes,Toronto Raptors,48,319,54,4,102
 2012,T.J. Ford,San Antonio Spurs,14,51,45,2,18
-2012,Courtney Fortson,Total,10,35,10,0,15
 2012,Courtney Fortson,Los Angeles Clippers,4,17,5,0,8
 2012,Courtney Fortson,Houston Rockets,6,18,5,0,7
 2012,Jeff Foster,Indiana Pacers,11,25,4,1,42
@@ -1392,7 +1232,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Daniel Gibson,Cleveland Cavaliers,35,263,76,16,101
 2012,Taj Gibson,Chicago Bulls,63,484,47,81,332
 2012,Manu Ginobili,San Antonio Spurs,34,440,151,12,116
-2012,Mickell Gladness,Total,26,56,5,20,58
 2012,Mickell Gladness,Miami Heat,8,2,2,1,11
 2012,Mickell Gladness,Golden State Warriors,18,54,3,19,47
 2012,Ryan Gomes,Los Angeles Clippers,32,74,12,0,61
@@ -1430,22 +1269,18 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Gerald Henderson,Charlotte Hornets,55,830,126,20,225
 2012,Xavier Henry,New Orleans Hurricanes,45,239,35,8,106
 2012,Roy Hibbert,Indiana Pacers,65,834,108,128,572
-2012,J.J. Hickson,Total,54,452,45,35,335
 2012,J.J. Hickson,Sacramento Kings,35,165,22,17,177
 2012,J.J. Hickson,Portland Trail Blazers,19,287,23,18,158
 2012,Cory Higgins,Charlotte Hornets,38,150,36,6,35
-2012,Nene Hilario,Total,39,535,80,38,291
 2012,Nene Hilario,Denver Nuggets,28,376,61,25,208
 2012,Nene Hilario,Washington Wizards,11,159,19,13,83
 2012,George Hill,Indiana Pacers,50,481,145,17,151
 2012,Grant Hill,Phoenix Suns,49,499,107,29,171
-2012,Jordan Hill,Total,39,194,16,27,186
 2012,Jordan Hill,Houston Rockets,32,161,14,21,155
 2012,Jordan Hill,Los Angeles Lakers,7,33,2,6,31
 2012,Kirk Hinrich,Atlanta Hawks,48,316,132,11,101
 2012,Darington Hobson,Milwaukee Bucks,5,4,6,0,3
 2012,Jrue Holiday,Philadelphia 76ers,65,879,290,18,212
-2012,Ryan Hollins,Total,39,131,9,17,82
 2012,Ryan Hollins,Cleveland Cavaliers,24,89,6,12,56
 2012,Ryan Hollins,Boston Celtics,15,42,3,5,26
 2012,Tyler Honeycutt,Sacramento Kings,15,20,7,3,14
@@ -1454,7 +1289,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Dwight Howard,Orlando Magic,54,1113,104,116,785
 2012,Josh Howard,Utah Jazz,43,372,50,10,158
 2012,Juwan Howard,Miami Heat,28,42,10,1,47
-2012,Lester Hudson,Total,16,174,36,3,46
 2012,Lester Hudson,Cleveland Cavaliers,13,165,35,3,46
 2012,Lester Hudson,Memphis Grizzlies,3,9,1,0,0
 2012,Larry Hughes,Orlando Magic,9,12,7,0,5
@@ -1466,7 +1300,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Royal Ivey,Oklahoma City Thunder,34,71,10,0,24
 2012,Jarrett Jack,New Orleans Hurricanes,45,700,285,9,176
 2012,Reggie Jackson,Oklahoma City Thunder,45,140,71,1,53
-2012,Stephen Jackson,Total,47,461,118,13,163
 2012,Stephen Jackson,Milwaukee Bucks,26,274,77,6,82
 2012,Stephen Jackson,San Antonio Spurs,21,187,41,7,81
 2012,Damion James,New Jersey Nets,7,34,3,7,33
@@ -1474,7 +1307,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Mike James,Chicago Bulls,11,53,29,2,10
 2012,Antawn Jamison,Cleveland Cavaliers,65,1118,131,43,408
 2012,Al Jefferson,Utah Jazz,61,1170,134,101,585
-2012,Richard Jefferson,Total,63,578,88,19,219
 2012,Richard Jefferson,San Antonio Spurs,41,379,55,12,143
 2012,Richard Jefferson,Golden State Warriors,22,199,33,7,76
 2012,Jared Jeffries,New York Knicks,39,170,26,25,152
@@ -1483,11 +1315,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Jonas Jerebko,Detroit Pistons,64,556,43,21,308
 2012,Yi Jianlian,Dallas Mavericks,30,79,5,8,49
 2012,Amir Johnson,Toronto Raptors,64,452,79,69,408
-2012,Armon Johnson,Total,9,47,11,0,13
 2012,Armon Johnson,Portland Trail Blazers,1,2,0,0,1
 2012,Armon Johnson,New Jersey Nets,8,45,11,0,12
 2012,Carldell Johnson,New Orleans Hurricanes,15,27,22,0,9
-2012,Chris Johnson,Total,27,55,2,9,40
 2012,Chris Johnson,Portland Trail Blazers,20,32,1,8,18
 2012,Chris Johnson,New Orleans Hurricanes,7,23,1,1,22
 2012,Ivan Johnson,Atlanta Hawks,56,356,32,18,226
@@ -1499,7 +1329,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Dahntay Jones,Indiana Pacers,65,346,63,11,117
 2012,Dominique Jones,Dallas Mavericks,33,88,42,5,44
 2012,James Jones,Miami Heat,51,185,19,9,49
-2012,Solomon Jones,Total,21,67,9,11,58
 2012,Solomon Jones,Los Angeles Clippers,10,6,2,5,17
 2012,Solomon Jones,New Orleans Hurricanes,11,61,7,6,41
 2012,DeAndre Jordan,Los Angeles Clippers,66,486,17,134,546
@@ -1546,7 +1375,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Eric Maynor,Oklahoma City Thunder,9,38,22,0,13
 2012,O.J. Mayo,Memphis Grizzlies,66,833,169,23,210
 2012,Luc Mbah,Milwaukee Bucks,43,333,29,22,227
-2012,JaVale McGee,Total,61,691,31,132,477
 2012,JaVale McGee,Washington Wizards,41,486,25,101,362
 2012,JaVale McGee,Denver Nuggets,20,205,6,31,115
 2012,Tracy McGrady,Atlanta Hawks,52,273,110,15,154
@@ -1631,7 +1459,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Thabo Sefolosha,Oklahoma City Thunder,42,203,47,17,128
 2012,Josh Selby,Memphis Grizzlies,28,63,30,0,15
 2012,Kevin Seraphin,Washington Wizards,57,453,33,76,280
-2012,Ramon Sessions,Total,64,721,354,3,214
 2012,Ramon Sessions,Cleveland Cavaliers,41,430,212,1,127
 2012,Ramon Sessions,Los Angeles Lakers,23,291,142,2,87
 2012,Iman Shumpert,New York Knicks,59,563,164,8,186
@@ -1640,13 +1467,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Chris Singleton,Washington Wizards,66,306,49,30,233
 2012,James Singleton,Washington Wizards,12,98,15,8,81
 2012,Brian Skinner,Memphis Grizzlies,1,0,0,0,0
-2012,Donald Sloan,Total,33,183,105,3,67
 2012,Donald Sloan,Atlanta Hawks,5,6,5,0,5
 2012,Donald Sloan,New Orleans Hurricanes,3,12,8,0,3
 2012,Donald Sloan,Cleveland Cavaliers,25,165,92,3,59
 2012,Craig Smith,Portland Trail Blazers,47,156,19,5,110
 2012,Greg Smith,Houston Rockets,8,14,1,5,20
-2012,Ish Smith,Total,26,72,41,2,35
 2012,Ish Smith,Golden State Warriors,6,27,9,0,9
 2012,Ish Smith,Orlando Magic,20,45,32,2,26
 2012,J.R. Smith,New York Knicks,35,436,84,6,136
@@ -1667,7 +1492,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Jeff Teague,Atlanta Hawks,66,831,321,37,159
 2012,Sebastian Telfair,Phoenix Suns,60,368,138,12,91
 2012,Jason Terry,Dallas Mavericks,63,950,226,11,149
-2012,Hasheem Thabeet,Total,20,35,0,10,42
 2012,Hasheem Thabeet,Houston Rockets,5,6,0,2,7
 2012,Hasheem Thabeet,Portland Trail Blazers,15,29,0,8,35
 2012,Isaiah Thomas,Sacramento Kings,65,749,266,8,168
@@ -1683,18 +1507,15 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Marcus Thornton,Sacramento Kings,51,952,98,12,188
 2012,Jamaal Tinsley,Utah Jazz,37,137,123,8,45
 2012,Anthony Tolliver,Minnesota Timberwolves,51,208,22,19,153
-2012,Ronny Turiaf,Total,17,51,10,17,70
 2012,Ronny Turiaf,Washington Wizards,4,6,5,3,12
 2012,Ronny Turiaf,Miami Heat,13,45,5,14,58
 2012,Hedo Turkoglu,Orlando Magic,53,576,233,17,199
 2012,Evan Turner,Philadelphia 76ers,65,610,180,20,376
 2012,Jeremy Tyler,Golden State Warriors,42,205,16,20,140
 2012,Edwin Ubiles,Washington Wizards,4,14,1,1,10
-2012,Ekpe Udoh,Total,61,340,57,102,254
 2012,Ekpe Udoh,Golden State Warriors,38,210,31,65,147
 2012,Ekpe Udoh,Milwaukee Bucks,23,130,26,37,107
 2012,Beno Udrih,Milwaukee Bucks,59,348,227,1,102
-2012,Ben Uzoh,Total,18,81,61,3,67
 2012,Ben Uzoh,Cleveland Cavaliers,2,4,2,0,4
 2012,Ben Uzoh,Toronto Raptors,16,77,59,3,63
 2012,Anderson Varejao,Cleveland Cavaliers,25,271,43,17,287
@@ -1708,10 +1529,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Kemba Walker,Charlotte Hornets,66,799,289,20,234
 2012,John Wall,Washington Wizards,66,1076,530,57,300
 2012,Ben Wallace,Detroit Pistons,62,85,43,51,269
-2012,Gerald Wallace,Total,58,800,164,36,386
 2012,Gerald Wallace,Portland Trail Blazers,42,557,115,25,277
 2012,Gerald Wallace,New Jersey Nets,16,243,49,11,109
-2012,Luke Walton,Total,30,55,35,1,49
 2012,Luke Walton,Los Angeles Lakers,9,12,5,0,14
 2012,Luke Walton,Cleveland Cavaliers,21,43,30,1,35
 2012,Hakim Warrick,Phoenix Suns,35,225,30,3,92
@@ -1734,22 +1553,18 @@ year,player,team,games,points,assists,blocks,rebounds
 2012,Marvin Williams,Atlanta Hawks,57,579,71,18,294
 2012,Mo Williams,Los Angeles Clippers,52,685,160,7,99
 2012,Reggie Williams,Charlotte Hornets,33,274,60,3,93
-2012,Sean Williams,Total,11,40,5,8,25
 2012,Sean Williams,Dallas Mavericks,8,29,2,5,13
 2012,Sean Williams,Boston Celtics,3,11,3,3,12
 2012,Shawne Williams,New Jersey Nets,25,113,16,11,68
 2012,Shelden Williams,New Jersey Nets,58,268,35,39,350
-2012,Terrence Williams,Total,30,213,65,7,102
 2012,Terrence Williams,Houston Rockets,12,54,10,1,28
 2012,Terrence Williams,Sacramento Kings,18,159,55,6,74
 2012,Metta World,Los Angeles Lakers,64,493,140,27,218
 2012,Brandan Wright,Dallas Mavericks,49,340,13,63,174
 2012,Chris Wright,Golden State Warriors,24,70,4,13,45
 2012,Dorell Wright,Golden State Warriors,61,629,94,26,278
-2012,Nick Young,Total,62,879,56,17,133
 2012,Nick Young,Washington Wizards,40,665,46,11,97
 2012,Nick Young,Los Angeles Clippers,22,214,10,6,36
-2012,Sam Young,Total,35,114,15,6,62
 2012,Sam Young,Memphis Grizzlies,21,74,9,2,41
 2012,Sam Young,Philadelphia 76ers,14,40,6,4,21
 2012,Thaddeus Young,Philadelphia 76ers,63,808,74,41,325
@@ -1757,7 +1572,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Jeff Adrien,Charlotte Hornets,52,209,36,27,196
 2013,Arron Afflalo,Orlando Magic,64,1057,206,11,239
 2013,Josh Akognon,Dallas Mavericks,3,5,1,0,1
-2013,Cole Aldrich,Total,45,100,9,23,120
 2013,Cole Aldrich,Houston Rockets,30,50,6,9,57
 2013,Cole Aldrich,Sacramento Kings,15,50,3,14,63
 2013,LaMarcus Aldridge,Portland Trail Blazers,74,1560,192,91,670
@@ -1765,13 +1579,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Ray Allen,Miami Heat,79,863,135,15,217
 2013,Tony Allen,Memphis Grizzlies,79,705,98,44,363
 2013,Al-Farouq Aminu,New Orleans Hurricanes,76,555,103,51,585
-2013,Lou Amundson,Total,39,76,11,12,106
 2013,Lou Amundson,Minnesota Timberwolves,20,32,3,6,47
 2013,Lou Amundson,Chicago Bulls,1,0,0,0,1
 2013,Lou Amundson,New Orleans Hurricanes,18,44,8,6,58
 2013,Chris Andersen,Miami Heat,42,207,17,44,172
 2013,Alan Anderson,Toronto Raptors,65,693,103,7,148
-2013,James Anderson,Total,39,149,42,5,72
 2013,James Anderson,San Antonio Spurs,10,34,9,2,14
 2013,James Anderson,Houston Rockets,29,115,33,3,58
 2013,Ryan Anderson,New Orleans Hurricanes,81,1309,97,31,519
@@ -1781,7 +1593,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Darrell Arthur,Memphis Grizzlies,59,362,33,33,169
 2013,Omer Asik,Houston Rockets,82,832,75,87,956
 2013,D.J. Augustin,Indiana Pacers,76,356,170,3,91
-2013,Gustavo Ayon,Total,55,204,71,17,199
 2013,Gustavo Ayon,Orlando Magic,43,153,59,13,140
 2013,Gustavo Ayon,Milwaukee Bucks,12,51,12,4,59
 2013,Jeff Ayres,Indiana Pacers,37,145,15,12,104
@@ -1791,7 +1602,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Andrea Bargnani,Toronto Raptors,35,443,38,23,128
 2013,Harrison Barnes,Golden State Warriors,81,748,98,14,333
 2013,Matt Barnes,Los Angeles Clippers,80,822,123,63,366
-2013,Earl Barron,Total,12,39,5,6,61
 2013,Earl Barron,Washington Wizards,11,28,3,5,43
 2013,Earl Barron,New York Knicks,1,11,2,1,18
 2013,Will Barton,Portland Trail Blazers,73,295,58,9,145
@@ -1822,10 +1632,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Avery Bradley,Boston Celtics,50,461,104,19,111
 2013,Elton Brand,Dallas Mavericks,72,518,70,90,430
 2013,Corey Brewer,Denver Nuggets,82,990,124,23,235
-2013,Ronnie Brewer,Total,60,179,50,6,140
 2013,Ronnie Brewer,New York Knicks,46,166,40,6,100
 2013,Ronnie Brewer,Oklahoma City Thunder,14,13,10,0,40
-2013,Aaron Brooks,Total,53,376,114,10,80
 2013,Aaron Brooks,Sacramento Kings,46,366,108,7,78
 2013,Aaron Brooks,Houston Rockets,7,10,6,3,2
 2013,MarShon Brooks,Brooklyn Nets,73,394,76,16,104
@@ -1837,7 +1645,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Caron Butler,Los Angeles Clippers,78,813,78,11,223
 2013,Jimmy Butler,Chicago Bulls,82,705,115,31,328
 2013,Will Bynum,Detroit Pistons,65,636,231,5,97
-2013,Jose Calderon,Total,73,826,518,8,176
 2013,Jose Calderon,Toronto Raptors,45,500,333,6,106
 2013,Jose Calderon,Detroit Pistons,28,326,185,2,70
 2013,Marcus Camby,New York Knicks,24,42,14,14,80
@@ -1852,20 +1659,17 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Earl Clark,Los Angeles Lakers,59,428,65,44,325
 2013,Victor Claver,Portland Trail Blazers,49,187,43,12,119
 2013,Norris Cole,Miami Heat,80,445,164,7,130
-2013,Jason Collins,Total,38,41,8,10,60
 2013,Jason Collins,Boston Celtics,32,37,6,6,52
 2013,Jason Collins,Washington Wizards,6,4,2,4,8
 2013,Darren Collison,Dallas Mavericks,81,972,415,8,219
 2013,Nick Collison,Oklahoma City Thunder,81,412,121,30,333
 2013,Mike Conley,Memphis Grizzlies,80,1168,487,24,225
 2013,Will Conroy,Minnesota Timberwolves,4,1,0,0,1
-2013,Daequan Cook,Total,49,137,19,7,61
 2013,Daequan Cook,Houston Rockets,16,55,10,2,18
 2013,Daequan Cook,Chicago Bulls,33,82,9,5,43
 2013,Chris Copeland,New York Knicks,56,486,27,12,119
 2013,DeMarcus Cousins,Sacramento Kings,75,1280,199,55,746
 2013,Jamal Crawford,Los Angeles Clippers,76,1255,193,13,128
-2013,Jordan Crawford,Total,70,814,225,7,209
 2013,Jordan Crawford,Washington Wizards,43,568,157,5,135
 2013,Jordan Crawford,Boston Celtics,27,246,68,2,74
 2013,Jae Crowder,Dallas Mavericks,78,392,94,17,187
@@ -1876,11 +1680,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Samuel Dalembert,Milwaukee Bucks,47,313,21,53,276
 2013,Marquis Daniels,Milwaukee Bucks,59,324,65,10,150
 2013,Anthony Davis,New Orleans Hurricanes,64,867,63,112,522
-2013,Ed Davis,Total,81,623,63,85,460
 2013,Ed Davis,Toronto Raptors,45,438,55,38,300
 2013,Ed Davis,Memphis Grizzlies,36,185,8,47,160
 2013,Glen Davis,Orlando Magic,34,512,70,21,246
-2013,Austin Daye,Total,55,247,42,22,123
 2013,Austin Daye,Detroit Pistons,24,122,21,8,63
 2013,Austin Daye,Memphis Grizzlies,31,125,21,14,60
 2013,Nando De,San Antonio Spurs,72,276,138,6,138
@@ -1891,7 +1693,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Boris Diaw,San Antonio Spurs,75,435,180,27,254
 2013,DeSagana Diop,Charlotte Hornets,22,16,13,16,51
 2013,Keyon Dooling,Memphis Grizzlies,7,31,8,0,1
-2013,Toney Douglas,Total,71,534,151,3,138
 2013,Toney Douglas,Houston Rockets,49,399,93,2,90
 2013,Toney Douglas,Sacramento Kings,22,135,58,1,48
 2013,Chris Douglas-Roberts,Dallas Mavericks,6,17,4,0,5
@@ -1903,7 +1704,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Mike Dunleavy,Milwaukee Bucks,75,785,145,35,291
 2013,Kevin Durant,Oklahoma City Thunder,81,2280,374,105,640
 2013,Devin Ebanks,Los Angeles Lakers,19,65,10,1,41
-2013,Wayne Ellington,Total,78,614,104,3,166
 2013,Wayne Ellington,Memphis Grizzlies,40,218,42,1,52
 2013,Wayne Ellington,Cleveland Cavaliers,38,396,62,2,114
 2013,Monta Ellis,Milwaukee Bucks,82,1577,496,36,316
@@ -1916,7 +1716,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Derrick Favors,Utah Jazz,77,727,75,130,546
 2013,Raymond Felton,New York Knicks,68,948,372,14,194
 2013,Landry Fields,Toronto Raptors,51,240,60,8,208
-2013,Derek Fisher,Total,33,175,47,3,37
 2013,Derek Fisher,Dallas Mavericks,9,77,31,2,15
 2013,Derek Fisher,Oklahoma City Thunder,24,98,16,1,22
 2013,Evan Fournier,Denver Nuggets,38,202,44,1,35
@@ -1924,14 +1723,12 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Jimmer Fredette,Sacramento Kings,69,494,92,3,71
 2013,Joel Freeland,Portland Trail Blazers,51,134,13,11,119
 2013,Danilo Gallinari,Denver Nuggets,71,1149,176,36,367
-2013,Francisco Garcia,Total,58,321,63,38,91
 2013,Francisco Garcia,Sacramento Kings,40,206,43,31,68
 2013,Francisco Garcia,Houston Rockets,18,115,20,7,23
 2013,Kevin Garnett,Boston Celtics,68,1004,159,62,530
 2013,Diante Garrett,Phoenix Suns,19,40,31,0,15
 2013,Marc Gasol,Memphis Grizzlies,80,1127,318,139,622
 2013,Pau Gasol,Los Angeles Lakers,49,673,200,61,421
-2013,Rudy Gay,Total,75,1366,202,53,461
 2013,Rudy Gay,Memphis Grizzlies,42,723,108,31,249
 2013,Rudy Gay,Toronto Raptors,33,643,94,22,212
 2013,Alonzo Gee,Cleveland Cavaliers,82,842,133,29,320
@@ -1953,7 +1750,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Jeff Green,Boston Celtics,81,1036,128,68,318
 2013,Willie Green,Los Angeles Clippers,72,450,55,12,97
 2013,Blake Griffin,Los Angeles Clippers,80,1440,299,50,662
-2013,Hamed Haddadi,Total,30,84,12,27,111
 2013,Hamed Haddadi,Memphis Grizzlies,13,15,4,6,24
 2013,Hamed Haddadi,Phoenix Suns,17,69,8,21,87
 2013,Jordan Hamilton,Denver Nuggets,40,208,23,8,95
@@ -1965,10 +1761,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Josh Harrellson,Miami Heat,6,10,0,1,7
 2013,Al Harrington,Orlando Magic,10,51,10,1,27
 2013,Devin Harris,Atlanta Hawks,58,577,197,13,116
-2013,Terrel Harris,Total,20,15,9,3,26
 2013,Terrel Harris,Miami Heat,7,10,2,0,9
 2013,Terrel Harris,New Orleans Hurricanes,13,5,7,3,17
-2013,Tobias Harris,Total,55,603,69,44,287
 2013,Tobias Harris,Milwaukee Bucks,28,136,13,7,57
 2013,Tobias Harris,Orlando Magic,27,467,56,37,230
 2013,Udonis Haslem,Miami Heat,75,290,38,15,404
@@ -2013,7 +1807,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Al Jefferson,Utah Jazz,78,1391,164,89,720
 2013,Richard Jefferson,Golden State Warriors,56,176,31,7,84
 2013,Jared Jeffries,Portland Trail Blazers,38,44,14,6,60
-2013,Charles Jenkins,Total,59,111,44,2,32
 2013,Charles Jenkins,Golden State Warriors,47,81,28,1,21
 2013,Charles Jenkins,Philadelphia 76ers,12,30,16,1,11
 2013,John Jenkins,Atlanta Hawks,61,374,56,10,94
@@ -2028,7 +1821,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Orlando Johnson,Indiana Pacers,51,203,47,9,110
 2013,Wesley Johnson,Phoenix Suns,50,399,34,18,123
 2013,Darius Johnson-Odom,Los Angeles Lakers,4,0,1,0,4
-2013,Dahntay Jones,Total,78,262,48,6,101
 2013,Dahntay Jones,Dallas Mavericks,50,174,28,5,70
 2013,Dahntay Jones,Atlanta Hawks,28,88,20,1,31
 2013,DeQuan Jones,Orlando Magic,63,233,16,22,105
@@ -2040,7 +1832,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Terrence Jones,Houston Rockets,19,104,15,19,65
 2013,DeAndre Jordan,Los Angeles Clippers,82,724,28,112,594
 2013,Cory Joseph,San Antonio Spurs,28,126,53,4,52
-2013,Kris Joseph,Total,10,9,1,0,7
 2013,Kris Joseph,Boston Celtics,6,7,1,0,5
 2013,Kris Joseph,Brooklyn Nets,4,2,0,0,2
 2013,Chris Kaman,Dallas Mavericks,66,693,51,52,372
@@ -2053,7 +1844,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Kyle Korver,Atlanta Hawks,74,810,146,37,293
 2013,Kosta Koufos,Denver Nuggets,81,648,32,103,562
 2013,Viacheslav Kravtsov,Detroit Pistons,25,77,9,9,45
-2013,Doron Lamb,Total,47,154,32,0,46
 2013,Doron Lamb,Milwaukee Bucks,23,78,20,0,17
 2013,Doron Lamb,Orlando Magic,24,76,12,0,29
 2013,Jeremy Lamb,Oklahoma City Thunder,23,71,5,2,18
@@ -2064,14 +1854,12 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Malcolm Lee,Minnesota Timberwolves,16,78,20,6,39
 2013,Kawhi Leonard,San Antonio Spurs,58,689,93,32,346
 2013,Meyers Leonard,Portland Trail Blazers,69,377,33,38,255
-2013,Jon Leuer,Total,28,56,8,0,37
 2013,Jon Leuer,Cleveland Cavaliers,9,22,5,0,13
 2013,Jon Leuer,Memphis Grizzlies,19,34,3,0,24
 2013,Rashard Lewis,Miami Heat,55,285,30,14,121
 2013,DeAndre Liggins,Oklahoma City Thunder,39,58,15,3,53
 2013,Damian Lillard,Portland Trail Blazers,82,1562,531,19,257
 2013,Jeremy Lin,Houston Rockets,82,1095,497,29,247
-2013,Shaun Livingston,Total,66,417,215,31,158
 2013,Shaun Livingston,Washington Wizards,17,63,38,2,37
 2013,Shaun Livingston,Cleveland Cavaliers,49,354,177,29,121
 2013,Brook Lopez,Brooklyn Nets,74,1437,70,154,512
@@ -2080,7 +1868,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Kyle Lowry,Toronto Raptors,68,791,435,24,321
 2013,John Lucas,Toronto Raptors,63,333,105,1,65
 2013,Scott Machado,Houston Rockets,6,8,6,0,1
-2013,Shelvin Mack,Total,31,143,68,0,40
 2013,Shelvin Mack,Washington Wizards,7,37,23,0,16
 2013,Shelvin Mack,Philadelphia 76ers,4,2,1,0,0
 2013,Shelvin Mack,Atlanta Hawks,20,104,44,0,24
@@ -2094,17 +1881,14 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Roger Mason,New Orleans Hurricanes,69,369,74,11,132
 2013,Wesley Matthews,Portland Trail Blazers,69,1022,174,18,191
 2013,Jason Maxiell,Detroit Pistons,72,498,54,95,409
-2013,Eric Maynor,Total,64,291,182,1,46
 2013,Eric Maynor,Oklahoma City Thunder,37,104,73,0,18
 2013,Eric Maynor,Portland Trail Blazers,27,187,109,1,28
 2013,O.J. Mayo,Dallas Mavericks,82,1255,361,23,291
 2013,Luc Mbah,Milwaukee Bucks,58,387,55,14,256
 2013,JaVale McGee,Denver Nuggets,79,717,24,157,381
-2013,Dominic McGuire,Total,26,51,20,11,78
 2013,Dominic McGuire,Toronto Raptors,15,32,10,8,48
 2013,Dominic McGuire,New Orleans Hurricanes,9,19,9,3,28
 2013,Dominic McGuire,Indiana Pacers,2,0,1,0,2
-2013,Josh McRoberts,Total,67,401,141,27,325
 2013,Josh McRoberts,Orlando Magic,41,159,70,12,137
 2013,Josh McRoberts,Charlotte Hornets,26,242,71,15,188
 2013,Jodie Meeks,Los Angeles Lakers,78,618,69,5,171
@@ -2122,11 +1906,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Greg Monroe,Detroit Pistons,81,1298,281,55,777
 2013,E'Twaun Moore,Orlando Magic,75,588,206,23,167
 2013,Darius Morris,Los Angeles Lakers,48,194,76,2,57
-2013,Marcus Morris,Total,77,596,62,20,277
 2013,Marcus Morris,Houston Rockets,54,465,47,16,219
 2013,Marcus Morris,Phoenix Suns,23,131,15,4,58
 2013,Markieff Morris,Phoenix Suns,82,670,108,64,396
-2013,Anthony Morrow,Total,41,164,13,1,30
 2013,Anthony Morrow,Atlanta Hawks,24,125,9,1,26
 2013,Anthony Morrow,Dallas Mavericks,17,39,4,0,4
 2013,Donatas Motiejunas,Houston Rockets,44,250,31,10,93
@@ -2150,16 +1932,13 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Daniel Orton,Oklahoma City Thunder,13,33,4,3,26
 2013,Travis Outlaw,Sacramento Kings,38,200,21,8,61
 2013,Zaza Pachulia,Atlanta Hawks,52,306,79,12,336
-2013,Jannero Pargo,Total,32,207,67,3,35
 2013,Jannero Pargo,Washington Wizards,7,21,14,1,6
 2013,Jannero Pargo,Atlanta Hawks,7,35,19,0,7
 2013,Jannero Pargo,Charlotte Hornets,18,151,34,2,22
-2013,Jeremy Pargo,Total,39,265,92,2,49
 2013,Jeremy Pargo,Cleveland Cavaliers,25,196,64,2,32
 2013,Jeremy Pargo,Philadelphia 76ers,14,69,28,0,17
 2013,Tony Parker,San Antonio Spurs,66,1341,499,6,198
 2013,Chandler Parsons,Houston Rockets,76,1177,269,32,404
-2013,Patrick Patterson,Total,71,737,81,40,337
 2013,Patrick Patterson,Houston Rockets,47,544,51,27,221
 2013,Patrick Patterson,Sacramento Kings,24,193,30,13,116
 2013,Chris Paul,Los Angeles Clippers,70,1186,678,10,262
@@ -2169,7 +1948,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Johan Petro,Atlanta Hawks,31,108,16,9,112
 2013,Paul Pierce,Boston Celtics,77,1430,370,30,487
 2013,Mickael Pietrus,Toronto Raptors,19,100,9,6,36
-2013,Dexter Pittman,Total,11,8,0,0,12
 2013,Dexter Pittman,Miami Heat,4,6,0,0,7
 2013,Dexter Pittman,Memphis Grizzlies,7,2,0,0,5
 2013,Miles Plumlee,Indiana Pacers,14,13,2,3,22
@@ -2177,7 +1955,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,A.J. Price,Washington Wizards,57,441,205,3,114
 2013,Ronnie Price,Portland Trail Blazers,39,105,73,3,44
 2013,Pablo Prigioni,New York Knicks,78,275,236,2,143
-2013,Tayshaun Prince,Total,82,852,196,25,364
 2013,Tayshaun Prince,Detroit Pistons,45,527,111,13,209
 2013,Tayshaun Prince,Memphis Grizzlies,37,325,85,12,155
 2013,Joel Przybilla,Milwaukee Bucks,12,2,4,2,21
@@ -2186,7 +1963,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Anthony Randolph,Denver Nuggets,39,143,12,21,95
 2013,Shavlik Randolph,Boston Celtics,16,67,4,7,70
 2013,Zach Randolph,Memphis Grizzlies,76,1169,108,31,854
-2013,J.J. Redick,Total,78,1100,296,9,171
 2013,J.J. Redick,Orlando Magic,50,756,220,5,119
 2013,J.J. Redick,Milwaukee Bucks,28,344,76,4,52
 2013,Jason Richardson,Philadelphia 76ers,33,347,51,15,127
@@ -2195,7 +1971,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Austin Rivers,New Orleans Hurricanes,61,377,127,9,109
 2013,Brian Roberts,New Orleans Hurricanes,78,555,219,3,97
 2013,Nate Robinson,Chicago Bulls,82,1074,358,10,184
-2013,Thomas Robinson,Total,70,333,46,26,315
 2013,Thomas Robinson,Sacramento Kings,51,247,36,21,238
 2013,Thomas Robinson,Houston Rockets,19,86,10,5,77
 2013,Rajon Rondo,Boston Celtics,38,522,420,9,212
@@ -2219,18 +1994,15 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Henry Sims,New Orleans Hurricanes,2,4,0,0,2
 2013,Kyle Singler,Detroit Pistons,82,720,77,37,330
 2013,Chris Singleton,Washington Wizards,57,231,37,24,184
-2013,Donald Sloan,Total,23,81,38,0,28
 2013,Donald Sloan,Cleveland Cavaliers,20,81,37,0,28
 2013,Donald Sloan,New Orleans Hurricanes,3,0,1,0,0
 2013,Greg Smith,Houston Rockets,70,421,25,40,321
-2013,Ish Smith,Total,52,123,87,9,61
 2013,Ish Smith,Orlando Magic,36,85,57,6,46
 2013,Ish Smith,Milwaukee Bucks,16,38,30,3,15
 2013,J.R. Smith,New York Knicks,80,1446,218,24,425
 2013,Jason Smith,New Orleans Hurricanes,51,420,34,45,186
 2013,Josh Smith,Atlanta Hawks,76,1327,321,136,639
 2013,Nolan Smith,Portland Trail Blazers,40,110,35,1,27
-2013,Marreese Speights,Total,79,658,47,53,386
 2013,Marreese Speights,Memphis Grizzlies,40,262,18,27,189
 2013,Marreese Speights,Cleveland Cavaliers,39,396,29,26,197
 2013,Tiago Splitter,San Antonio Spurs,81,838,130,64,515
@@ -2248,7 +2020,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Jeff Teague,Atlanta Hawks,80,1166,579,28,180
 2013,Marquis Teague,Chicago Bulls,48,99,63,7,44
 2013,Mirza Teletovic,Brooklyn Nets,53,188,23,8,95
-2013,Sebastian Telfair,Total,59,331,153,11,84
 2013,Sebastian Telfair,Phoenix Suns,46,275,114,10,68
 2013,Sebastian Telfair,Toronto Raptors,13,56,39,1,16
 2013,Garrett Temple,Washington Wizards,51,262,115,17,123
@@ -2257,7 +2028,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Isaiah Thomas,Sacramento Kings,79,1100,316,3,161
 2013,Kurt Thomas,New York Knicks,39,97,21,16,89
 2013,Lance Thomas,New Orleans Hurricanes,59,149,17,7,115
-2013,Malcolm Thomas,Total,12,15,4,2,16
 2013,Malcolm Thomas,Golden State Warriors,5,3,2,1,5
 2013,Malcolm Thomas,Chicago Bulls,7,12,2,1,11
 2013,Tyrus Thomas,Charlotte Hornets,26,125,19,15,60
@@ -2271,16 +2041,13 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Ronny Turiaf,Los Angeles Clippers,65,121,35,35,152
 2013,Hedo Turkoglu,Orlando Magic,11,32,23,1,26
 2013,Evan Turner,Philadelphia 76ers,82,1094,354,17,517
-2013,Jeremy Tyler,Total,21,22,1,2,20
 2013,Jeremy Tyler,Golden State Warriors,20,22,1,2,17
 2013,Jeremy Tyler,Atlanta Hawks,1,0,0,0,3
 2013,Ekpe Udoh,Milwaukee Bucks,76,323,43,85,251
-2013,Beno Udrih,Total,66,538,302,3,141
 2013,Beno Udrih,Milwaukee Bucks,39,263,138,2,78
 2013,Beno Udrih,Orlando Magic,27,275,164,1,63
 2013,Jonas Valanciunas,Toronto Raptors,62,554,45,78,372
 2013,Anderson Varejao,Cleveland Cavaliers,25,353,84,14,361
-2013,Jarvis Varnado,Total,13,8,3,2,9
 2013,Jarvis Varnado,Boston Celtics,5,6,1,0,3
 2013,Jarvis Varnado,Miami Heat,8,2,2,2,6
 2013,Greivis Vasquez,New Orleans Hurricanes,78,1083,704,6,337
@@ -2294,12 +2061,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Gerald Wallace,Brooklyn Nets,69,531,181,46,319
 2013,Rasheed Wallace,New York Knicks,21,146,6,15,83
 2013,Luke Walton,Cleveland Cavaliers,50,172,166,13,145
-2013,Hakim Warrick,Total,28,194,25,6,89
 2013,Hakim Warrick,New Orleans Hurricanes,1,4,0,0,0
 2013,Hakim Warrick,Charlotte Hornets,27,190,25,6,89
 2013,C.J. Watson,Brooklyn Nets,80,543,161,12,145
 2013,Earl Watson,Utah Jazz,48,96,190,8,87
-2013,Maalik Wayns,Total,27,76,27,0,7
 2013,Maalik Wayns,Philadelphia 76ers,21,56,20,0,5
 2013,Maalik Wayns,Los Angeles Clippers,6,20,7,0,2
 2013,Martell Webster,Washington Wizards,76,869,143,17,294
@@ -2326,24 +2091,20 @@ year,player,team,games,points,assists,blocks,rebounds
 2013,Thaddeus Young,Philadelphia 76ers,76,1127,125,55,571
 2013,Luke Zeller,Phoenix Suns,16,19,3,0,10
 2013,Tyler Zeller,Cleveland Cavaliers,77,610,96,70,438
-2014,Quincy Acy,Total,63,171,28,26,216
 2014,Quincy Acy,Toronto Raptors,7,19,4,3,15
 2014,Quincy Acy,Sacramento Kings,56,152,24,23,201
 2014,Steven Adams,Oklahoma City Thunder,81,265,43,57,332
-2014,Jeff Adrien,Total,53,362,38,36,306
 2014,Jeff Adrien,Charlotte Hornets,25,57,7,15,88
 2014,Jeff Adrien,Milwaukee Bucks,28,305,31,21,218
 2014,Arron Afflalo,Orlando Magic,73,1330,248,3,262
 2014,Alexis Ajinca,New Orleans Pelicans,56,328,40,46,277
 2014,Cole Aldrich,New York Knicks,46,92,14,30,129
 2014,LaMarcus Aldridge,Portland Trail Blazers,69,1603,178,68,765
-2014,Lavoy Allen,Total,65,303,71,33,311
 2014,Lavoy Allen,Philadelphia 76ers,51,263,65,27,277
 2014,Lavoy Allen,Indiana Pacers,14,40,6,6,34
 2014,Ray Allen,Miami Heat,73,701,143,8,205
 2014,Tony Allen,Memphis Grizzlies,55,495,94,19,208
 2014,Al-Farouq Aminu,New Orleans Pelicans,80,572,114,38,496
-2014,Lou Amundson,Total,19,38,6,11,55
 2014,Lou Amundson,New Orleans Pelicans,18,38,6,11,55
 2014,Lou Amundson,Chicago Bulls,1,0,0,0,0
 2014,Chris Andersen,Miami Heat,72,477,19,97,379
@@ -2352,7 +2113,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Ryan Anderson,New Orleans Pelicans,22,436,17,7,142
 2014,Giannis Antetokounmpo,Milwaukee Bucks,77,525,150,61,339
 2014,Carmelo Anthony,New York Knicks,77,2112,242,51,622
-2014,Joel Anthony,Total,33,28,2,12,38
 2014,Joel Anthony,Miami Heat,12,6,0,4,7
 2014,Joel Anthony,Boston Celtics,21,22,2,8,31
 2014,Pero Antic,Atlanta Hawks,50,352,58,12,209
@@ -2360,7 +2120,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Hilton Armstrong,Golden State Warriors,15,25,5,4,47
 2014,Darrell Arthur,Denver Nuggets,68,401,61,47,210
 2014,Omer Asik,Houston Rockets,48,280,25,37,378
-2014,D.J. Augustin,Total,71,930,313,3,130
 2014,D.J. Augustin,Toronto Raptors,10,21,10,0,4
 2014,D.J. Augustin,Chicago Bulls,61,909,303,3,126
 2014,Gustavo Ayon,Atlanta Hawks,26,112,28,10,125
@@ -2376,11 +2135,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Brandon Bass,Boston Celtics,82,911,87,71,470
 2014,Shane Battier,Miami Heat,73,298,63,39,138
 2014,Nicolas Batum,Portland Trail Blazers,82,1070,420,57,611
-2014,Jerryd Bayless,Total,72,666,194,9,145
 2014,Jerryd Bayless,Memphis Grizzlies,31,250,66,5,59
 2014,Jerryd Bayless,Boston Celtics,41,416,128,4,86
 2014,Aron Baynes,San Antonio Spurs,53,161,34,5,145
-2014,Kent Bazemore,Total,67,403,91,13,117
 2014,Kent Bazemore,Golden State Warriors,44,101,20,6,40
 2014,Kent Bazemore,Los Angeles Lakers,23,302,71,7,77
 2014,Bradley Beal,Washington Wizards,73,1249,243,18,273
@@ -2392,7 +2149,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Chauncey Billups,Detroit Pistons,19,72,42,1,28
 2014,Bismack Biyombo,Charlotte Hornets,77,222,8,86,366
 2014,DeJuan Blair,Dallas Mavericks,78,497,70,21,368
-2014,Steve Blake,Total,55,378,307,8,159
 2014,Steve Blake,Los Angeles Lakers,27,256,205,2,103
 2014,Steve Blake,Golden State Warriors,28,122,102,6,56
 2014,Andray Blatche,Brooklyn Nets,73,821,112,38,390
@@ -2407,18 +2163,14 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Avery Bradley,Boston Celtics,60,891,85,11,226
 2014,Elton Brand,Atlanta Hawks,73,419,74,88,361
 2014,Corey Brewer,Minnesota Timberwolves,81,998,135,30,207
-2014,Ronnie Brewer,Total,24,7,10,1,14
 2014,Ronnie Brewer,Houston Rockets,23,7,10,1,14
 2014,Ronnie Brewer,Chicago Bulls,1,0,0,0,0
-2014,Aaron Brooks,Total,72,645,233,13,140
 2014,Aaron Brooks,Houston Rockets,43,299,83,6,62
 2014,Aaron Brooks,Denver Nuggets,29,346,150,7,78
-2014,MarShon Brooks,Total,35,159,25,4,54
 2014,MarShon Brooks,Boston Celtics,10,31,4,1,19
 2014,MarShon Brooks,Golden State Warriors,7,13,0,0,5
 2014,MarShon Brooks,Los Angeles Lakers,18,115,21,3,30
 2014,Lorenzo Brown,Philadelphia 76ers,26,64,41,3,28
-2014,Shannon Brown,Total,29,63,9,0,28
 2014,Shannon Brown,San Antonio Spurs,10,23,5,0,13
 2014,Shannon Brown,New York Knicks,19,40,4,0,15
 2014,Kobe Bryant,Los Angeles Lakers,6,83,38,1,26
@@ -2426,13 +2178,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Reggie Bullock,Los Angeles Clippers,43,115,12,1,54
 2014,Trey Burke,Utah Jazz,70,895,396,6,208
 2014,Alec Burks,Utah Jazz,78,1089,212,14,257
-2014,Caron Butler,Total,56,587,82,17,229
 2014,Caron Butler,Milwaukee Bucks,34,374,56,11,158
 2014,Caron Butler,Oklahoma City Thunder,22,213,26,6,71
 2014,Jimmy Butler,Chicago Bulls,67,878,175,36,330
 2014,Rasual Butler,Indiana Pacers,50,136,17,9,41
 2014,Dwight Buycks,Toronto Raptors,14,43,10,0,23
-2014,Andrew Bynum,Total,26,225,29,29,145
 2014,Andrew Bynum,Cleveland Cavaliers,24,202,27,28,126
 2014,Andrew Bynum,Indiana Pacers,2,23,2,1,19
 2014,Will Bynum,Detroit Pistons,56,485,216,7,99
@@ -2449,7 +2199,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Wilson Chandler,Denver Nuggets,62,846,114,31,294
 2014,Josh Childress,New Orleans Pelicans,4,0,2,0,3
 2014,Dionte Christmas,Phoenix Suns,31,71,8,3,38
-2014,Earl Clark,Total,54,257,18,25,143
 2014,Earl Clark,Cleveland Cavaliers,45,234,16,19,127
 2014,Earl Clark,New York Knicks,9,23,2,6,16
 2014,Ian Clark,Utah Jazz,23,68,15,2,19
@@ -2464,15 +2213,12 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Robert Covington,Houston Rockets,7,16,0,0,5
 2014,Allen Crabbe,Portland Trail Blazers,15,33,6,1,9
 2014,Jamal Crawford,Los Angeles Clippers,69,1282,223,12,158
-2014,Jordan Crawford,Total,81,890,281,5,183
 2014,Jordan Crawford,Boston Celtics,39,536,224,3,120
 2014,Jordan Crawford,Golden State Warriors,42,354,57,2,63
 2014,Jae Crowder,Dallas Mavericks,78,356,60,21,194
 2014,Dante Cunningham,Minnesota Timberwolves,81,510,83,58,330
-2014,Jared Cunningham,Total,13,26,8,0,6
 2014,Jared Cunningham,Atlanta Hawks,5,2,3,0,1
 2014,Jared Cunningham,Sacramento Kings,8,24,5,0,5
-2014,Seth Curry,Total,2,3,0,0,1
 2014,Seth Curry,Memphis Grizzlies,1,0,0,0,0
 2014,Seth Curry,Cleveland Cavaliers,1,3,0,0,1
 2014,Stephen Curry,Golden State Warriors,78,1873,666,14,334
@@ -2482,27 +2228,21 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Brandon Davies,Philadelphia 76ers,51,144,28,8,109
 2014,Anthony Davis,New Orleans Pelicans,67,1394,105,189,673
 2014,Ed Davis,Memphis Grizzlies,63,357,27,43,260
-2014,Glen Davis,Total,68,641,77,29,351
 2014,Glen Davis,Orlando Magic,45,545,70,22,282
 2014,Glen Davis,Los Angeles Clippers,23,96,7,7,69
-2014,Austin Daye,Total,22,66,8,4,27
 2014,Austin Daye,Toronto Raptors,8,8,2,0,7
 2014,Austin Daye,San Antonio Spurs,14,58,6,4,20
-2014,Nando De,Total,47,177,65,6,73
 2014,Nando De,San Antonio Spurs,26,112,32,3,45
 2014,Nando De,Toronto Raptors,21,65,33,3,28
-2014,Dewayne Dedmon,Total,31,97,5,22,127
 2014,Dewayne Dedmon,Golden State Warriors,4,1,0,0,0
 2014,Dewayne Dedmon,Philadelphia 76ers,11,37,3,9,49
 2014,Dewayne Dedmon,Orlando Magic,16,59,2,13,78
 2014,Matthew Dellavedova,Cleveland Cavaliers,72,339,187,5,123
-2014,Luol Deng,Total,63,1011,183,9,361
 2014,Luol Deng,Chicago Bulls,23,438,85,4,158
 2014,Luol Deng,Cleveland Cavaliers,40,573,98,5,203
 2014,DeMar DeRozan,Toronto Raptors,79,1791,313,28,343
 2014,Boris Diaw,San Antonio Spurs,79,717,222,32,326
 2014,Gorgui Dieng,Minnesota Timberwolves,60,286,39,50,300
-2014,Toney Douglas,Total,51,202,68,5,87
 2014,Toney Douglas,Golden State Warriors,24,88,19,2,26
 2014,Toney Douglas,Miami Heat,27,114,49,3,61
 2014,Chris Douglas-Roberts,Charlotte Hornets,49,339,51,16,119
@@ -2517,7 +2257,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Monta Ellis,Dallas Mavericks,82,1560,471,23,295
 2014,Melvin Ely,New Orleans Pelicans,2,6,0,1,1
 2014,Jeremy Evans,Utah Jazz,66,401,44,46,310
-2014,Reggie Evans,Total,54,214,21,3,334
 2014,Reggie Evans,Brooklyn Nets,30,81,5,2,149
 2014,Reggie Evans,Sacramento Kings,24,133,16,1,185
 2014,Tyreke Evans,New Orleans Pelicans,72,1042,363,21,341
@@ -2532,7 +2271,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Evan Fournier,Denver Nuggets,76,638,112,7,202
 2014,Randy Foye,Denver Nuggets,81,1068,287,39,232
 2014,Jamaal Franklin,Memphis Grizzlies,21,39,6,2,23
-2014,Jimmer Fredette,Total,49,273,64,3,52
 2014,Jimmer Fredette,Sacramento Kings,41,241,61,3,45
 2014,Jimmer Fredette,Chicago Bulls,8,32,3,0,7
 2014,Joel Freeland,Portland Trail Blazers,52,174,36,22,208
@@ -2542,7 +2280,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Diante Garrett,Utah Jazz,71,248,120,5,97
 2014,Marc Gasol,Memphis Grizzlies,59,859,215,76,424
 2014,Pau Gasol,Los Angeles Lakers,60,1041,201,92,580
-2014,Rudy Gay,Total,73,1457,209,56,437
 2014,Rudy Gay,Toronto Raptors,18,350,40,23,133
 2014,Rudy Gay,Sacramento Kings,55,1107,169,33,304
 2014,Alonzo Gee,Cleveland Cavaliers,65,258,47,15,149
@@ -2556,10 +2293,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Ben Gordon,Charlotte Hornets,19,99,21,2,27
 2014,Eric Gordon,New Orleans Pelicans,64,988,208,12,165
 2014,Marcin Gortat,Washington Wizards,81,1068,138,121,767
-2014,Danny Granger,Total,41,338,41,17,133
 2014,Danny Granger,Indiana Pacers,29,242,33,13,105
 2014,Danny Granger,Los Angeles Clippers,12,96,8,4,28
-2014,Aaron Gray,Total,37,65,22,8,111
 2014,Aaron Gray,Toronto Raptors,4,5,3,0,8
 2014,Aaron Gray,Sacramento Kings,33,60,19,8,103
 2014,Danny Green,San Antonio Spurs,68,618,104,61,229
@@ -2569,10 +2304,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Willie Green,Los Angeles Clippers,55,273,50,11,78
 2014,Blake Griffin,Los Angeles Clippers,80,1930,309,51,757
 2014,Jorge Gutierrez,Brooklyn Nets,15,62,30,1,22
-2014,Jordan Hamilton,Total,60,404,52,20,194
 2014,Jordan Hamilton,Denver Nuggets,39,266,34,13,133
 2014,Jordan Hamilton,Houston Rockets,21,138,18,7,61
-2014,Justin Hamilton,Total,8,26,0,0,7
 2014,Justin Hamilton,Charlotte Hornets,1,0,0,0,0
 2014,Justin Hamilton,Miami Heat,7,26,0,0,7
 2014,Tyler Hansbrough,Toronto Raptors,64,312,17,19,287
@@ -2587,10 +2320,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Mike Harris,Utah Jazz,20,84,5,7,33
 2014,Tobias Harris,Orlando Magic,61,893,82,24,424
 2014,Udonis Haslem,Miami Heat,46,173,13,15,175
-2014,Spencer Hawes,Total,80,1053,240,94,660
 2014,Spencer Hawes,Philadelphia 76ers,53,688,176,67,452
 2014,Spencer Hawes,Cleveland Cavaliers,27,365,64,27,208
-2014,Chuck Hayes,Total,61,132,35,12,210
 2014,Chuck Hayes,Sacramento Kings,16,33,6,2,47
 2014,Chuck Hayes,Toronto Raptors,45,99,29,10,163
 2014,Gordon Hayward,Utah Jazz,77,1248,400,40,391
@@ -2624,7 +2355,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,LeBron James,Miami Heat,77,2089,488,26,533
 2014,Mike James,Chicago Bulls,11,11,17,0,7
 2014,Antawn Jamison,Los Angeles Clippers,22,84,7,3,55
-2014,Othyus Jeffers,Total,6,9,1,0,9
 2014,Othyus Jeffers,San Antonio Spurs,4,7,1,0,6
 2014,Othyus Jeffers,Minnesota Timberwolves,2,2,0,0,3
 2014,Al Jefferson,Charlotte Hornets,73,1594,155,79,792
@@ -2636,7 +2366,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Chris Johnson,Boston Celtics,40,250,31,4,97
 2014,James Johnson,Memphis Grizzlies,52,384,111,57,166
 2014,Joe Johnson,Brooklyn Nets,79,1245,216,10,270
-2014,Orlando Johnson,Total,45,100,20,2,55
 2014,Orlando Johnson,Indiana Pacers,38,91,16,1,51
 2014,Orlando Johnson,Sacramento Kings,7,9,4,1,4
 2014,Wesley Johnson,Los Angeles Lakers,79,715,124,77,348
@@ -2664,7 +2393,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Shane Larkin,Dallas Mavericks,48,132,71,1,42
 2014,Ty Lawson,Denver Nuggets,62,1090,543,10,215
 2014,Ricky Ledo,Dallas Mavericks,11,19,2,0,2
-2014,Courtney Lee,Total,79,761,115,28,187
 2014,Courtney Lee,Boston Celtics,30,221,32,9,49
 2014,Courtney Lee,Memphis Grizzlies,49,540,83,19,138
 2014,David Lee,Golden State Warriors,69,1257,147,26,643
@@ -2686,7 +2414,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Ian Mahinmi,Indiana Pacers,77,272,24,72,257
 2014,Shawn Marion,Dallas Mavericks,76,791,124,37,497
 2014,Kendall Marshall,Los Angeles Lakers,54,430,477,4,155
-2014,Cartier Martin,Total,59,329,33,7,110
 2014,Cartier Martin,Atlanta Hawks,53,314,31,7,105
 2014,Cartier Martin,Chicago Bulls,6,15,2,0,5
 2014,Kenyon Martin,New York Knicks,32,137,50,27,134
@@ -2694,11 +2421,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Roger Mason,Miami Heat,25,74,19,1,22
 2014,Wesley Matthews,Portland Trail Blazers,82,1343,197,14,289
 2014,Jason Maxiell,Orlando Magic,34,109,9,20,86
-2014,Eric Maynor,Total,31,82,52,3,39
 2014,Eric Maynor,Washington Wizards,23,52,40,1,24
 2014,Eric Maynor,Philadelphia 76ers,8,30,12,2,15
 2014,O.J. Mayo,Milwaukee Bucks,52,608,113,13,124
-2014,Luc Mbah,Total,64,224,36,14,146
 2014,Luc Mbah,Sacramento Kings,9,40,15,5,27
 2014,Luc Mbah,Minnesota Timberwolves,55,184,21,9,119
 2014,Ray McCallum,Sacramento Kings,45,280,120,9,79
@@ -2710,7 +2435,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Gal Mekel,Dallas Mavericks,31,73,63,1,27
 2014,Khris Middleton,Milwaukee Bucks,82,990,169,20,310
 2014,C.J. Miles,Cleveland Cavaliers,51,503,52,15,103
-2014,Andre Miller,Total,58,283,197,9,130
 2014,Andre Miller,Denver Nuggets,30,176,100,7,73
 2014,Andre Miller,Washington Wizards,28,107,97,2,57
 2014,Darius Miller,New Orleans Pelicans,45,200,43,9,52
@@ -2723,7 +2447,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Nazr Mohammed,Chicago Bulls,80,124,20,30,175
 2014,Greg Monroe,Detroit Pistons,82,1249,171,47,760
 2014,E'Twaun Moore,Orlando Magic,79,499,112,13,136
-2014,Darius Morris,Total,27,107,44,0,26
 2014,Darius Morris,Philadelphia 76ers,12,83,31,0,13
 2014,Darius Morris,Los Angeles Clippers,10,9,5,0,5
 2014,Darius Morris,Memphis Grizzlies,5,15,8,0,8
@@ -2734,7 +2457,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Arnett Moultrie,Philadelphia 76ers,12,36,2,4,35
 2014,Timofey Mozgov,Denver Nuggets,82,770,62,100,528
 2014,Shabazz Muhammad,Minnesota Timberwolves,37,143,6,1,53
-2014,Byron Mullens,Total,45,189,14,11,92
 2014,Byron Mullens,Los Angeles Clippers,27,67,6,3,32
 2014,Byron Mullens,Philadelphia 76ers,18,122,8,8,60
 2014,Erik Murphy,Chicago Bulls,24,6,2,4,8
@@ -2742,7 +2464,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Mike Muscala,Atlanta Hawks,20,76,7,10,52
 2014,Hamady N'Diaye,Sacramento Kings,14,6,3,4,18
 2014,Steve Nash,Los Angeles Lakers,15,102,86,2,29
-2014,Gary Neal,Total,52,548,83,0,90
 2014,Gary Neal,Milwaukee Bucks,30,301,46,0,50
 2014,Gary Neal,Charlotte Hornets,22,247,37,0,40
 2014,Nemanja Nedovic,Golden State Warriors,24,26,13,1,15
@@ -2751,7 +2472,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Joakim Noah,Chicago Bulls,80,1007,431,121,900
 2014,Steve Novak,Toronto Raptors,54,178,13,4,58
 2014,Dirk Nowitzki,Dallas Mavericks,80,1735,216,45,498
-2014,James Nunnally,Total,13,44,8,2,19
 2014,James Nunnally,Atlanta Hawks,4,18,2,1,8
 2014,James Nunnally,Philadelphia 76ers,9,26,6,1,11
 2014,Jermaine O'Neal,Golden State Warriors,44,349,25,40,242
@@ -2759,7 +2479,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Greg Oden,Miami Heat,23,67,1,13,54
 2014,Victor Oladipo,Orlando Magic,80,1106,327,37,329
 2014,Kelly Olynyk,Boston Celtics,70,607,109,27,365
-2014,Arinze Onuaku,Total,5,3,3,0,8
 2014,Arinze Onuaku,New Orleans Pelicans,3,3,3,0,7
 2014,Arinze Onuaku,Cleveland Cavaliers,2,0,0,0,1
 2014,Daniel Orton,Philadelphia 76ers,22,65,15,16,61
@@ -2768,7 +2487,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Jannero Pargo,Charlotte Hornets,29,136,52,1,20
 2014,Tony Parker,San Antonio Spurs,68,1134,388,9,155
 2014,Chandler Parsons,Houston Rockets,74,1226,298,29,409
-2014,Patrick Patterson,Total,65,555,78,37,342
 2014,Patrick Patterson,Sacramento Kings,17,118,15,3,99
 2014,Patrick Patterson,Toronto Raptors,48,437,63,34,243
 2014,Chris Paul,Los Angeles Clippers,62,1185,663,4,268
@@ -2792,7 +2510,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Zach Randolph,Memphis Grizzlies,79,1372,200,23,795
 2014,J.J. Redick,Los Angeles Clippers,35,532,78,3,74
 2014,Glen Rice,Washington Wizards,11,32,7,1,20
-2014,Luke Ridnour,Total,61,306,176,8,97
 2014,Luke Ridnour,Milwaukee Bucks,36,206,122,2,62
 2014,Luke Ridnour,Charlotte Hornets,25,100,54,6,35
 2014,Austin Rivers,New Orleans Pelicans,69,530,160,9,129
@@ -2806,7 +2523,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Ricky Rubio,Minnesota Timberwolves,82,781,704,11,342
 2014,Brandon Rush,Utah Jazz,38,79,24,9,44
 2014,Robert Sacre,Los Angeles Lakers,65,350,51,47,254
-2014,John Salmons,Total,78,403,147,19,163
 2014,John Salmons,Sacramento Kings,18,105,44,8,46
 2014,John Salmons,Toronto Raptors,60,298,103,11,117
 2014,Larry Sanders,Milwaukee Bucks,23,178,19,40,165
@@ -2815,16 +2531,13 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Mike Scott,Atlanta Hawks,80,767,75,7,284
 2014,Thabo Sefolosha,Oklahoma City Thunder,61,383,94,17,220
 2014,Kevin Seraphin,Washington Wizards,53,249,17,26,128
-2014,Ramon Sessions,Total,83,1021,340,9,203
 2014,Ramon Sessions,Charlotte Hornets,55,578,206,6,117
 2014,Ramon Sessions,Milwaukee Bucks,28,443,134,3,86
 2014,Mustafa Shakur,Oklahoma City Thunder,3,1,4,0,0
-2014,Tornike Shengelia,Total,26,29,14,1,16
 2014,Tornike Shengelia,Brooklyn Nets,17,25,12,1,14
 2014,Tornike Shengelia,Chicago Bulls,9,4,2,0,2
 2014,Iman Shumpert,New York Knicks,74,495,129,13,308
 2014,Alexey Shved,Minnesota Timberwolves,63,250,68,16,81
-2014,Henry Sims,Total,46,350,52,20,237
 2014,Henry Sims,Cleveland Cavaliers,20,44,5,7,56
 2014,Henry Sims,Philadelphia 76ers,26,306,47,13,181
 2014,Kyle Singler,Detroit Pistons,82,784,75,38,303
@@ -2838,7 +2551,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Jason Smith,New Orleans Pelicans,31,301,29,29,181
 2014,Josh Smith,Detroit Pistons,77,1264,252,110,520
 2014,Tony Snell,Chicago Bulls,77,346,68,15,124
-2014,James Southerland,Total,4,14,0,2,8
 2014,James Southerland,Charlotte Hornets,1,0,0,0,0
 2014,James Southerland,New Orleans Pelicans,3,14,0,2,8
 2014,Marreese Speights,Golden State Warriors,79,508,32,34,290
@@ -2853,26 +2565,22 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,Jeffery Taylor,Charlotte Hornets,26,208,22,5,60
 2014,Tyshawn Taylor,Brooklyn Nets,23,89,36,1,15
 2014,Jeff Teague,Atlanta Hawks,79,1304,528,17,208
-2014,Marquis Teague,Total,40,107,58,5,40
 2014,Marquis Teague,Chicago Bulls,19,45,28,4,19
 2014,Marquis Teague,Brooklyn Nets,21,62,30,1,21
 2014,Mirza Teletovic,Brooklyn Nets,72,622,57,23,266
 2014,Garrett Temple,Washington Wizards,75,138,72,11,68
 2014,Jason Terry,Brooklyn Nets,35,159,56,0,37
 2014,Hasheem Thabeet,Oklahoma City Thunder,23,27,1,9,40
-2014,Adonis Thomas,Total,6,14,3,0,3
 2014,Adonis Thomas,Orlando Magic,4,7,2,0,3
 2014,Adonis Thomas,Philadelphia 76ers,2,7,1,0,0
 2014,Isaiah Thomas,Sacramento Kings,72,1465,454,8,210
 2014,Lance Thomas,New Orleans Pelicans,5,6,3,0,7
-2014,Malcolm Thomas,Total,8,15,2,3,21
 2014,Malcolm Thomas,San Antonio Spurs,1,2,0,2,9
 2014,Malcolm Thomas,Utah Jazz,7,13,2,1,12
 2014,Hollis Thompson,Philadelphia 76ers,77,461,73,12,247
 2014,Jason Thompson,Sacramento Kings,82,586,53,56,527
 2014,Klay Thompson,Golden State Warriors,81,1488,181,37,249
 2014,Tristan Thompson,Cleveland Cavaliers,82,961,72,35,754
-2014,Marcus Thornton,Total,72,703,77,11,198
 2014,Marcus Thornton,Sacramento Kings,46,383,47,8,124
 2014,Marcus Thornton,Brooklyn Nets,26,320,30,3,74
 2014,Jamaal Tinsley,Utah Jazz,8,9,23,0,11
@@ -2880,23 +2588,18 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,P.J. Tucker,Phoenix Suns,81,760,141,23,529
 2014,Ronny Turiaf,Minnesota Timberwolves,31,149,24,50,174
 2014,Hedo Turkoglu,Los Angeles Clippers,38,115,33,10,89
-2014,Evan Turner,Total,81,1131,262,7,408
 2014,Evan Turner,Philadelphia 76ers,54,939,198,5,322
 2014,Evan Turner,Indiana Pacers,27,192,64,2,86
 2014,Jeremy Tyler,New York Knicks,41,146,8,20,109
 2014,Ekpe Udoh,Milwaukee Bucks,42,144,31,44,148
-2014,Beno Udrih,Total,41,200,116,4,59
 2014,Beno Udrih,New York Knicks,31,173,110,3,57
 2014,Beno Udrih,Memphis Grizzlies,10,27,6,1,2
 2014,Jonas Valanciunas,Toronto Raptors,81,916,57,71,714
 2014,Anderson Varejao,Cleveland Cavaliers,65,546,140,39,629
-2014,Jarvis Varnado,Total,24,99,13,29,63
 2014,Jarvis Varnado,Chicago Bulls,1,0,0,0,0
 2014,Jarvis Varnado,Philadelphia 76ers,23,99,13,29,63
-2014,Greivis Vasquez,Total,79,758,323,5,173
 2014,Greivis Vasquez,Sacramento Kings,18,176,95,1,34
 2014,Greivis Vasquez,Toronto Raptors,61,582,228,4,139
-2014,Jan Vesely,Total,54,197,21,35,191
 2014,Jan Vesely,Washington Wizards,33,104,10,19,113
 2014,Jan Vesely,Denver Nuggets,21,93,11,16,78
 2014,Charlie Villanueva,Detroit Pistons,20,92,6,5,34
@@ -2917,7 +2620,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2014,D.J. White,Charlotte Hornets,2,0,0,0,2
 2014,Royce White,Sacramento Kings,3,0,0,0,0
 2014,Deron Williams,Brooklyn Nets,64,915,392,13,168
-2014,Derrick Williams,Total,78,624,56,20,323
 2014,Derrick Williams,Minnesota Timberwolves,11,54,1,4,26
 2014,Derrick Williams,Sacramento Kings,67,570,55,16,297
 2014,Elliot Williams,Philadelphia 76ers,67,404,72,3,130
@@ -2941,7 +2643,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Jordan Adams,Memphis Grizzlies,30,94,16,7,28
 2015,Steven Adams,Oklahoma City Thunder,70,537,66,86,523
 2015,Jeff Adrien,Minnesota Timberwolves,17,60,15,9,77
-2015,Arron Afflalo,Total,78,1035,129,7,247
 2015,Arron Afflalo,Denver Nuggets,53,771,101,5,180
 2015,Arron Afflalo,Portland Trail Blazers,25,264,28,2,67
 2015,Alexis Ajinca,New Orleans Pelicans,68,443,47,51,315
@@ -2951,7 +2652,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Lavoy Allen,Indiana Pacers,63,315,73,42,323
 2015,Tony Allen,Memphis Grizzlies,63,539,86,30,280
 2015,Al-Farouq Aminu,Dallas Mavericks,74,412,59,62,342
-2015,Lou Amundson,Total,53,259,70,52,268
 2015,Lou Amundson,Cleveland Cavaliers,12,11,5,0,20
 2015,Lou Amundson,New York Knicks,41,248,65,52,248
 2015,Chris Andersen,Miami Heat,60,320,43,61,299
@@ -2965,7 +2665,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Trevor Ariza,Houston Rockets,82,1048,209,17,459
 2015,Darrell Arthur,Denver Nuggets,58,382,57,26,171
 2015,Omer Asik,New Orleans Pelicans,76,557,72,54,748
-2015,D.J. Augustin,Total,82,777,353,3,161
 2015,D.J. Augustin,Detroit Pistons,54,574,265,2,100
 2015,D.J. Augustin,Oklahoma City Thunder,28,203,88,1,61
 2015,Jeff Ayres,San Antonio Spurs,51,137,14,8,117
@@ -2977,7 +2676,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Harrison Barnes,Golden State Warriors,82,827,116,19,453
 2015,Matt Barnes,Los Angeles Clippers,76,764,114,50,302
 2015,Earl Barron,Phoenix Suns,16,32,5,2,28
-2015,Will Barton,Total,58,397,81,19,162
 2015,Will Barton,Portland Trail Blazers,30,90,27,4,34
 2015,Will Barton,Denver Nuggets,28,307,54,15,128
 2015,Brandon Bass,Boston Celtics,82,866,104,32,398
@@ -2993,7 +2691,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Patrick Beverley,Houston Rockets,56,568,192,23,237
 2015,Sim Bhullar,Sacramento Kings,3,2,1,1,1
 2015,Bismack Biyombo,Chicago Bruins,64,304,16,99,407
-2015,Tarik Black,Total,63,379,42,24,368
 2015,Tarik Black,Houston Rockets,25,105,8,2,127
 2015,Tarik Black,Los Angeles Lakers,38,274,34,22,241
 2015,DeJuan Blair,Washington Wizards,29,56,3,1,56
@@ -3008,7 +2705,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Chris Bosh,Miami Heat,44,928,95,25,310
 2015,Avery Bradley,Boston Celtics,77,1071,135,15,241
 2015,Elton Brand,Atlanta Hawks,36,96,22,25,100
-2015,Corey Brewer,Total,80,917,173,19,297
 2015,Corey Brewer,Minnesota Timberwolves,24,251,78,4,94
 2015,Corey Brewer,Houston Rockets,56,666,95,15,203
 2015,Aaron Brooks,Chicago Bulls,82,954,261,15,166
@@ -3018,7 +2714,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Shannon Brown,Miami Heat,5,20,3,0,1
 2015,Kobe Bryant,Los Angeles Lakers,35,782,197,7,199
 2015,Chase Budinger,Minnesota Timberwolves,67,457,64,10,198
-2015,Reggie Bullock,Total,36,69,8,4,50
 2015,Reggie Bullock,Los Angeles Clippers,25,65,6,2,40
 2015,Reggie Bullock,Phoenix Suns,11,4,2,2,10
 2015,Trey Burke,Utah Jazz,76,973,328,15,204
@@ -3032,13 +2727,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Nick Calathes,Memphis Grizzlies,58,243,146,5,106
 2015,Jose Calderon,New York Knicks,42,382,198,0,124
 2015,Kentavious Caldwell-Pope,Detroit Pistons,82,1043,109,18,255
-2015,Isaiah Canaan,Total,47,432,98,3,87
 2015,Isaiah Canaan,Houston Rockets,25,154,29,0,33
 2015,Isaiah Canaan,Philadelphia 76ers,22,278,69,3,54
 2015,Clint Capela,Houston Rockets,12,32,2,9,36
 2015,DeMarre Carroll,Atlanta Hawks,70,883,118,17,372
 2015,Vince Carter,Memphis Grizzlies,66,384,79,14,133
-2015,Michael Carter-Williams,Total,66,966,442,30,353
 2015,Michael Carter-Williams,Philadelphia 76ers,41,613,302,18,254
 2015,Michael Carter-Williams,Milwaukee Bucks,25,353,140,12,99
 2015,Omri Casspi,Sacramento Kings,67,593,102,9,260
@@ -3048,12 +2741,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Will Cherry,Cleveland Cavaliers,8,15,8,1,5
 2015,Patrick Christopher,Utah Jazz,4,6,0,0,6
 2015,Earl Clark,Brooklyn Nets,10,27,3,4,23
-2015,Ian Clark,Total,30,57,12,3,16
 2015,Ian Clark,Utah Jazz,23,44,10,2,13
 2015,Ian Clark,Denver Nuggets,7,13,2,1,3
 2015,Jordan Clarkson,Los Angeles Lakers,59,703,206,12,191
 2015,Victor Claver,Portland Trail Blazers,10,24,1,1,20
-2015,Norris Cole,Total,75,573,255,15,159
 2015,Norris Cole,Miami Heat,47,295,165,8,108
 2015,Norris Cole,New Orleans Pelicans,28,278,90,7,51
 2015,Darren Collison,Sacramento Kings,45,725,252,14,143
@@ -3066,7 +2757,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Robert Covington,Philadelphia 76ers,70,943,105,31,316
 2015,Allen Crabbe,Portland Trail Blazers,51,168,39,15,73
 2015,Jamal Crawford,Los Angeles Clippers,64,1010,158,14,124
-2015,Jae Crowder,Total,82,628,94,25,293
 2015,Jae Crowder,Dallas Mavericks,25,89,12,5,29
 2015,Jae Crowder,Boston Celtics,57,539,82,20,264
 2015,Dante Cunningham,New Orleans Pelicans,66,340,50,37,256
@@ -3074,21 +2764,17 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Seth Curry,Phoenix Suns,2,0,1,0,2
 2015,Stephen Curry,Golden State Warriors,80,1900,619,16,341
 2015,Samuel Dalembert,New York Knicks,32,128,29,41,168
-2015,Troy Daniels,Total,47,176,22,1,33
 2015,Troy Daniels,Houston Rockets,17,46,4,0,6
 2015,Troy Daniels,Minnesota Timberwolves,19,53,13,0,19
 2015,Troy Daniels,Chicago Bruins,11,77,5,1,8
-2015,Luigi Datome,Total,21,105,9,7,29
 2015,Luigi Datome,Detroit Pistons,3,11,2,0,4
 2015,Luigi Datome,Boston Celtics,18,94,7,7,25
-2015,Brandon Davies,Total,27,142,30,7,83
 2015,Brandon Davies,Philadelphia 76ers,20,126,28,4,73
 2015,Brandon Davies,Brooklyn Nets,7,16,2,3,10
 2015,Anthony Davis,New Orleans Pelicans,68,1656,149,200,696
 2015,Ed Davis,Los Angeles Lakers,79,656,94,98,600
 2015,Glen Davis,Los Angeles Clippers,74,294,39,21,169
 2015,Andre Dawkins,Miami Heat,4,3,1,0,2
-2015,Austin Daye,Total,34,129,17,5,75
 2015,Austin Daye,San Antonio Spurs,26,103,9,3,61
 2015,Austin Daye,Atlanta Hawks,8,26,8,2,14
 2015,Dewayne Dedmon,Orlando Magic,59,216,9,50,295
@@ -3101,10 +2787,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Joey Dorsey,Houston Rockets,69,184,25,25,279
 2015,Toney Douglas,New Orleans Pelicans,12,51,24,4,22
 2015,Chris Douglas-Roberts,Los Angeles Clippers,12,19,4,0,12
-2015,Goran Dragic,Total,78,1275,350,15,274
 2015,Goran Dragic,Phoenix Suns,52,843,211,9,185
 2015,Goran Dragic,Miami Heat,26,432,139,6,89
-2015,Zoran Dragic,Total,16,28,5,0,8
 2015,Zoran Dragic,Phoenix Suns,6,6,1,0,3
 2015,Zoran Dragic,Miami Heat,10,22,4,0,5
 2015,Larry Drew,Philadelphia 76ers,12,46,45,0,15
@@ -3117,7 +2801,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Wayne Ellington,Los Angeles Lakers,65,650,105,2,210
 2015,Monta Ellis,Dallas Mavericks,80,1513,329,25,190
 2015,James Ennis,Miami Heat,62,312,48,17,176
-2015,Tyler Ennis,Total,33,121,73,5,35
 2015,Tyler Ennis,Phoenix Suns,8,22,14,2,7
 2015,Tyler Ennis,Milwaukee Bucks,25,99,59,3,28
 2015,Jeremy Evans,Utah Jazz,38,90,13,12,71
@@ -3133,7 +2816,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Evan Fournier,Orlando Magic,58,698,120,2,153
 2015,Randy Foye,Denver Nuggets,50,435,119,11,85
 2015,Jamaal Franklin,Denver Nuggets,3,3,3,1,2
-2015,Tim Frazier,Total,11,57,60,0,28
 2015,Tim Frazier,Philadelphia 76ers,6,34,43,0,19
 2015,Tim Frazier,Portland Trail Blazers,5,23,17,0,9
 2015,Jimmer Fredette,New Orleans Pelicans,50,178,58,2,40
@@ -3142,13 +2824,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Danilo Gallinari,Denver Nuggets,59,734,83,20,218
 2015,Langston Galloway,New York Knicks,45,533,150,12,190
 2015,Francisco Garcia,Houston Rockets,14,45,15,5,17
-2015,Kevin Garnett,Total,47,323,77,17,311
 2015,Kevin Garnett,Brooklyn Nets,42,285,69,13,285
 2015,Kevin Garnett,Minnesota Timberwolves,5,38,8,4,26
 2015,Marc Gasol,Memphis Grizzlies,81,1413,307,131,630
 2015,Pau Gasol,Chicago Bulls,78,1446,210,147,919
 2015,Rudy Gay,Sacramento Kings,68,1432,250,41,399
-2015,Alonzo Gee,Total,54,241,25,7,94
 2015,Alonzo Gee,Denver Nuggets,39,190,19,6,70
 2015,Alonzo Gee,Portland Trail Blazers,15,51,6,1,24
 2015,Paul George,Indiana Pacers,6,53,6,1,22
@@ -3168,20 +2848,16 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Draymond Green,Golden State Warriors,79,921,291,99,647
 2015,Erick Green,Denver Nuggets,43,146,39,0,31
 2015,Gerald Green,Phoenix Suns,74,884,91,12,186
-2015,JaMychal Green,Total,24,62,4,5,45
 2015,JaMychal Green,San Antonio Spurs,4,8,0,2,6
 2015,JaMychal Green,Memphis Grizzlies,20,54,4,3,39
-2015,Jeff Green,Total,78,1168,134,34,328
 2015,Jeff Green,Boston Celtics,33,580,53,13,141
 2015,Jeff Green,Memphis Grizzlies,45,588,81,21,187
 2015,Willie Green,Orlando Magic,52,306,68,5,79
 2015,Blake Griffin,Los Angeles Clippers,67,1469,354,35,508
-2015,Jorge Gutierrez,Total,20,53,22,0,25
 2015,Jorge Gutierrez,Brooklyn Nets,10,16,7,0,7
 2015,Jorge Gutierrez,Milwaukee Bucks,10,37,15,0,18
 2015,P.J. Hairston,Chicago Bruins,45,254,21,13,92
 2015,Jordan Hamilton,Los Angeles Clippers,14,38,7,0,16
-2015,Justin Hamilton,Total,41,219,36,30,134
 2015,Justin Hamilton,Miami Heat,24,66,12,5,48
 2015,Justin Hamilton,Minnesota Timberwolves,17,153,24,25,86
 2015,Tyler Hansbrough,Toronto Raptors,74,270,21,15,265
@@ -3222,7 +2898,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Joe Ingles,Utah Jazz,79,396,182,10,175
 2015,Kyrie Irving,Cleveland Cavaliers,75,1628,389,20,237
 2015,Jarrett Jack,Brooklyn Nets,80,957,373,13,245
-2015,Reggie Jackson,Total,77,1117,462,9,327
 2015,Reggie Jackson,Oklahoma City Thunder,50,641,214,5,201
 2015,Reggie Jackson,Detroit Pistons,27,476,248,4,126
 2015,Bernard James,Dallas Mavericks,16,44,4,15,39
@@ -3232,14 +2907,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Richard Jefferson,Dallas Mavericks,74,432,61,11,183
 2015,John Jenkins,Atlanta Hawks,24,135,13,0,39
 2015,Brandon Jennings,Detroit Pistons,41,632,272,4,104
-2015,Jonas Jerebko,Total,75,448,71,18,282
 2015,Jonas Jerebko,Detroit Pistons,46,241,41,11,142
 2015,Jonas Jerebko,Boston Celtics,29,207,30,7,140
-2015,Grant Jerrett,Total,8,16,3,2,9
 2015,Grant Jerrett,Oklahoma City Thunder,5,7,1,2,4
 2015,Grant Jerrett,Utah Jazz,3,9,2,0,5
 2015,Amir Johnson,Toronto Raptors,75,694,117,59,456
-2015,Chris Johnson,Total,29,166,15,7,55
 2015,Chris Johnson,Philadelphia 76ers,9,54,3,5,26
 2015,Chris Johnson,Utah Jazz,12,81,7,0,18
 2015,Chris Johnson,Milwaukee Bucks,8,31,5,2,11
@@ -3256,7 +2928,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Jerome Jordan,Brooklyn Nets,44,138,13,15,105
 2015,Cory Joseph,San Antonio Spurs,79,535,188,17,192
 2015,Chris Kaman,Portland Trail Blazers,74,638,65,54,484
-2015,Enes Kanter,Total,75,1163,55,29,671
 2015,Enes Kanter,Utah Jazz,49,678,26,16,384
 2015,Enes Kanter,Oklahoma City Thunder,26,485,29,13,287
 2015,Sergey Karasev,Brooklyn Nets,33,153,46,1,66
@@ -3265,7 +2936,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Sean Kilpatrick,Minnesota Timberwolves,4,22,4,0,6
 2015,Andrei Kirilenko,Brooklyn Nets,7,3,1,0,8
 2015,Alex Kirk,Cleveland Cavaliers,5,4,1,0,1
-2015,Brandon Knight,Total,63,1070,330,10,244
 2015,Brandon Knight,Milwaukee Bucks,52,923,281,9,221
 2015,Brandon Knight,Phoenix Suns,11,147,49,1,23
 2015,Kyle Korver,Atlanta Hawks,75,911,196,42,304
@@ -3277,7 +2947,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Joffrey Lauvergne,Denver Nuggets,24,93,13,10,77
 2015,Zach LaVine,Minnesota Timberwolves,77,778,276,10,214
 2015,Ty Lawson,Denver Nuggets,75,1143,720,9,234
-2015,Ricky Ledo,Total,17,90,19,1,36
 2015,Ricky Ledo,Dallas Mavericks,5,1,1,0,2
 2015,Ricky Ledo,New York Knicks,12,89,18,1,34
 2015,Courtney Lee,Memphis Grizzlies,77,777,151,12,178
@@ -3311,12 +2980,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,James Michael,Golden State Warriors,15,62,2,9,37
 2015,Ray McCallum,Sacramento Kings,68,503,188,11,180
 2015,C.J. McCollum,Portland Trail Blazers,62,424,64,8,91
-2015,K.J. McDaniels,Total,62,487,72,70,200
 2015,K.J. McDaniels,Philadelphia 76ers,52,476,70,68,195
 2015,K.J. McDaniels,Houston Rockets,10,11,2,2,5
 2015,Doug McDermott,Chicago Bulls,36,109,6,1,43
 2015,Mitch McGary,Oklahoma City Thunder,32,201,14,16,165
-2015,JaVale McGee,Total,23,106,3,20,61
 2015,JaVale McGee,Denver Nuggets,17,88,1,19,48
 2015,JaVale McGee,Philadelphia 76ers,6,18,2,1,13
 2015,Ben McLemore,Sacramento Kings,82,996,140,19,241
@@ -3326,12 +2993,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Gal Mekel,New Orleans Pelicans,4,6,13,0,1
 2015,Khris Middleton,Milwaukee Bucks,79,1055,182,11,347
 2015,C.J. Miles,Indiana Pacers,70,942,75,26,214
-2015,Andre Miller,Total,81,355,284,6,153
 2015,Andre Miller,Washington Wizards,51,183,143,2,77
 2015,Andre Miller,Sacramento Kings,30,172,141,4,76
 2015,Darius Miller,New Orleans Pelicans,5,2,2,0,1
 2015,Mike Miller,Cleveland Cavaliers,52,109,46,4,91
-2015,Quincy Miller,Total,10,29,8,5,20
 2015,Quincy Miller,Sacramento Kings,6,17,3,3,12
 2015,Quincy Miller,Detroit Pistons,4,12,5,2,8
 2015,Patty Mills,San Antonio Spurs,51,351,87,2,75
@@ -3347,19 +3012,15 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Markieff Morris,Phoenix Suns,82,1258,192,39,506
 2015,Anthony Morrow,Oklahoma City Thunder,74,790,60,11,195
 2015,Donatas Motiejunas,Houston Rockets,71,855,130,34,421
-2015,Timofey Mozgov,Total,81,785,55,97,591
 2015,Timofey Mozgov,Denver Nuggets,35,299,16,41,272
 2015,Timofey Mozgov,Cleveland Cavaliers,46,486,39,56,319
 2015,Shabazz Muhammad,Minnesota Timberwolves,38,512,44,7,154
-2015,Toure' Murry,Total,5,6,1,0,1
 2015,Toure' Murry,Utah Jazz,1,0,0,0,0
 2015,Toure' Murry,Washington Wizards,4,6,1,0,1
 2015,Mike Muscala,Atlanta Hawks,40,197,25,19,119
 2015,Shabazz Napier,Miami Heat,51,261,130,4,113
-2015,Gary Neal,Total,54,543,100,1,129
 2015,Gary Neal,Chicago Bruins,43,413,80,1,94
 2015,Gary Neal,Minnesota Timberwolves,11,130,20,0,35
-2015,Jameer Nelson,Total,63,523,253,6,146
 2015,Jameer Nelson,Dallas Mavericks,23,167,95,2,63
 2015,Jameer Nelson,Boston Celtics,6,29,33,0,17
 2015,Jameer Nelson,Denver Nuggets,34,327,125,4,66
@@ -3367,7 +3028,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Joakim Noah,Chicago Bulls,67,485,312,74,646
 2015,Nerlens Noel,Philadelphia 76ers,75,744,128,142,611
 2015,Lucas Nogueira,Toronto Raptors,6,6,1,0,11
-2015,Steve Novak,Total,35,63,11,2,22
 2015,Steve Novak,Utah Jazz,22,48,6,1,16
 2015,Steve Novak,Oklahoma City Thunder,13,15,5,1,6
 2015,Dirk Nowitzki,Dallas Mavericks,77,1333,143,33,457
@@ -3385,42 +3045,33 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Chandler Parsons,Dallas Mavericks,66,1037,161,19,323
 2015,Patrick Patterson,Toronto Raptors,81,648,155,44,433
 2015,Chris Paul,Los Angeles Clippers,82,1564,838,15,376
-2015,Adreian Payne,Total,32,213,30,9,162
 2015,Adreian Payne,Atlanta Hawks,3,5,0,0,4
 2015,Adreian Payne,Minnesota Timberwolves,29,208,30,9,158
 2015,Elfrid Payton,Orlando Magic,82,731,533,20,349
 2015,Nikola Pekovic,Minnesota Timberwolves,31,386,27,12,234
-2015,Kendrick Perkins,Total,68,246,51,42,320
 2015,Kendrick Perkins,Oklahoma City Thunder,51,202,43,38,279
 2015,Kendrick Perkins,Cleveland Cavaliers,17,44,8,4,41
 2015,Paul Pierce,Washington Wizards,73,868,144,24,294
 2015,Mason Plumlee,Brooklyn Nets,82,717,74,63,512
-2015,Miles Plumlee,Total,73,294,34,66,320
 2015,Miles Plumlee,Phoenix Suns,54,233,27,55,274
 2015,Miles Plumlee,Milwaukee Bucks,19,61,7,11,46
-2015,Quincy Pondexter,Total,75,538,94,24,195
 2015,Quincy Pondexter,Memphis Grizzlies,30,134,28,5,57
 2015,Quincy Pondexter,New Orleans Pelicans,45,404,66,19,138
 2015,Otto Porter,Washington Wizards,74,445,65,30,221
-2015,Dwight Powell,Total,29,90,9,6,50
 2015,Dwight Powell,Boston Celtics,5,9,0,0,1
 2015,Dwight Powell,Dallas Mavericks,24,81,9,6,49
 2015,Phil Pressey,Boston Celtics,50,177,117,6,80
-2015,A.J. Price,Total,26,133,46,0,32
 2015,A.J. Price,Indiana Pacers,10,105,27,0,14
 2015,A.J. Price,Cleveland Cavaliers,11,22,13,0,15
 2015,A.J. Price,Phoenix Suns,5,6,6,0,3
 2015,Ronnie Price,Los Angeles Lakers,43,221,165,4,69
-2015,Pablo Prigioni,Total,67,274,171,1,119
 2015,Pablo Prigioni,New York Knicks,43,201,104,1,80
 2015,Pablo Prigioni,Houston Rockets,24,73,67,0,39
-2015,Tayshaun Prince,Total,58,434,93,16,210
 2015,Tayshaun Prince,Memphis Grizzlies,26,190,37,6,83
 2015,Tayshaun Prince,Boston Celtics,9,76,18,2,30
 2015,Tayshaun Prince,Detroit Pistons,23,168,38,8,97
 2015,Miroslav Raduljica,Minnesota Timberwolves,5,8,0,0,5
 2015,Julius Randle,Los Angeles Lakers,1,2,0,0,0
-2015,Shavlik Randolph,Total,21,24,4,3,38
 2015,Shavlik Randolph,Phoenix Suns,16,17,3,2,26
 2015,Shavlik Randolph,Boston Celtics,5,7,1,1,12
 2015,Zach Randolph,Memphis Grizzlies,71,1143,153,14,747
@@ -3428,21 +3079,16 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Glen Rice,Washington Wizards,5,11,2,0,4
 2015,Jason Richardson,Philadelphia 76ers,19,172,38,3,66
 2015,Luke Ridnour,Orlando Magic,47,188,96,4,68
-2015,Austin Rivers,Total,76,530,155,14,152
 2015,Austin Rivers,New Orleans Pelicans,35,239,87,7,68
 2015,Austin Rivers,Los Angeles Clippers,41,291,68,7,84
 2015,Andre Roberson,Oklahoma City Thunder,67,228,70,29,255
 2015,Brian Roberts,Chicago Bruins,72,480,162,6,109
-2015,Glenn Robinson,Total,35,73,11,1,39
 2015,Glenn Robinson,Minnesota Timberwolves,25,29,3,0,14
 2015,Glenn Robinson,Philadelphia 76ers,10,44,8,1,25
-2015,Nate Robinson,Total,42,238,97,3,50
 2015,Nate Robinson,Denver Nuggets,33,192,77,3,39
 2015,Nate Robinson,Los Angeles Clippers,9,46,20,0,11
-2015,Thomas Robinson,Total,54,308,33,20,303
 2015,Thomas Robinson,Portland Trail Blazers,32,115,9,11,133
 2015,Thomas Robinson,Philadelphia 76ers,22,193,24,9,170
-2015,Rajon Rondo,Total,68,608,538,7,373
 2015,Rajon Rondo,Boston Celtics,22,182,237,3,165
 2015,Rajon Rondo,Dallas Mavericks,46,426,301,4,208
 2015,Derrick Rose,Chicago Bulls,51,904,251,16,161
@@ -3459,34 +3105,26 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Mike Scott,Atlanta Hawks,68,529,75,3,199
 2015,Thabo Sefolosha,Atlanta Hawks,52,278,75,21,223
 2015,Kevin Seraphin,Washington Wizards,79,520,59,59,288
-2015,Ramon Sessions,Total,64,402,182,0,144
 2015,Ramon Sessions,Sacramento Kings,36,196,96,0,69
 2015,Ramon Sessions,Washington Wizards,28,206,86,0,75
-2015,Iman Shumpert,Total,62,496,135,16,224
 2015,Iman Shumpert,New York Knicks,24,224,78,3,81
 2015,Iman Shumpert,Cleveland Cavaliers,38,272,57,13,143
-2015,Alexey Shved,Total,42,434,106,6,99
 2015,Alexey Shved,Philadelphia 76ers,17,169,46,1,22
 2015,Alexey Shved,Houston Rockets,9,29,3,0,4
 2015,Alexey Shved,New York Knicks,16,236,57,5,73
 2015,Henry Sims,Philadelphia 76ers,73,586,79,30,359
-2015,Kyle Singler,Total,80,480,85,21,194
 2015,Kyle Singler,Detroit Pistons,54,385,67,14,139
 2015,Kyle Singler,Oklahoma City Thunder,26,95,18,7,55
 2015,Donald Sloan,Indiana Pacers,53,391,190,0,143
 2015,Marcus Smart,Boston Celtics,67,523,208,18,222
 2015,Greg Smith,Dallas Mavericks,42,80,9,11,79
-2015,Ish Smith,Total,55,338,180,6,100
 2015,Ish Smith,Oklahoma City Thunder,30,37,28,1,27
 2015,Ish Smith,Philadelphia 76ers,25,301,152,5,73
-2015,J.R. Smith,Total,70,847,195,22,218
 2015,J.R. Smith,New York Knicks,24,261,81,4,58
 2015,J.R. Smith,Cleveland Cavaliers,46,586,114,18,160
 2015,Jason Smith,New York Knicks,82,656,140,44,324
-2015,Josh Smith,Total,83,1027,277,116,530
 2015,Josh Smith,Detroit Pistons,28,367,132,48,202
 2015,Josh Smith,Houston Rockets,55,660,145,68,328
-2015,Russ Smith,Total,12,30,8,0,6
 2015,Russ Smith,New Orleans Pelicans,6,5,2,0,3
 2015,Russ Smith,Memphis Grizzlies,6,25,6,0,3
 2015,Tony Snell,Chicago Bulls,72,435,62,11,176
@@ -3497,7 +3135,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Greg Stiemsma,Toronto Raptors,17,14,3,0,15
 2015,David Stockton,Sacramento Kings,3,8,9,0,2
 2015,Jarnell Stokes,Memphis Grizzlies,19,57,4,5,34
-2015,Amar'e Stoudemire,Total,59,680,45,38,329
 2015,Amar'e Stoudemire,New York Knicks,36,432,37,34,245
 2015,Amar'e Stoudemire,Dallas Mavericks,23,248,8,4,84
 2015,Rodney Stuckey,Indiana Pacers,71,896,219,10,248
@@ -3508,10 +3145,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Sebastian Telfair,Oklahoma City Thunder,16,134,45,0,30
 2015,Garrett Temple,Washington Wizards,52,204,56,9,90
 2015,Jason Terry,Houston Rockets,77,541,147,19,121
-2015,Isaiah Thomas,Total,67,1101,284,5,153
 2015,Isaiah Thomas,Phoenix Suns,46,701,171,5,109
 2015,Isaiah Thomas,Boston Celtics,21,400,113,0,44
-2015,Lance Thomas,Total,62,443,69,8,195
 2015,Lance Thomas,Oklahoma City Thunder,22,113,20,0,75
 2015,Lance Thomas,New York Knicks,40,330,49,8,120
 2015,Malcolm Thomas,Philadelphia 76ers,17,45,7,1,56
@@ -3520,10 +3155,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Jason Thompson,Sacramento Kings,81,491,85,57,530
 2015,Klay Thompson,Golden State Warriors,77,1668,222,60,247
 2015,Tristan Thompson,Cleveland Cavaliers,82,693,39,61,657
-2015,Marcus Thornton,Total,48,380,36,7,86
 2015,Marcus Thornton,Boston Celtics,39,348,34,7,73
 2015,Marcus Thornton,Phoenix Suns,9,32,2,0,13
-2015,Anthony Tolliver,Total,76,482,59,16,236
 2015,Anthony Tolliver,Phoenix Suns,24,80,10,1,44
 2015,Anthony Tolliver,Detroit Pistons,52,402,49,15,192
 2015,P.J. Tucker,Phoenix Suns,78,713,122,23,502
@@ -3539,7 +3172,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Noah Vonleh,Chicago Bruins,25,83,4,9,86
 2015,Nikola Vucevic,Orlando Magic,74,1428,147,54,810
 2015,Dwyane Wade,Miami Heat,62,1331,299,21,219
-2015,Dion Waiters,Total,80,940,163,21,192
 2015,Dion Waiters,Cleveland Cavaliers,33,345,74,10,57
 2015,Dion Waiters,Oklahoma City Thunder,47,595,89,11,135
 2015,Henry Walker,Miami Heat,24,175,29,9,82
@@ -3559,23 +3191,18 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,C.J. Wilcox,Los Angeles Clippers,21,41,8,1,7
 2015,Deron Williams,Brooklyn Nets,68,884,448,17,237
 2015,Derrick Williams,Sacramento Kings,74,617,50,4,202
-2015,Elliot Williams,Total,13,37,12,0,8
 2015,Elliot Williams,Utah Jazz,5,18,4,0,3
 2015,Elliot Williams,New Orleans Pelicans,8,19,8,0,5
 2015,Lou Williams,Toronto Raptors,80,1242,164,10,151
 2015,Marvin Williams,Chicago Bruins,78,577,100,36,386
-2015,Mo Williams,Total,68,964,424,14,174
 2015,Mo Williams,Minnesota Timberwolves,41,499,261,8,98
 2015,Mo Williams,Chicago Bruins,27,465,163,6,76
 2015,Reggie Williams,San Antonio Spurs,20,37,10,0,17
-2015,Shawne Williams,Total,63,341,44,21,166
 2015,Shawne Williams,Miami Heat,44,292,36,17,139
 2015,Shawne Williams,Detroit Pistons,19,49,8,4,27
 2015,Jeff Withey,New Orleans Pelicans,37,98,11,18,64
-2015,Nate Wolters,Total,21,42,21,2,34
 2015,Nate Wolters,Milwaukee Bucks,11,25,10,0,16
 2015,Nate Wolters,New Orleans Pelicans,10,17,11,2,18
-2015,Brandan Wright,Total,75,544,41,94,321
 2015,Brandan Wright,Dallas Mavericks,27,238,10,42,110
 2015,Brandan Wright,Boston Celtics,8,26,8,5,17
 2015,Brandan Wright,Phoenix Suns,40,280,23,47,194
@@ -3583,7 +3210,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2015,Tony Wroten,Philadelphia 76ers,30,507,157,8,86
 2015,James Young,Boston Celtics,31,105,13,2,42
 2015,Nick Young,Los Angeles Lakers,42,563,41,11,96
-2015,Thaddeus Young,Total,76,1071,173,25,411
 2015,Thaddeus Young,Minnesota Timberwolves,48,685,135,17,245
 2015,Thaddeus Young,Brooklyn Nets,28,386,38,8,166
 2015,Cody Zeller,Chicago Bruins,62,472,100,49,362
@@ -3600,7 +3226,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Tony Allen,Memphis Grizzlies,64,535,70,18,296
 2016,Al-Farouq Aminu,Portland Trail Blazers,82,839,138,53,499
 2016,Lou Amundson,New York Knicks,29,52,12,7,49
-2016,Chris Andersen,Total,27,105,12,13,98
 2016,Chris Andersen,Miami Heat,7,13,3,3,9
 2016,Chris Andersen,Memphis Grizzlies,20,92,9,10,89
 2016,Alan Anderson,Washington Wizards,13,65,14,1,27
@@ -3616,7 +3241,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Trevor Ariza,Houston Rockets,81,1025,188,26,366
 2016,Darrell Arthur,Denver Nuggets,70,527,96,48,293
 2016,Omer Asik,New Orleans Pelicans,68,269,26,23,414
-2016,D.J. Augustin,Total,62,467,198,4,95
 2016,D.J. Augustin,Oklahoma City Thunder,34,142,66,2,43
 2016,D.J. Augustin,Denver Nuggets,28,325,132,2,52
 2016,Jeff Ayres,Los Angeles Clippers,17,30,5,3,22
@@ -3658,7 +3282,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Lorenzo Brown,Phoenix Suns,8,20,11,1,7
 2016,Markel Brown,Brooklyn Nets,62,363,91,15,122
 2016,Kobe Bryant,Los Angeles Lakers,66,1161,184,13,247
-2016,Chase Budinger,Total,66,271,64,10,150
 2016,Chase Budinger,Indiana Pacers,49,216,49,9,121
 2016,Chase Budinger,Phoenix Suns,17,55,15,1,29
 2016,Reggie Bullock,Detroit Pistons,37,122,27,2,68
@@ -3677,7 +3300,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Michael Carter-Williams,Milwaukee Bucks,54,623,281,41,276
 2016,Omri Casspi,Sacramento Kings,69,813,95,17,410
 2016,Willie Cauley-Stein,Sacramento Kings,66,463,37,66,352
-2016,Mario Chalmers,Total,61,628,230,13,157
 2016,Mario Chalmers,Miami Heat,6,33,19,1,14
 2016,Mario Chalmers,Memphis Grizzlies,55,595,211,12,143
 2016,Tyson Chandler,Phoenix Suns,66,472,64,44,576
@@ -3691,7 +3313,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Mike Conley,Memphis Grizzlies,56,857,342,16,164
 2016,Pat Connaughton,Portland Trail Blazers,34,36,10,0,32
 2016,Chris Copeland,Milwaukee Bucks,24,50,11,0,10
-2016,Bryce Cotton,Total,8,8,3,0,0
 2016,Bryce Cotton,Phoenix Suns,3,4,3,0,0
 2016,Bryce Cotton,Memphis Grizzlies,5,4,0,0,0
 2016,DeMarcus Cousins,Sacramento Kings,65,1748,214,92,747
@@ -3700,7 +3321,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Jamal Crawford,Los Angeles Clippers,79,1120,183,12,145
 2016,Jae Crowder,Boston Celtics,73,1038,135,35,373
 2016,Dante Cunningham,New Orleans Pelicans,80,484,77,33,236
-2016,Jared Cunningham,Total,44,120,20,2,38
 2016,Jared Cunningham,Cleveland Cavaliers,40,104,19,2,29
 2016,Jared Cunningham,Milwaukee Bucks,4,16,1,0,9
 2016,Seth Curry,Sacramento Kings,44,299,67,3,60
@@ -3730,7 +3350,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Jarell Eddie,Washington Wizards,26,63,5,1,23
 2016,Wayne Ellington,Brooklyn Nets,76,586,83,5,174
 2016,Monta Ellis,Indiana Pacers,81,1121,383,37,271
-2016,James Ennis,Total,22,159,21,5,42
 2016,James Ennis,Miami Heat,3,0,1,0,0
 2016,James Ennis,Memphis Grizzlies,10,16,2,2,7
 2016,James Ennis,New Orleans Pelicans,9,143,18,3,35
@@ -3744,16 +3363,12 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Cristiano Felicio,Chicago Bulls,31,105,26,13,102
 2016,Raymond Felton,Dallas Mavericks,80,763,284,15,258
 2016,Evan Fournier,Orlando Magic,79,1213,213,2,225
-2016,Randy Foye,Total,81,474,161,29,156
 2016,Randy Foye,Denver Nuggets,54,323,112,16,105
 2016,Randy Foye,Oklahoma City Thunder,27,151,49,13,51
-2016,Tim Frazier,Total,51,261,162,2,110
 2016,Tim Frazier,Portland Trail Blazers,35,51,42,1,39
 2016,Tim Frazier,New Orleans Pelicans,16,210,120,1,71
-2016,Jimmer Fredette,Total,6,9,1,0,0
 2016,Jimmer Fredette,New Orleans Pelicans,4,2,1,0,0
 2016,Jimmer Fredette,New York Knicks,2,7,0,0,0
-2016,Channing Frye,Total,70,425,71,28,234
 2016,Channing Frye,Orlando Magic,44,229,45,20,141
 2016,Channing Frye,Cleveland Cavaliers,26,196,26,8,93
 2016,Danilo Gallinari,Denver Nuggets,53,1036,135,19,281
@@ -3777,17 +3392,14 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Jerian Grant,New York Knicks,76,426,177,10,143
 2016,Danny Green,San Antonio Spurs,79,572,141,64,303
 2016,Draymond Green,Golden State Warriors,81,1131,598,113,769
-2016,Erick Green,Total,9,13,3,0,6
 2016,Erick Green,Denver Nuggets,3,0,1,0,1
 2016,Erick Green,Utah Jazz,6,13,2,0,5
 2016,Gerald Green,Miami Heat,69,616,56,19,163
 2016,JaMychal Green,Memphis Grizzlies,78,578,67,33,373
-2016,Jeff Green,Total,80,939,138,40,332
 2016,Jeff Green,Memphis Grizzlies,53,646,98,19,241
 2016,Jeff Green,Los Angeles Clippers,27,293,40,21,91
 2016,Blake Griffin,Los Angeles Clippers,35,749,170,17,294
 2016,Jorge Gutierrez,Chicago Bruins,12,22,17,0,7
-2016,P.J. Hairston,Total,66,410,38,11,174
 2016,P.J. Hairston,Chicago Bruins,48,286,29,7,128
 2016,P.J. Hairston,Memphis Grizzlies,18,124,9,4,46
 2016,Jordan Hamilton,New Orleans Pelicans,11,125,25,3,62
@@ -3800,7 +3412,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Devin Harris,Dallas Mavericks,64,487,118,13,138
 2016,Gary Harris,Denver Nuggets,76,932,147,18,220
 2016,Joe Harris,Cleveland Cavaliers,5,3,2,0,3
-2016,Tobias Harris,Total,76,1116,169,40,510
 2016,Tobias Harris,Orlando Magic,49,669,99,28,342
 2016,Tobias Harris,Detroit Pistons,27,447,70,12,168
 2016,Aaron Harrison,Chicago Bruins,21,18,2,0,15
@@ -3812,7 +3423,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,John Henson,Milwaukee Bucks,57,397,54,109,221
 2016,Mario Hezonja,Orlando Magic,79,478,109,17,176
 2016,Roy Hibbert,Los Angeles Lakers,81,481,95,110,398
-2016,J.J. Hickson,Total,35,206,23,14,132
 2016,J.J. Hickson,Denver Nuggets,20,137,16,12,87
 2016,J.J. Hickson,Washington Wizards,15,69,7,2,45
 2016,Nene Hilario,Washington Wizards,57,525,97,26,259
@@ -3820,14 +3430,11 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Jordan Hill,Indiana Pacers,73,645,87,37,451
 2016,Solomon Hill,Indiana Pacers,59,246,57,11,166
 2016,Darrun Hilliard,Detroit Pistons,38,152,27,1,45
-2016,Kirk Hinrich,Total,46,137,73,2,70
 2016,Kirk Hinrich,Chicago Bulls,35,132,59,1,58
 2016,Kirk Hinrich,Atlanta Hawks,11,5,14,1,12
 2016,Jrue Holiday,New Orleans Pelicans,65,1089,391,22,195
-2016,Justin Holiday,Total,53,239,56,19,90
 2016,Justin Holiday,Atlanta Hawks,26,63,11,4,27
 2016,Justin Holiday,Chicago Bulls,27,176,45,15,63
-2016,Ryan Hollins,Total,37,124,10,21,98
 2016,Ryan Hollins,Washington Wizards,5,8,0,1,11
 2016,Ryan Hollins,Memphis Grizzlies,32,116,10,20,87
 2016,Rondae Hollis-Jefferson,Brooklyn Nets,29,167,43,16,154
@@ -3837,14 +3444,12 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Dwight Howard,Houston Rockets,71,976,98,113,835
 2016,Marcelo Huertas,Los Angeles Lakers,53,237,182,7,90
 2016,Josh Huestis,Oklahoma City Thunder,5,14,0,2,10
-2016,Kris Humphries,Total,53,343,36,23,218
 2016,Kris Humphries,Washington Wizards,28,180,16,14,115
 2016,Kris Humphries,Phoenix Suns,4,29,7,2,32
 2016,Kris Humphries,Atlanta Hawks,21,134,13,7,71
 2016,R.J. Hunter,Boston Celtics,36,97,13,4,37
 2016,Serge Ibaka,Oklahoma City Thunder,78,983,66,148,533
 2016,Andre Iguodala,Golden State Warriors,65,457,219,19,263
-2016,Ersan Ilyasova,Total,74,767,67,33,403
 2016,Ersan Ilyasova,Detroit Pistons,52,589,55,27,282
 2016,Ersan Ilyasova,Orlando Magic,22,178,12,6,121
 2016,Joe Ingles,Utah Jazz,81,342,96,4,151
@@ -3856,20 +3461,16 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Al Jefferson,Chicago Bruins,47,562,70,41,301
 2016,Cory Jefferson,Phoenix Suns,8,22,0,1,16
 2016,Richard Jefferson,Cleveland Cavaliers,74,410,59,14,128
-2016,John Jenkins,Total,43,178,35,1,57
 2016,John Jenkins,Dallas Mavericks,21,69,9,0,22
 2016,John Jenkins,Phoenix Suns,22,109,26,1,35
-2016,Brandon Jennings,Total,48,332,170,7,96
 2016,Brandon Jennings,Detroit Pistons,23,157,70,2,46
 2016,Brandon Jennings,Orlando Magic,25,175,100,5,50
 2016,Jonas Jerebko,Boston Celtics,78,340,62,24,288
 2016,Amir Johnson,Boston Celtics,79,577,138,83,505
 2016,Chris Johnson,Utah Jazz,70,205,45,20,132
 2016,James Johnson,Toronto Raptors,57,287,67,33,126
-2016,Joe Johnson,Total,81,992,318,4,292
 2016,Joe Johnson,Brooklyn Nets,57,671,232,2,224
 2016,Joe Johnson,Miami Heat,24,321,86,2,68
-2016,Orlando Johnson,Total,7,26,2,3,15
 2016,Orlando Johnson,Phoenix Suns,2,16,0,3,9
 2016,Orlando Johnson,New Orleans Pelicans,5,10,2,0,6
 2016,Stanley Johnson,Detroit Pistons,73,593,118,12,306
@@ -3889,7 +3490,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Sasha Kaun,Cleveland Cavaliers,25,23,3,5,26
 2016,Ryan Kelly,Los Angeles Lakers,36,152,20,10,121
 2016,Michael Kidd-Gilchrist,Chicago Bruins,7,89,9,3,45
-2016,Sean Kilpatrick,Total,31,345,29,2,56
 2016,Sean Kilpatrick,Denver Nuggets,8,27,3,0,6
 2016,Sean Kilpatrick,Brooklyn Nets,23,318,26,2,50
 2016,Brandon Knight,Phoenix Suns,52,1018,263,20,202
@@ -3900,13 +3500,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Shane Larkin,Brooklyn Nets,78,566,342,12,180
 2016,Joffrey Lauvergne,Denver Nuggets,59,465,56,15,290
 2016,Zach LaVine,Minnesota Timberwolves,82,1150,251,17,228
-2016,Ty Lawson,Total,66,373,237,7,120
 2016,Ty Lawson,Houston Rockets,53,309,180,6,89
 2016,Ty Lawson,Indiana Pacers,13,64,57,1,31
-2016,Courtney Lee,Total,79,761,136,28,205
 2016,Courtney Lee,Memphis Grizzlies,51,511,76,16,118
 2016,Courtney Lee,Chicago Bruins,28,250,60,12,87
-2016,David Lee,Total,55,427,84,28,305
 2016,David Lee,Boston Celtics,30,214,54,13,130
 2016,David Lee,Dallas Mavericks,25,213,30,15,175
 2016,Alex Len,Phoenix Suns,78,703,97,62,594
@@ -3922,7 +3519,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Kevin Love,Cleveland Cavaliers,77,1234,186,41,762
 2016,Kyle Lowry,Toronto Raptors,77,1634,494,34,365
 2016,Trey Lyles,Utah Jazz,80,488,59,18,299
-2016,Shelvin Mack,Total,52,448,187,3,128
 2016,Shelvin Mack,Atlanta Hawks,24,93,38,0,22
 2016,Shelvin Mack,Utah Jazz,28,355,149,3,106
 2016,Ian Mahinmi,Indiana Pacers,71,660,104,75,507
@@ -3930,14 +3526,12 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Boban Marjanovic,San Antonio Spurs,54,297,21,23,194
 2016,Kendall Marshall,Philadelphia 76ers,30,111,73,2,28
 2016,Jarell Martin,Memphis Grizzlies,27,153,15,7,86
-2016,Kevin Martin,Total,55,514,58,3,110
 2016,Kevin Martin,Minnesota Timberwolves,39,415,46,1,81
 2016,Kevin Martin,San Antonio Spurs,16,99,12,2,29
 2016,Wesley Matthews,Dallas Mavericks,78,977,151,17,238
 2016,O.J. Mayo,Milwaukee Bucks,41,321,118,8,105
 2016,Luc Mbah,Los Angeles Clippers,75,231,30,19,171
 2016,James Michael,Golden State Warriors,41,117,17,8,58
-2016,Ray McCallum,Total,41,137,60,7,47
 2016,Ray McCallum,San Antonio Spurs,31,68,33,4,31
 2016,Ray McCallum,Memphis Grizzlies,10,69,27,3,16
 2016,C.J. McCollum,Portland Trail Blazers,80,1666,341,23,259
@@ -3948,7 +3542,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Mitch McGary,Oklahoma City Thunder,20,26,3,2,18
 2016,JaVale McGee,Dallas Mavericks,34,172,3,26,133
 2016,Ben McLemore,Sacramento Kings,68,531,79,10,148
-2016,Jordan McRae,Total,22,99,25,1,20
 2016,Jordan McRae,Phoenix Suns,7,37,10,0,8
 2016,Jordan McRae,Cleveland Cavaliers,15,62,15,1,12
 2016,Josh McRoberts,Miami Heat,42,150,81,7,105
@@ -3957,7 +3550,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Jordan Mickey,Boston Celtics,16,21,1,11,13
 2016,Khris Middleton,Milwaukee Bucks,79,1434,331,19,302
 2016,C.J. Miles,Indiana Pacers,64,753,63,29,175
-2016,Andre Miller,Total,39,144,87,0,51
 2016,Andre Miller,Minnesota Timberwolves,26,88,58,0,24
 2016,Andre Miller,San Antonio Spurs,13,56,29,0,27
 2016,Mike Miller,Denver Nuggets,47,63,40,4,53
@@ -3971,7 +3563,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,E'Twaun Moore,Chicago Bulls,59,443,99,18,133
 2016,Eric Moreland,Sacramento Kings,8,8,1,4,11
 2016,Marcus Morris,Detroit Pistons,80,1131,201,23,404
-2016,Markieff Morris,Total,64,765,124,34,352
 2016,Markieff Morris,Phoenix Suns,37,430,87,17,194
 2016,Markieff Morris,Washington Wizards,27,335,37,17,158
 2016,Anthony Morrow,Oklahoma City Thunder,68,380,24,5,62
@@ -3990,7 +3581,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Joakim Noah,Chicago Bulls,29,124,110,29,255
 2016,Nerlens Noel,Philadelphia 76ers,67,747,122,100,542
 2016,Lucas Nogueira,Toronto Raptors,29,65,7,12,46
-2016,Steve Novak,Total,10,24,0,0,5
 2016,Steve Novak,Oklahoma City Thunder,7,17,0,0,4
 2016,Steve Novak,Milwaukee Bucks,3,7,0,0,1
 2016,Dirk Nowitzki,Dallas Mavericks,75,1372,132,52,489
@@ -4024,7 +3614,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Kristaps Porzingis,New York Knicks,72,1028,94,134,526
 2016,Dwight Powell,Dallas Mavericks,69,399,44,24,273
 2016,Norman Powell,Toronto Raptors,49,273,47,10,111
-2016,Phil Pressey,Total,23,77,75,4,31
 2016,Phil Pressey,Philadelphia 76ers,14,55,46,1,23
 2016,Phil Pressey,Phoenix Suns,9,22,29,3,8
 2016,Ronnie Price,Phoenix Suns,62,331,147,13,99
@@ -4037,7 +3626,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Josh Richardson,Miami Heat,52,341,73,25,107
 2016,Austin Rivers,Los Angeles Clippers,67,593,99,9,130
 2016,Andre Roberson,Oklahoma City Thunder,70,337,47,42,251
-2016,Brian Roberts,Total,51,205,54,2,41
 2016,Brian Roberts,Chicago Bruins,30,145,38,1,29
 2016,Brian Roberts,Portland Trail Blazers,21,60,16,1,12
 2016,Glenn Robinson,Indiana Pacers,45,171,26,9,68
@@ -4052,7 +3640,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Brandon Rush,Golden State Warriors,72,305,57,23,181
 2016,D'Angelo Russell,Los Angeles Lakers,80,1054,266,13,274
 2016,Robert Sacre,Los Angeles Lakers,25,87,14,10,72
-2016,JaKarr Sampson,Total,73,374,46,33,190
 2016,JaKarr Sampson,Philadelphia 76ers,47,240,30,16,129
 2016,JaKarr Sampson,Denver Nuggets,26,134,16,17,61
 2016,Dennis Schroder,Atlanta Hawks,80,879,349,9,204
@@ -4068,12 +3655,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Donald Sloan,Brooklyn Nets,61,424,268,4,173
 2016,Marcus Smart,Boston Celtics,61,558,185,18,255
 2016,Greg Smith,Minnesota Timberwolves,18,43,6,1,42
-2016,Ish Smith,Total,77,972,502,24,305
 2016,Ish Smith,New Orleans Pelicans,27,239,154,6,92
 2016,Ish Smith,Philadelphia 76ers,50,733,348,18,213
 2016,J.R. Smith,Cleveland Cavaliers,77,955,130,21,217
 2016,Jason Smith,Orlando Magic,76,546,62,65,219
-2016,Josh Smith,Total,55,332,90,47,192
 2016,Josh Smith,Los Angeles Clippers,32,181,42,34,125
 2016,Josh Smith,Houston Rockets,23,151,48,13,67
 2016,Russ Smith,Memphis Grizzlies,15,23,11,1,9
@@ -4081,13 +3666,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Marreese Speights,Golden State Warriors,72,512,61,34,239
 2016,Tiago Splitter,Atlanta Hawks,36,201,30,12,120
 2016,Nik Stauskas,Philadelphia 76ers,73,617,138,20,183
-2016,Lance Stephenson,Total,69,573,133,9,223
 2016,Lance Stephenson,Los Angeles Clippers,43,204,60,3,108
 2016,Lance Stephenson,Memphis Grizzlies,26,369,73,6,115
-2016,Alex Stepheson,Total,8,22,2,5,28
 2016,Alex Stepheson,Los Angeles Clippers,4,2,0,2,2
 2016,Alex Stepheson,Memphis Grizzlies,4,20,2,3,26
-2016,Jarnell Stokes,Total,7,7,1,0,4
 2016,Jarnell Stokes,Memphis Grizzlies,2,0,0,0,2
 2016,Jarnell Stokes,Miami Heat,5,7,1,0,2
 2016,Amar'e Stoudemire,Miami Heat,52,300,27,41,222
@@ -4101,12 +3683,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Isaiah Thomas,Boston Celtics,82,1823,509,9,243
 2016,Lance Thomas,New York Knicks,59,484,53,7,131
 2016,Hollis Thompson,Philadelphia 76ers,77,758,99,24,272
-2016,Jason Thompson,Total,47,147,29,20,134
 2016,Jason Thompson,Golden State Warriors,28,60,19,8,54
 2016,Jason Thompson,Toronto Raptors,19,87,10,12,80
 2016,Klay Thompson,Golden State Warriors,80,1771,166,49,306
 2016,Tristan Thompson,Cleveland Cavaliers,82,643,62,51,738
-2016,Marcus Thornton,Total,61,590,85,4,150
 2016,Marcus Thornton,Houston Rockets,47,472,66,3,115
 2016,Marcus Thornton,Washington Wizards,14,118,19,1,35
 2016,Anthony Tolliver,Detroit Pistons,72,383,52,16,229
@@ -4115,11 +3695,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,P.J. Tucker,Phoenix Suns,82,652,177,20,512
 2016,Evan Turner,Boston Celtics,81,854,359,28,397
 2016,Myles Turner,Indiana Pacers,60,619,41,86,332
-2016,Beno Udrih,Total,44,205,116,1,72
 2016,Beno Udrih,Memphis Grizzlies,8,47,26,1,9
 2016,Beno Udrih,Miami Heat,36,158,90,0,63
 2016,Jonas Valanciunas,Toronto Raptors,60,768,42,80,547
-2016,Anderson Varejao,Total,53,138,35,10,141
 2016,Anderson Varejao,Cleveland Cavaliers,31,80,20,5,91
 2016,Anderson Varejao,Golden State Warriors,22,58,15,5,50
 2016,Greivis Vasquez,Milwaukee Bucks,23,130,91,0,47
@@ -4134,10 +3712,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,John Wall,Washington Wizards,77,1531,789,59,379
 2016,T.J. Warren,Phoenix Suns,47,515,44,16,147
 2016,C.J. Watson,Orlando Magic,33,142,88,5,66
-2016,Briante Weber,Total,7,31,21,3,25
 2016,Briante Weber,Memphis Grizzlies,6,29,20,3,24
 2016,Briante Weber,Miami Heat,1,2,1,0,1
-2016,Sonny Weems,Total,43,107,49,1,53
 2016,Sonny Weems,Phoenix Suns,36,90,47,1,41
 2016,Sonny Weems,Philadelphia 76ers,7,17,2,0,12
 2016,David West,San Antonio Spurs,78,554,143,55,309
@@ -4167,7 +3743,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2016,Cody Zeller,Chicago Bruins,73,638,71,63,455
 2016,Tyler Zeller,Boston Celtics,60,364,29,22,178
 2017,Alex Abrines,Oklahoma City Thunder,68,406,40,8,86
-2017,Quincy Acy,Total,38,222,18,15,115
 2017,Quincy Acy,Dallas Mavericks,6,13,0,0,8
 2017,Quincy Acy,Brooklyn Nets,32,209,18,15,107
 2017,Steven Adams,Oklahoma City Thunder,80,905,86,78,615
@@ -4180,7 +3755,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Al-Farouq Aminu,Portland Trail Blazers,61,532,99,44,451
 2017,Chris Andersen,Cleveland Cavaliers,12,28,5,7,31
 2017,Alan Anderson,Los Angeles Clippers,30,86,11,0,24
-2017,Justin Anderson,Total,75,532,66,23,245
 2017,Justin Anderson,Dallas Mavericks,51,329,32,16,149
 2017,Justin Anderson,Philadelphia 76ers,24,203,34,7,96
 2017,Kyle Anderson,San Antonio Spurs,72,246,91,26,208
@@ -4198,7 +3772,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Leandro Barbosa,Phoenix Suns,67,419,81,8,104
 2017,J.J. Barea,Dallas Mavericks,35,381,193,1,84
 2017,Harrison Barnes,Dallas Mavericks,79,1518,117,15,397
-2017,Matt Barnes,Total,74,527,194,26,387
 2017,Matt Barnes,Sacramento Kings,54,413,149,17,296
 2017,Matt Barnes,Golden State Warriors,20,114,45,9,91
 2017,Will Barton,Denver Nuggets,60,820,206,28,258
@@ -4221,22 +3794,18 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Nemanja Bjelica,Minnesota Timberwolves,65,403,79,20,244
 2017,Tarik Black,Los Angeles Lakers,67,383,39,44,342
 2017,Eric Bledsoe,Phoenix Suns,66,1390,418,31,320
-2017,Bojan Bogdanovic,Total,81,1113,111,7,277
 2017,Bojan Bogdanovic,Brooklyn Nets,55,783,90,3,197
 2017,Bojan Bogdanovic,Washington Wizards,26,330,21,4,80
-2017,Andrew Bogut,Total,27,79,49,25,218
 2017,Andrew Bogut,Dallas Mavericks,26,79,49,25,218
 2017,Andrew Bogut,Cleveland Cavaliers,1,0,0,0,0
 2017,Joel Bolomboy,Utah Jazz,12,22,2,2,17
 2017,Devin Booker,Phoenix Suns,78,1726,268,21,249
 2017,Trevor Booker,Brooklyn Nets,71,709,138,28,570
 2017,Avery Bradley,Boston Celtics,55,894,121,11,334
-2017,Corey Brewer,Total,82,371,97,19,166
 2017,Corey Brewer,Houston Rockets,58,242,61,11,114
 2017,Corey Brewer,Los Angeles Lakers,24,129,36,8,52
 2017,Malcolm Brogdon,Milwaukee Bucks,75,767,317,12,213
 2017,Aaron Brooks,Indiana Pacers,65,322,125,9,69
-2017,Anthony Brown,Total,11,43,8,1,33
 2017,Anthony Brown,New Orleans Pelicans,9,34,6,1,26
 2017,Anthony Brown,Orlando Magic,2,9,2,0,7
 2017,Bobby Brown,Houston Rockets,25,62,14,0,6
@@ -4247,7 +3816,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Alec Burks,Utah Jazz,42,283,30,5,120
 2017,Jimmy Butler,Chicago Bulls,76,1816,417,32,470
 2017,Bruno Caboclo,Toronto Raptors,9,14,4,1,10
-2017,Jose Calderon,Total,41,141,88,1,74
 2017,Jose Calderon,Los Angeles Lakers,24,80,51,1,42
 2017,Jose Calderon,Atlanta Hawks,17,61,37,0,32
 2017,Kentavious Caldwell-Pope,Detroit Pistons,76,1047,193,12,248
@@ -4256,7 +3824,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,DeMarre Carroll,Toronto Raptors,72,638,74,27,275
 2017,Vince Carter,Memphis Grizzlies,73,586,133,36,227
 2017,Michael Carter-Williams,Chicago Bulls,45,297,113,23,152
-2017,Omri Casspi,Total,36,186,37,3,112
 2017,Omri Casspi,Sacramento Kings,22,129,26,1,90
 2017,Omri Casspi,New Orleans Pelicans,1,12,0,0,2
 2017,Omri Casspi,Minnesota Timberwolves,13,45,11,2,20
@@ -4273,10 +3840,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Nick Collison,Oklahoma City Thunder,20,33,12,2,30
 2017,Mike Conley,Memphis Grizzlies,69,1415,433,19,242
 2017,Pat Connaughton,Portland Trail Blazers,39,98,28,2,52
-2017,Quinn Cook,Total,14,79,26,0,7
 2017,Quinn Cook,Dallas Mavericks,5,27,12,0,3
 2017,Quinn Cook,New Orleans Pelicans,9,52,14,0,4
-2017,DeMarcus Cousins,Total,72,1942,332,92,797
 2017,DeMarcus Cousins,Sacramento Kings,55,1528,266,73,585
 2017,DeMarcus Cousins,New Orleans Pelicans,17,414,66,19,212
 2017,Robert Covington,Philadelphia 76ers,67,864,102,69,436
@@ -4305,7 +3870,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Goran Dragic,Miami Heat,73,1483,423,13,278
 2017,Andre Drummond,Detroit Pistons,81,1105,89,89,1116
 2017,Jared Dudley,Phoenix Suns,64,434,121,16,225
-2017,Mike Dunleavy,Total,53,275,50,7,115
 2017,Mike Dunleavy,Cleveland Cavaliers,23,106,20,2,47
 2017,Mike Dunleavy,Atlanta Hawks,30,169,30,5,68
 2017,Kris Dunn,Minnesota Timberwolves,78,293,188,36,166
@@ -4316,10 +3880,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Monta Ellis,Indiana Pacers,74,630,236,27,204
 2017,Joel Embiid,Philadelphia 76ers,31,627,66,76,243
 2017,James Ennis,Memphis Grizzlies,64,429,64,19,259
-2017,Tyler Ennis,Total,53,228,86,2,46
 2017,Tyler Ennis,Houston Rockets,31,58,34,0,19
 2017,Tyler Ennis,Los Angeles Lakers,22,170,52,2,27
-2017,Tyreke Evans,Total,40,411,124,9,137
 2017,Tyreke Evans,New Orleans Pelicans,26,248,91,4,86
 2017,Tyreke Evans,Sacramento Kings,14,163,33,5,51
 2017,Dante Exum,Utah Jazz,66,412,112,12,132
@@ -4329,7 +3891,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Kay Felder,Cleveland Cavaliers,42,166,58,7,41
 2017,Cristiano Felicio,Chicago Bulls,66,316,40,16,311
 2017,Raymond Felton,Los Angeles Clippers,80,538,191,22,217
-2017,Yogi Ferrell,Total,46,462,172,9,111
 2017,Yogi Ferrell,Brooklyn Nets,10,54,17,2,12
 2017,Yogi Ferrell,Dallas Mavericks,36,408,155,7,99
 2017,Dorian Finney-Smith,Dallas Mavericks,81,350,67,25,221
@@ -4339,7 +3900,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Tim Frazier,New Orleans Pelicans,65,464,335,6,173
 2017,Channing Frye,Cleveland Cavaliers,74,676,45,37,290
 2017,Danilo Gallinari,Denver Nuggets,63,1145,135,15,326
-2017,Langston Galloway,Total,74,585,93,6,156
 2017,Langston Galloway,New Orleans Pelicans,55,471,65,5,121
 2017,Langston Galloway,Sacramento Kings,19,114,28,1,35
 2017,Patricio Garino,Orlando Magic,5,0,0,0,7
@@ -4351,19 +3911,16 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Paul George,Indiana Pacers,75,1775,251,27,492
 2017,Marcus Georges-Hunt,Orlando Magic,5,14,3,0,9
 2017,Jonathan Gibson,Dallas Mavericks,17,106,26,0,22
-2017,Taj Gibson,Total,78,846,73,66,486
 2017,Taj Gibson,Chicago Bulls,55,639,60,51,383
 2017,Taj Gibson,Oklahoma City Thunder,23,207,13,15,103
 2017,Manu Ginobili,San Antonio Spurs,69,517,183,16,157
 2017,Rudy Gobert,Utah Jazz,81,1137,97,214,1035
-2017,Archie Goodwin,Total,15,110,24,5,28
 2017,Archie Goodwin,New Orleans Pelicans,3,15,1,1,0
 2017,Archie Goodwin,Brooklyn Nets,12,95,23,4,28
 2017,Aaron Gordon,Orlando Magic,80,1019,150,40,405
 2017,Eric Gordon,Houston Rockets,75,1217,188,40,201
 2017,Marcin Gortat,Washington Wizards,82,883,121,65,849
 2017,Treveon Graham,Chicago Bruins,27,57,6,1,22
-2017,Jerami Grant,Total,80,437,46,79,206
 2017,Jerami Grant,Philadelphia 76ers,2,16,0,4,7
 2017,Jerami Grant,Oklahoma City Thunder,78,421,46,75,199
 2017,Jerian Grant,Chicago Bulls,63,370,120,8,111
@@ -4388,7 +3945,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Aaron Harrison,Chicago Bruins,5,1,3,0,3
 2017,Andrew Harrison,Memphis Grizzlies,72,425,198,20,136
 2017,Udonis Haslem,Miami Heat,17,31,6,1,36
-2017,Spencer Hawes,Total,54,337,81,30,191
 2017,Spencer Hawes,Chicago Bruins,35,254,62,26,146
 2017,Spencer Hawes,Milwaukee Bucks,19,83,19,4,45
 2017,Gordon Hayward,Utah Jazz,73,1601,252,20,393
@@ -4397,10 +3953,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Juan Hernangomez,Denver Nuggets,62,305,29,12,187
 2017,Willy Hernangomez,New York Knicks,72,587,96,36,502
 2017,Mario Hezonja,Orlando Magic,65,317,62,14,146
-2017,Roy Hibbert,Total,48,221,21,46,154
 2017,Roy Hibbert,Chicago Bruins,42,217,20,44,152
 2017,Roy Hibbert,Denver Nuggets,6,4,1,2,2
-2017,Buddy Hield,Total,82,866,121,9,269
 2017,Buddy Hield,New Orleans Pelicans,57,488,77,7,166
 2017,Buddy Hield,Sacramento Kings,25,378,44,2,103
 2017,Nene Hilario,Houston Rockets,67,609,65,40,281
@@ -4420,11 +3974,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Josh Huestis,Oklahoma City Thunder,2,14,3,3,9
 2017,Kris Humphries,Atlanta Hawks,56,257,29,21,206
 2017,R.J. Hunter,Chicago Bulls,3,0,0,0,1
-2017,Serge Ibaka,Total,79,1173,75,124,538
 2017,Serge Ibaka,Orlando Magic,56,846,60,91,382
 2017,Serge Ibaka,Toronto Raptors,23,327,15,33,156
 2017,Andre Iguodala,Golden State Warriors,76,574,262,39,304
-2017,Ersan Ilyasova,Total,82,1071,141,23,481
 2017,Ersan Ilyasova,Oklahoma City Thunder,3,15,1,1,16
 2017,Ersan Ilyasova,Philadelphia 76ers,53,786,97,14,314
 2017,Ersan Ilyasova,Atlanta Hawks,26,270,43,8,151
@@ -4439,7 +3991,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Al Jefferson,Indiana Pacers,66,535,57,16,278
 2017,Richard Jefferson,Cleveland Cavaliers,79,448,78,10,202
 2017,John Jenkins,Phoenix Suns,4,7,1,0,1
-2017,Brandon Jennings,Total,81,577,395,5,196
 2017,Brandon Jennings,New York Knicks,58,496,287,5,152
 2017,Brandon Jennings,Washington Wizards,23,81,108,0,44
 2017,Jonas Jerebko,Boston Celtics,78,299,71,17,273
@@ -4455,7 +4006,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Damian Jones,Golden State Warriors,10,19,0,4,23
 2017,Derrick Jones,Phoenix Suns,32,168,12,13,79
 2017,James Jones,Cleveland Cavaliers,48,132,14,10,38
-2017,Terrence Jones,Total,54,584,58,54,306
 2017,Terrence Jones,New Orleans Pelicans,51,584,58,53,303
 2017,Terrence Jones,Milwaukee Bucks,3,0,0,1,3
 2017,Tyus Jones,Minnesota Timberwolves,60,209,156,5,67
@@ -4467,7 +4017,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Michael Kidd-Gilchrist,Chicago Bruins,81,743,114,77,565
 2017,Sean Kilpatrick,Brooklyn Nets,70,919,157,6,280
 2017,Brandon Knight,Phoenix Suns,54,595,130,5,118
-2017,Kyle Korver,Total,67,678,110,21,187
 2017,Kyle Korver,Atlanta Hawks,32,305,75,13,90
 2017,Kyle Korver,Cleveland Cavaliers,35,373,35,8,97
 2017,Kosta Koufos,Sacramento Kings,71,470,47,48,403
@@ -4475,7 +4024,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Skal Labissiere,Sacramento Kings,33,289,27,13,162
 2017,Jeremy Lamb,Chicago Bruins,62,603,75,23,264
 2017,Nicolas Laprovittola,San Antonio Spurs,18,59,28,1,10
-2017,Joffrey Lauvergne,Total,70,375,70,6,251
 2017,Joffrey Lauvergne,Oklahoma City Thunder,50,286,51,6,183
 2017,Joffrey Lauvergne,Chicago Bulls,20,89,19,0,68
 2017,Zach LaVine,Minnesota Timberwolves,47,889,139,10,159
@@ -4488,7 +4036,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Meyers Leonard,Portland Trail Blazers,74,401,71,28,236
 2017,Jon Leuer,Detroit Pistons,75,767,111,26,402
 2017,Caris LeVert,Brooklyn Nets,57,468,110,8,188
-2017,DeAndre Liggins,Total,62,152,54,14,108
 2017,DeAndre Liggins,Cleveland Cavaliers,61,144,54,14,101
 2017,DeAndre Liggins,Dallas Mavericks,1,8,0,0,7
 2017,Damian Lillard,Portland Trail Blazers,75,2024,439,20,368
@@ -4515,13 +4062,10 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Sheldon McClellan,Washington Wizards,30,90,15,2,34
 2017,C.J. McCollum,Portland Trail Blazers,80,1837,285,42,291
 2017,T.J. McConnell,Philadelphia 76ers,81,556,534,10,251
-2017,Chris McCullough,Total,16,36,2,2,19
 2017,Chris McCullough,Brooklyn Nets,14,35,2,2,17
 2017,Chris McCullough,Washington Wizards,2,1,0,0,2
-2017,K.J. McDaniels,Total,49,206,13,18,82
 2017,K.J. McDaniels,Houston Rockets,29,80,4,8,30
 2017,K.J. McDaniels,Brooklyn Nets,20,126,9,10,52
-2017,Doug McDermott,Total,66,592,58,5,179
 2017,Doug McDermott,Chicago Bulls,44,447,45,4,130
 2017,Doug McDermott,Oklahoma City Thunder,22,145,13,1,49
 2017,JaVale McGee,Golden State Warriors,77,472,17,67,244
@@ -4543,7 +4087,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,E'Twaun Moore,New Orleans Pelicans,73,700,164,32,152
 2017,Marcus Morris,Detroit Pistons,79,1105,160,25,366
 2017,Markieff Morris,Washington Wizards,76,1063,126,42,492
-2017,Anthony Morrow,Total,49,271,25,2,31
 2017,Anthony Morrow,Oklahoma City Thunder,40,230,19,2,29
 2017,Anthony Morrow,Chicago Bulls,9,41,6,0,2
 2017,Donatas Motiejunas,New Orleans Pelicans,34,150,34,11,101
@@ -4560,21 +4103,17 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Jameer Nelson,Denver Nuggets,75,687,385,8,192
 2017,Raul Neto,Utah Jazz,40,100,34,5,30
 2017,Georges Niang,Indiana Pacers,23,21,5,0,17
-2017,Andrew Nicholson,Total,38,100,10,6,61
 2017,Andrew Nicholson,Washington Wizards,28,70,7,6,34
 2017,Andrew Nicholson,Brooklyn Nets,10,30,3,0,27
 2017,Joakim Noah,New York Knicks,46,232,103,37,402
-2017,Nerlens Noel,Total,51,445,50,51,294
 2017,Nerlens Noel,Philadelphia 76ers,29,257,30,26,144
 2017,Nerlens Noel,Dallas Mavericks,22,188,20,25,150
 2017,Lucas Nogueira,Toronto Raptors,57,253,42,90,243
 2017,Steve Novak,Milwaukee Bucks,8,5,0,0,3
 2017,Dirk Nowitzki,Dallas Mavericks,54,769,82,38,353
-2017,Jusuf Nurkic,Total,65,662,123,74,467
 2017,Jusuf Nurkic,Denver Nuggets,45,358,60,36,260
 2017,Jusuf Nurkic,Portland Trail Blazers,20,304,63,38,207
 2017,David Nwaba,Los Angeles Lakers,20,120,14,7,62
-2017,Johnny O'Bryant,Total,11,38,6,1,19
 2017,Johnny O'Bryant,Denver Nuggets,7,20,2,1,11
 2017,Johnny O'Bryant,Chicago Bruins,4,18,4,0,8
 2017,Kyle O'Quinn,New York Knicks,79,496,117,104,439
@@ -4594,17 +4133,14 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Patrick Patterson,Toronto Raptors,65,445,76,23,291
 2017,Chris Paul,Los Angeles Clippers,61,1104,563,8,304
 2017,Adreian Payne,Minnesota Timberwolves,18,63,7,7,33
-2017,Cameron Payne,Total,31,160,55,5,48
 2017,Cameron Payne,Oklahoma City Thunder,20,106,40,5,31
 2017,Cameron Payne,Chicago Bulls,11,54,15,0,17
 2017,Elfrid Payton,Orlando Magic,82,1046,529,40,387
 2017,Gary Payton,Milwaukee Bucks,6,20,13,4,12
 2017,Paul Pierce,Los Angeles Clippers,25,81,10,5,48
 2017,Marshall Plumlee,New York Knicks,21,40,10,4,51
-2017,Mason Plumlee,Total,81,842,284,92,606
 2017,Mason Plumlee,Portland Trail Blazers,54,597,214,63,433
 2017,Mason Plumlee,Denver Nuggets,27,245,70,29,173
-2017,Miles Plumlee,Total,45,113,21,13,95
 2017,Miles Plumlee,Milwaukee Bucks,32,82,18,9,53
 2017,Miles Plumlee,Chicago Bruins,13,31,3,4,42
 2017,Jakob Poeltl,Toronto Raptors,54,165,12,20,165
@@ -4616,7 +4152,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Alex Poythress,Philadelphia 76ers,6,64,5,2,29
 2017,Ronnie Price,Phoenix Suns,14,14,18,1,11
 2017,Tim Quarterman,Portland Trail Blazers,16,31,11,3,14
-2017,Chasson Randle,Total,26,137,34,2,32
 2017,Chasson Randle,Philadelphia 76ers,8,42,6,1,5
 2017,Chasson Randle,New York Knicks,18,95,28,1,27
 2017,Julius Randle,Los Angeles Lakers,74,975,264,37,636
@@ -4633,7 +4168,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Sergio Rodriguez,Philadelphia 76ers,68,530,344,4,157
 2017,Rajon Rondo,Chicago Bulls,69,538,461,11,355
 2017,Derrick Rose,New York Knicks,64,1154,283,17,246
-2017,Terrence Ross,Total,78,858,88,33,207
 2017,Terrence Ross,Toronto Raptors,54,559,45,20,139
 2017,Terrence Ross,Orlando Magic,24,299,43,13,68
 2017,Terry Rozier,Boston Celtics,74,410,131,11,227
@@ -4649,7 +4183,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Luis Scola,Brooklyn Nets,36,184,37,4,139
 2017,Mike Scott,Atlanta Hawks,18,45,17,3,37
 2017,Thabo Sefolosha,Atlanta Hawks,62,444,107,31,270
-2017,Wayne Selden,Total,14,71,13,1,16
 2017,Wayne Selden,New Orleans Pelicans,3,16,1,0,5
 2017,Wayne Selden,Memphis Grizzlies,11,55,12,1,11
 2017,Kevin Seraphin,Indiana Pacers,49,232,23,20,142
@@ -4666,7 +4199,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Marreese Speights,Los Angeles Clippers,82,711,66,41,373
 2017,Tiago Splitter,Philadelphia 76ers,8,39,4,1,22
 2017,Nik Stauskas,Philadelphia 76ers,80,756,188,32,226
-2017,Lance Stephenson,Total,18,122,59,3,52
 2017,Lance Stephenson,New Orleans Pelicans,6,58,29,1,18
 2017,Lance Stephenson,Minnesota Timberwolves,6,21,5,0,10
 2017,Lance Stephenson,Indiana Pacers,6,43,25,2,24
@@ -4674,7 +4206,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Diamond Stone,Los Angeles Clippers,7,10,0,1,6
 2017,Rodney Stuckey,Indiana Pacers,39,281,84,0,84
 2017,Jared Sullinger,Toronto Raptors,11,37,3,1,27
-2017,Edy Tavares,Total,2,8,1,6,11
 2017,Edy Tavares,Atlanta Hawks,1,2,0,0,1
 2017,Edy Tavares,Cleveland Cavaliers,1,6,1,6,10
 2017,Isaiah Taylor,Houston Rockets,4,3,3,1,3
@@ -4684,7 +4215,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Jason Terry,Milwaukee Bucks,74,307,98,20,106
 2017,Isaiah Thomas,Boston Celtics,76,2199,449,13,205
 2017,Lance Thomas,New York Knicks,46,275,35,5,142
-2017,Hollis Thompson,Total,40,205,35,6,111
 2017,Hollis Thompson,Philadelphia 76ers,31,171,26,6,83
 2017,Hollis Thompson,New Orleans Pelicans,9,34,9,0,28
 2017,Klay Thompson,Golden State Warriors,78,1742,160,40,285
@@ -4692,11 +4222,9 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Marcus Thornton,Washington Wizards,33,219,41,3,76
 2017,Mike Tobey,Chicago Bruins,2,2,1,0,3
 2017,Anthony Tolliver,Sacramento Kings,65,461,77,20,239
-2017,Axel Toupane,Total,4,11,0,1,1
 2017,Axel Toupane,Milwaukee Bucks,2,0,0,0,0
 2017,Axel Toupane,New Orleans Pelicans,2,11,0,1,1
 2017,Karl-Anthony Towns,Minnesota Timberwolves,82,2061,220,103,1007
-2017,P.J. Tucker,Total,81,540,99,19,472
 2017,P.J. Tucker,Phoenix Suns,57,401,73,14,343
 2017,P.J. Tucker,Toronto Raptors,24,139,26,5,129
 2017,Evan Turner,Portland Trail Blazers,65,586,205,24,247
@@ -4720,7 +4248,6 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Taurean Waller-Prince,Atlanta Hawks,59,335,55,27,157
 2017,T.J. Warren,Phoenix Suns,66,951,75,39,339
 2017,C.J. Watson,Orlando Magic,62,281,114,2,89
-2017,Briante Weber,Total,20,62,21,1,26
 2017,Briante Weber,Golden State Warriors,7,12,5,1,4
 2017,Briante Weber,Chicago Bruins,13,50,16,0,22
 2017,David West,Golden State Warriors,68,316,151,48,203
@@ -4731,18 +4258,14 @@ year,player,team,games,points,assists,blocks,rebounds
 2017,Andrew Wiggins,Minnesota Timberwolves,82,1933,189,30,329
 2017,C.J. Wilcox,Orlando Magic,22,21,12,1,12
 2017,Alan Williams,Phoenix Suns,47,346,23,32,292
-2017,Deron Williams,Total,64,701,360,8,147
 2017,Deron Williams,Dallas Mavericks,40,522,274,2,102
 2017,Deron Williams,Cleveland Cavaliers,24,179,86,6,45
-2017,Derrick Williams,Total,50,304,28,7,130
 2017,Derrick Williams,Miami Heat,25,148,14,5,73
 2017,Derrick Williams,Cleveland Cavaliers,25,156,14,2,57
-2017,Lou Williams,Total,81,1421,239,19,202
 2017,Lou Williams,Los Angeles Lakers,58,1078,183,10,132
 2017,Lou Williams,Houston Rockets,23,343,56,9,70
 2017,Marvin Williams,Chicago Bruins,76,849,106,53,498
 2017,Reggie Williams,New Orleans Pelicans,6,27,4,0,6
-2017,Troy Williams,Total,30,185,25,10,69
 2017,Troy Williams,Memphis Grizzlies,24,127,19,9,45
 2017,Troy Williams,Houston Rockets,6,58,6,1,24
 2017,Kyle Wiltjer,Houston Rockets,14,13,2,1,10
