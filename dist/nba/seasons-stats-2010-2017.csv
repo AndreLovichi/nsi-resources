@@ -241,8 +241,8 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Zydrunas Ilgauskas,Cleveland Cavaliers,64,474,48,50,345
 2010,Didier Ilunga-Mbenga,Los Angeles Lakers,49,105,8,29,87
 2010,Ersan Ilyasova,Milwaukee Bucks,81,840,84,23,517
-2010,Allen Iverson*,Memphis Grizzlies,3,37,11,0,4
-2010,Allen Iverson*,Philadelphia 76ers,25,348,102,2,75
+2010,Allen Iverson,Memphis Grizzlies,3,37,11,0,4
+2010,Allen Iverson,Philadelphia 76ers,25,348,102,2,75
 2010,Royal Ivey,Philadelphia 76ers,26,70,17,2,26
 2010,Royal Ivey,Milwaukee Bucks,18,23,10,0,8
 2010,Jarrett Jack,Toronto Raptors,82,931,413,6,222
@@ -361,7 +361,7 @@ year,player,team,games,points,assists,blocks,rebounds
 2010,Dirk Nowitzki,Dallas Mavericks,81,2027,218,79,620
 2010,Patrick O'Bryant,Toronto Raptors,11,19,1,4,11
 2010,Jermaine O'Neal,Miami Heat,70,950,92,95,486
-2010,Shaquille O'Neal*,Cleveland Cavaliers,53,636,80,62,355
+2010,Shaquille O'Neal,Cleveland Cavaliers,53,636,80,62,355
 2010,Fabricio Oberto,Washington Wizards,57,83,51,9,105
 2010,Greg Oden,Portland Trail Blazers,21,233,19,48,178
 2010,Lamar Odom,Los Angeles Lakers,82,882,267,59,802
@@ -862,7 +862,7 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Mike Miller,Miami Heat,41,228,51,2,184
 2011,Patty Mills,Portland Trail Blazers,64,353,109,1,51
 2011,Paul Millsap,Utah Jazz,76,1315,187,69,579
-2011,Yao Ming*,Houston Rockets,5,51,4,8,27
+2011,Yao Ming,Houston Rockets,5,51,4,8,27
 2011,Nazr Mohammed,Charlotte Hornets,51,370,17,46,252
 2011,Nazr Mohammed,Oklahoma City Thunder,24,165,6,10,116
 2011,Greg Monroe,Detroit Pistons,80,751,105,45,601
@@ -885,7 +885,7 @@ year,player,team,games,points,assists,blocks,rebounds
 2011,Steve Novak,San Antonio Spurs,23,93,3,5,23
 2011,Dirk Nowitzki,Dallas Mavericks,73,1681,190,47,513
 2011,Jermaine O'Neal,Boston Celtics,24,129,12,30,88
-2011,Shaquille O'Neal*,Boston Celtics,37,341,26,42,178
+2011,Shaquille O'Neal,Boston Celtics,37,341,26,42,178
 2011,Fabricio Oberto,Portland Trail Blazers,5,7,0,0,7
 2011,Lamar Odom,Los Angeles Lakers,82,1180,249,61,710
 2011,Emeka Okafor,New Orleans Hurricanes,72,745,42,127,684

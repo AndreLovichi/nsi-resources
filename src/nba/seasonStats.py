@@ -11,7 +11,7 @@ DIST_CSV_HEADERS = ["year", "player", "team", "games", "points", "assists", "blo
 class SeasonStats:
     def __init__(self, rawLine):
         self.year = parsers.parseInteger(rawLine["Year"])
-        self.player = rawLine["Player"]
+        self.player = rawLine["Player"].replace("*", "")
         self.team = nba.teamAbbreviations.ABBREVIATIONS[rawLine["Tm"]]
         self.games = parsers.parseInteger(rawLine["G"])
         self.points = parsers.parseInteger(rawLine["PTS"])
