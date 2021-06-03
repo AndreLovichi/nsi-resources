@@ -8,6 +8,8 @@ import nba.seasonStats
 import swapi.movies
 import swapi.planets
 
+import trollsEtChateaux.troll as troll
+
 # disney.movies.createMovieCSV1()
 # disney.movies.createMovieCSV2()
 # disney.voiceActors.createVoiceActorCSV()
@@ -15,12 +17,15 @@ import swapi.planets
 #harryPotter.characters.createCharacterCSV()
 #harryPotter.spells.createSpellCSV()
 
-nba.players.createPlayerCSV1()
-nba.players.createPlayerCSV2()
-nba.seasonStats.createSeasonStatsCSV1()
-nba.seasonStats.createSeasonStatsCSV2()
+# nba.players.createPlayerCSV1()
+# nba.players.createPlayerCSV2()
+# nba.seasonStats.createSeasonStatsCSV1()
+# nba.seasonStats.createSeasonStatsCSV2()
 
 #marvel.characters.createCharacterCSV()
 
 #swapi.movies.createMovieCSV()
 #swapi.planets.createPlanetCSV()
+
+partie0 = troll.Partie(7, 15)
+print(partie0)
