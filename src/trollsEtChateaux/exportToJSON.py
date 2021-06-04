@@ -2,7 +2,7 @@
 # -*-coding:utf-8 -*
 
 import json
-from trollsEtChateaux.troll import *
+from trollsEtChateaux import *
 from trollsEtChateaux.rankings import *
 
 class StrategyEncoder(json.JSONEncoder):

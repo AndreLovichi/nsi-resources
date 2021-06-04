@@ -2,7 +2,7 @@
 # -*-coding:utf-8 -*
 
 import tkinter
-from trollsEtChateaux.troll import *
+from trollsEtChateaux.entities import *
 
 class GUI(tkinter.Tk):
     """Fenêtre graphique pour l'affichage d'une partie de Trolls et Chateaux"""
